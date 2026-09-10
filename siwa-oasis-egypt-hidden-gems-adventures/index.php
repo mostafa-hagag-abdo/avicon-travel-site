@@ -1,0 +1,1 @@
+<?php header('Location: /blog/siwa-oasis-egypt-hidden-gems-adventures/', true, 301); exit;

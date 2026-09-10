@@ -1,0 +1,1 @@
+<?php header('Location: /blog/aswan-egypt-guide-temples-nubian-villages-sunsets/', true, 301); exit;

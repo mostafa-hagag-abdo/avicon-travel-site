@@ -1,0 +1,1 @@
+<?php header('Location: /blog/egypt-packing-list-essential-items/', true, 301); exit;

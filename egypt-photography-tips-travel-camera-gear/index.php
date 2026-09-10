@@ -1,0 +1,1 @@
+<?php header('Location: /blog/egypt-photography-tips-travel-camera-gear/', true, 301); exit;

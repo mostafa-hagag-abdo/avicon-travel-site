@@ -1,0 +1,1 @@
+<?php header('Location: /nile-cruises/sanctuary-sun-boat-iii-nile-cruise/', true, 301); exit;

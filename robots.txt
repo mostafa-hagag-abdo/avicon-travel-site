@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /includes/
+Sitemap: https://avicontravel.com/sitemap.xml

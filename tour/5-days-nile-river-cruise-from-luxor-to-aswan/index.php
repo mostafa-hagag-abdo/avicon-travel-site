@@ -1,0 +1,1 @@
+<?php header('Location: /nile-cruises/5-days-nile-river-cruise-from-luxor-to-aswan/', true, 301); exit;

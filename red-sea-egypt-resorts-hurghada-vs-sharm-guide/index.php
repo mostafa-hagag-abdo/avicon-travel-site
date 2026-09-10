@@ -1,0 +1,1 @@
+<?php header('Location: /blog/red-sea-egypt-resorts-hurghada-vs-sharm-guide/', true, 301); exit;

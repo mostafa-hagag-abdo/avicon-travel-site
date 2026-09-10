@@ -1,0 +1,1 @@
+<?php header('Location: /tours/giza-pyramids-saqqara-tour/', true, 301); exit;

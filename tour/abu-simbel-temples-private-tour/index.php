@@ -1,0 +1,1 @@
+<?php header('Location: /tours/abu-simbel-temples-private-tour/', true, 301); exit;

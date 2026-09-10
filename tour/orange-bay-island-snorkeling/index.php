@@ -1,0 +1,1 @@
+<?php header('Location: /tours/orange-bay-island-snorkeling/', true, 301); exit;

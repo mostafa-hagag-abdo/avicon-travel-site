@@ -1,0 +1,1 @@
+<?php header('Location: /packages/4-days-christmas-new-year-nile-cruise/', true, 301); exit;

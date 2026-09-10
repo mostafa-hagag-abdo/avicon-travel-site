@@ -1,0 +1,1 @@
+<?php header('Location: /nile-cruises/', true, 301); exit;

@@ -1,0 +1,1 @@
+<?php header('Location: /tours/cairo-dinner-nile-cruise/', true, 301); exit;

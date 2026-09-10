@@ -1,0 +1,1 @@
+<?php header('Location: /tours/luxor-hot-air-balloon/', true, 301); exit;

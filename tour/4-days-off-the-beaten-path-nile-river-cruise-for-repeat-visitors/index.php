@@ -1,0 +1,1 @@
+<?php header('Location: /nile-cruises/4-days-off-the-beaten-path-nile-river-cruise-for-repeat-visitors/', true, 301); exit;

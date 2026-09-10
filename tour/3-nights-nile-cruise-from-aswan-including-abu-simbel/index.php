@@ -1,0 +1,1 @@
+<?php header('Location: /nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/', true, 301); exit;

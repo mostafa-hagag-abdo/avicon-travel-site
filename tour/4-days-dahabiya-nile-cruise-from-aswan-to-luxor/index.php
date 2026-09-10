@@ -1,0 +1,1 @@
+<?php header('Location: /nile-cruises/4-days-dahabiya-nile-cruise-from-aswan-to-luxor/', true, 301); exit;

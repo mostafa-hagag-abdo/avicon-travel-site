@@ -1,0 +1,1 @@
+<?php header('Location: /tours/ras-mohammed-snorkeling/', true, 301); exit;

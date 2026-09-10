@@ -1,0 +1,1 @@
+<?php header('Location: /packages/total-solar-eclipse-tour-2027/', true, 301); exit;

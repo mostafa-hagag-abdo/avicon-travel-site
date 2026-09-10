@@ -1,0 +1,1 @@
+<?php header('Location: /nile-cruises/5-days-hidden-treasures-nile-cruise-for-returning-visitors/', true, 301); exit;

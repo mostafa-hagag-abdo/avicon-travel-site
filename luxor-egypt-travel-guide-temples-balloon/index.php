@@ -1,0 +1,1 @@
+<?php header('Location: /blog/luxor-egypt-travel-guide-temples-balloon/', true, 301); exit;

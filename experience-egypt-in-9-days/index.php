@@ -1,0 +1,1 @@
+<?php header('Location: /packages/experience-egypt-in-9-days/', true, 301); exit;

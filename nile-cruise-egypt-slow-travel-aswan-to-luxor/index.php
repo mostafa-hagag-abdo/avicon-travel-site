@@ -1,0 +1,1 @@
+<?php header('Location: /blog/nile-cruise-egypt-slow-travel-aswan-to-luxor/', true, 301); exit;

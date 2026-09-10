@@ -1,0 +1,1 @@
+<?php header('Location: /nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/', true, 301); exit;

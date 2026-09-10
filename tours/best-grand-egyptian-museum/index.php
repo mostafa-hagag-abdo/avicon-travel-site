@@ -1,0 +1,1 @@
+<?php header('Location: /tours/grand-egyptian-museum-pyramids-tour/', true, 301); exit;

@@ -1,0 +1,1 @@
+<?php header('Location: /nile-cruises/movenpick-ms-royal-lily-nile-cruise/', true, 301); exit;

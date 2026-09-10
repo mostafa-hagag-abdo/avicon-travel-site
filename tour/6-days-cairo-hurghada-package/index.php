@@ -1,0 +1,1 @@
+<?php header('Location: /packages/6-days-cairo-hurghada-package/', true, 301); exit;

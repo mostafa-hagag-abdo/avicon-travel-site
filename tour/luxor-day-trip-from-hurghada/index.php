@@ -1,0 +1,1 @@
+<?php header('Location: /tours/luxor-day-trip-from-hurghada/', true, 301); exit;

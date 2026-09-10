@@ -1,0 +1,1 @@
+<?php header('Location: /blog/egyptian-food-guide-authentic-flavors/', true, 301); exit;

@@ -1,0 +1,1 @@
+<?php header('Location: /blog/egypt-sim-card-tourist-guide-nile-cruise/', true, 301); exit;

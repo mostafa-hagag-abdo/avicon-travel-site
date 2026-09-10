@@ -1,0 +1,1 @@
+<?php header('Location: /blog/cairo-travel-guide-pyramids-museums-bazaars/', true, 301); exit;

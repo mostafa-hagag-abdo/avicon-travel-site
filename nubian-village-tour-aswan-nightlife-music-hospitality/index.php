@@ -1,0 +1,1 @@
+<?php header('Location: /blog/nubian-village-tour-aswan-nightlife-music-hospitality/', true, 301); exit;

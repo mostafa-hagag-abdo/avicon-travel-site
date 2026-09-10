@@ -1,0 +1,1 @@
+<?php header('Location: /packages/8-days-cairo-abu-simbel-luxor-hurghada/', true, 301); exit;

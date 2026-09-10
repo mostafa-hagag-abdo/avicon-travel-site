@@ -1,0 +1,1 @@
+<?php header('Location: /packages/12-days-egypt-tour-to-cairo/', true, 301); exit;

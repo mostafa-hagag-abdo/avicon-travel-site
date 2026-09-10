@@ -1,0 +1,1 @@
+<?php header('Location: /packages/private-4-days-cairo-tour-package/', true, 301); exit;

@@ -1,0 +1,86 @@
+/* ThemeOption Dashboard Logo css  */
+#adminmenu div.wp-menu-image img {
+    height: 24px;
+    padding: 5px 0 0;
+}
+
+/* My custom icon CSF  */
+.egns-icon-twitter::before {
+    width: 16px;
+    line-height: 10px;
+    content: url(../img/custom-icon/x-twitter-brands.svg);
+}
+
+.css-1n451hs {
+    justify-content: unset;
+    height: auto;
+}
+
+/* dashboard  */
+
+
+/* CSF Code  */
+.csf-field h4 {
+    margin: 0;
+}
+
+.csf-field-group .csf-cloneable-item {
+    margin-bottom: 10px;
+}
+
+.egns_header_select.csf-field-image_select .csf--active figure {
+    border-color: rgb(34 34 34 / 20%);
+    box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+}
+
+.egns_header_select.csf-field-image_select figure img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: top;
+    box-shadow: 0 0 2px rgb(0 0 0 / 30%);
+}
+
+.csf-field.csf-field-number.egns-130 input {
+    width: 130px;
+}
+
+.csf-field.csf-field-text.egns_txt input {
+    margin: 0;
+    width: 100%;
+}
+
+.csf-field.csf-field-media.egns_desc input.csf--url {
+    width: calc(50% - 65px);
+}
+
+.csf-field.csf-field-media.egns_desc input,
+.csf-field.csf-field-textarea.egns_desc textarea {
+    width: 50%;
+}
+
+.csf-field.csf-field-textarea.egns_desc.shortcode textarea {
+    width: 50%;
+    min-height: 60px;
+}
+
+.csf-field.csf-field-repeater.egns_rpt .csf-title {
+    width: 10%;
+}
+
+.csf-field.csf-field-repeater.egns_rpt .csf-fieldset {
+    width: calc(90% - 20px);
+}
+
+.csf-field .csf-fieldset table.group-price {
+    width: 100%;
+    text-align: left;
+    background: aliceblue;
+    padding: 4px;
+    border-spacing: 20px;
+}
+
+.csf-field .csf-fieldset table.group-price td.group-price-title {
+    color: #7e7e7e;
+    font-size: 14px;
+    font-weight: 500;
+}

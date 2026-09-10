@@ -1,0 +1,1 @@
+<?php header('Location: /tours/saqqara-memphis-dahshur-day-trip-from-cairo/', true, 301); exit;
