@@ -1,0 +1,42 @@
+# Push to main -> changed files are uploaded to Hostinger over FTPS.
+#
+# Stays OFF until these exist in the repo (Settings -> Secrets and variables -> Actions):
+#   Secrets:   FTP_SERVER, FTP_USERNAME, FTP_PASSWORD
+#   Variables: DEPLOY_ENABLED = true
+#              FTP_SERVER_DIR  (optional; default "./" = the FTP account's own folder.
+#                               Use "public_html/" if the FTP account starts one level above it)
+#
+# The first run uploads every file; after that only what changed (a small
+# .ftp-deploy-sync-state.json on the server keeps track — .htaccess blocks it from the web).
+
+name: Deploy to Hostinger
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-production
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: ${{ vars.DEPLOY_ENABLED == 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Upload changed files (FTPS)
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          server-dir: ${{ vars.FTP_SERVER_DIR || './' }}
+          exclude: |
+            **/.git*
+            **/.git*/**
+            .github/**
