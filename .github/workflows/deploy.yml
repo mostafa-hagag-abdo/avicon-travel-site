@@ -1,13 +1,15 @@
-# Push to main -> changed files are uploaded to Hostinger over FTPS.
+# Push to main -> the site on Hostinger is updated with rsync over SSH.
+# rsync compares file contents and only sends what changed, over one encrypted connection.
 #
 # Stays OFF until these exist in the repo (Settings -> Secrets and variables -> Actions):
-#   Secrets:   FTP_SERVER, FTP_USERNAME, FTP_PASSWORD
-#   Variables: DEPLOY_ENABLED = true
-#              FTP_SERVER_DIR  (optional; default "./" = the FTP account's own folder.
-#                               Use "public_html/" if the FTP account starts one level above it)
+#   Secret:    SSH_PRIVATE_KEY  (private half of the deploy key; the public half is in hPanel -> SSH Access -> SSH keys)
+#   Variable:  DEPLOY_ENABLED = true
+# Optional variables (defaults = hPanel -> Advanced -> SSH Access):
+#   SSH_HOST (77.37.37.35), SSH_USER (u628862379), SSH_PORT (65002),
+#   REMOTE_DIR (domains/avicontravel.com/public_html/, relative to the SSH home)
 #
-# The first run uploads every file; after that only what changed (a small
-# .ftp-deploy-sync-state.json on the server keeps track — .htaccess blocks it from the web).
+# Files that exist only on the server are left alone (no --delete), so nothing
+# like a Search Console verification file can be wiped by a deploy.
 
 name: Deploy to Hostinger
 
@@ -24,19 +26,25 @@ jobs:
   deploy:
     if: ${{ vars.DEPLOY_ENABLED == 'true' }}
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - name: Upload changed files (FTPS)
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          protocol: ftps
-          server-dir: ${{ vars.FTP_SERVER_DIR || './' }}
-          exclude: |
-            **/.git*
-            **/.git*/**
-            .github/**
+      - name: Sync changed files (rsync over SSH)
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          SSH_HOST: ${{ vars.SSH_HOST || '77.37.37.35' }}
+          SSH_USER: ${{ vars.SSH_USER || 'u628862379' }}
+          SSH_PORT: ${{ vars.SSH_PORT || '65002' }}
+          REMOTE_DIR: ${{ vars.REMOTE_DIR || 'domains/avicontravel.com/public_html/' }}
+        run: |
+          [ -n "$SSH_PRIVATE_KEY" ] || { echo "::error::Missing repository secret SSH_PRIVATE_KEY"; exit 1; }
+          install -m 700 -d ~/.ssh
+          # strip CRs in case the key was pasted from a Windows file
+          printf '%s\n' "$SSH_PRIVATE_KEY" | tr -d '\r' > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          ssh-keyscan -p "$SSH_PORT" "$SSH_HOST" >> ~/.ssh/known_hosts 2>/dev/null
+          rsync -rlz --checksum --itemize-changes --chmod=D755,F644 \
+            --exclude='.git*' --exclude='.github/' --exclude='.ftp-deploy-sync-state.json' \
+            -e "ssh -i ~/.ssh/deploy_key -p $SSH_PORT" \
+            ./ "$SSH_USER@$SSH_HOST:$REMOTE_DIR"
