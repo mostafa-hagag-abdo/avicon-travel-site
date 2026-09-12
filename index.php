@@ -4,6 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
 	<meta name="google-site-verification" content="tg-4j0gWTy97LNMoz4rIx7nSHwbQRbLaan5AH-RKyXU" />
+	<meta name="msvalidate.01" content="6027CE41C6241E3403A9AAA707C2BB58" />
 
 	
 	
