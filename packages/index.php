@@ -37,7 +37,7 @@
 
 <link rel='dns-prefetch' href='//ajax.googleapis.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
 
 
 
@@ -106,8 +106,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel='stylesheet' id='blog-page-css' href='/assets/themes/gofly-main/assets/css/blog-and-pages.css?ver=1778267218' type='text/css' media='all' />
 <link rel='stylesheet' id='egns-style-css' href='/assets/themes/gofly-main/assets/css/style.css?ver=1778267218' type='text/css' media='all' />
 <link rel='stylesheet' id='egns-theme-css' href='/assets/themes/gofly-main/style.css?ver=34' type='text/css' media='all' />
-<link rel='stylesheet' id='fa5-css' href='https://use.fontawesome.com/releases/v5.13.0/css/all.css?ver=5.13.0' type='text/css' media='all' />
-<link rel='stylesheet' id='fa5-v4-shims-css' href='https://use.fontawesome.com/releases/v5.13.0/css/v4-shims.css?ver=5.13.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fa6-css' href='https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='wp-blocks-library-css' href='/assets/core/css/dist/block-library/style.min.css?ver=6.9.7' type='text/css' media='all' />
 <link rel='stylesheet' id='gofly-widgets-css' href='/assets/themes/gofly-main/assets/css/el-widgets.css?ver=1778267218' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-frontend-css' href='/assets/plugins/elementor/assets/css/frontend.min.css?ver=4.1.4' type='text/css' media='all' />
@@ -176,7 +175,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 				<div class="elementor-element elementor-element-16177f3 elementor-widget elementor-widget-html" data-id="16177f3" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
 					<style>
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;800&family=Poppins:wght@300;400;500;600;700&display=swap');
-@import url('https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.min.css');
 
 .av-egypt-packages{
   --primary:#1A3A6E;
@@ -595,7 +593,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <div class="strip-item"><i class="fas fa-landmark"></i><div><span>Culture</span><strong>Cairo, Luxor, Aswan</strong></div></div>
         <div class="strip-item"><i class="fas fa-water"></i><div><span>Nile Cruises</span><strong>Aswan & Luxor</strong></div></div>
         <div class="strip-item"><i class="fas fa-umbrella-beach"></i><div><span>Red Sea</span><strong>Hurghada Holidays</strong></div></div>
-        <div class="strip-item"><i class="fas fa-calendar-star"></i><div><span>Special Trips</span><strong>Christmas & Eclipse 2027</strong></div></div>
+        <div class="strip-item"><i class="fas fa-calendar-days"></i><div><span>Special Trips</span><strong>Christmas & Eclipse 2027</strong></div></div>
       </div>
     </div>
   </div>

@@ -68,7 +68,7 @@
 - [ ] الأداء: شيل WooCommerce وslick وleaflet وjquery-ui وdaterangepicker وdropzone، وFont Awesome نسخة واحدة
   - [x] 2026-09-12: اتشال 18 CSS و19 JS من كل الصفحات (WooCommerce وswiper وslick وleaflet وdaterangepicker وdropzone وgsap وfancybox وwow وغيرهم). الصفحة نزلت من 71 لـ 35 ملف، ومن 3.35MB لـ 2.09MB أصول. `custom.js` بتاع الثيم اتبدل بـ `assets/js/avicon-site.js` (قايمة الموبايل، والقوايم الفرعية، والبحث، والهيدر، وزرار الرجوع لفوق)
   - [x] About والبحث كانوا من غير jQuery، فكان Elementor بيضرب فيهم ← اتضاف
-  - [ ] Font Awesome: نسختين بيتحمّلوا (v5 من use.fontawesome.com، وv6 من jsdelivr) ← نسيب واحدة
+  - [x] Font Awesome (2026-09-13): نسخة واحدة 6.5.1 على كل الصفحات، بدل v5 وv4-shims وv6 مكررة (بـ @import في 16 صفحة). اتبدلت أيقونات مش موجودة في النسخة المجانية: fa-dam ← fa-water، وfa-tripadvisor ← fa-star، وfa-calendar-star ← fa-calendar-days
   - ملحوظة: jquery-ui core متساب لأن Elementor محتاجه
 - [ ] الـ CSS المتكرر جوه الصفحات → ملف واحد في الكاش
 - [ ] الصور → WebP/AVIF + `srcset` + `preload` لصورة الهيرو + تحميل الباقي وقت ما يظهر

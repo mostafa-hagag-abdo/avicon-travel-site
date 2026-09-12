@@ -41,7 +41,7 @@
 
 <link rel='dns-prefetch' href='//ajax.googleapis.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
 
 
 
@@ -116,8 +116,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel='stylesheet' id='blog-page-css' href='/assets/themes/gofly-main/assets/css/blog-and-pages.css?ver=1778267218' type='text/css' media='all' />
 <link rel='stylesheet' id='egns-style-css' href='/assets/themes/gofly-main/assets/css/style.css?ver=1778267218' type='text/css' media='all' />
 <link rel='stylesheet' id='egns-theme-css' href='/assets/themes/gofly-main/style.css?ver=21' type='text/css' media='all' />
-<link rel='stylesheet' id='fa5-css' href='https://use.fontawesome.com/releases/v5.13.0/css/all.css?ver=5.13.0' type='text/css' media='all' />
-<link rel='stylesheet' id='fa5-v4-shims-css' href='https://use.fontawesome.com/releases/v5.13.0/css/v4-shims.css?ver=5.13.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fa6-css' href='https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='cmplz-banner-1-optin-css' href='/assets/uploads/complianz/css/banner-1-optin.css?ver=1785795917' type='text/css' media='all' />
 
 

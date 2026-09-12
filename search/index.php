@@ -20,7 +20,7 @@
 
 <link rel='dns-prefetch' href='//ajax.googleapis.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
 
 
 <style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
@@ -92,8 +92,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel='stylesheet' id='blog-page-css' href='/assets/themes/gofly-main/assets/css/blog-and-pages.css?ver=1778267218' type='text/css' media='all' />
 <link rel='stylesheet' id='egns-style-css' href='/assets/themes/gofly-main/assets/css/style.css?ver=1778267218' type='text/css' media='all' />
 <link rel='stylesheet' id='egns-theme-css' href='/assets/themes/gofly-main/style.css?ver=22' type='text/css' media='all' />
-<link rel='stylesheet' id='fa5-css' href='https://use.fontawesome.com/releases/v5.13.0/css/all.css?ver=5.13.0' type='text/css' media='all' />
-<link rel='stylesheet' id='fa5-v4-shims-css' href='https://use.fontawesome.com/releases/v5.13.0/css/v4-shims.css?ver=5.13.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fa6-css' href='https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='cmplz-banner-1-optin-css' href='/assets/uploads/complianz/css/banner-1-optin.css?ver=1785795917' type='text/css' media='all' />
 
 
@@ -140,7 +139,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;800&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.min.css">
 <style id="search-page-css">
 .search-page{--primary:#1A3A6E;--accent:#F5A623;--text:#172743;--muted:#5A6B85;--border:#E1E8F0;background:#F4F8FC;font-family:'Poppins',sans-serif;color:var(--text)}
 .search-page *{box-sizing:border-box}
