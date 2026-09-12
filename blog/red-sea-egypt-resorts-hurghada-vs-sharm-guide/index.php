@@ -582,7 +582,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/includes/footer-cta.php'; ?>
 <section class="avf" role="contentinfo" aria-label="Avicon Travel footer">
   <div class="avf__inner">
 
@@ -738,22 +737,22 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
     /* ── INNER CONTAINER ── */
     /* Desktop: max 1200px, comfortable padding */
-    .avf__inner{max-width:1200px; margin:0 auto; padding:52px 40px 0;}
+    .avf__inner{max-width:1200px; margin:0 auto; padding:34px 40px 0;}
 
     /* ── TOP SECTION ── */
     /* Desktop: brand takes 58%, CTA takes 38% */
     .avf__top{
       display:grid; grid-template-columns:58% 38%; gap:4%;
-      padding-bottom:40px; border-bottom:1px solid var(--avf-line);
+      padding-bottom:24px; border-bottom:1px solid var(--avf-line);
       align-items:start;
     }
-    .avf__tagline{margin:0 0 14px; color:var(--avf-muted); font-size:13.5px; line-height:1.65; max-width:48ch;}
+    .avf__tagline{margin:0 0 10px; color:var(--avf-muted); font-size:13.5px; line-height:1.65; max-width:48ch;}
     .avf__tagline strong{color:var(--avf-text); font-weight:700;}
 
     /* Find Us strip */
     .avf__findus{
-      display:grid; grid-template-columns:1fr 280px; gap:28px; align-items:center;
-      padding:22px 0; border-top:1px solid var(--avf-line);
+      display:grid; grid-template-columns:1fr 260px; gap:24px; align-items:center;
+      padding:14px 0; border-top:1px solid var(--avf-line);
     }
     .avf__findus-eyebrow{
       font-size:11px; letter-spacing:.14em; text-transform:uppercase;
@@ -770,7 +769,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     }
     .avf__findus-link:hover{opacity:.8;}
     .avf__map{border-radius:8px; overflow:hidden; line-height:0;}
-    .avf__map iframe{height:130px;}
+    .avf__map iframe{height:110px; min-height:0;}
     .avf__addr{
       display:inline-flex; align-items:flex-start; gap:7px;
       color:var(--avf-text); text-decoration:none; font-weight:600;
@@ -778,9 +777,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     }
     .avf__addr svg{flex:0 0 auto; margin-top:2px; color:var(--avf-gold);}
     .avf__addr:hover{color:var(--avf-gold);}
-    .avf__social{display:flex; gap:10px; margin-top:18px;}
+    .avf__social{display:flex; gap:10px; margin-top:12px;}
     .avf__social a{
-      width:36px; height:36px; display:grid; place-items:center;
+      width:32px; height:32px; display:grid; place-items:center;
       border:1px solid var(--avf-line); border-radius:50%;
       color:var(--avf-text); transition:transform .2s ease,background .2s ease,color .2s ease,border-color .2s ease;
     }
@@ -789,38 +788,38 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     /* CTA card */
     .avf__cta{
       background:rgba(255,255,255,.06); border:1px solid var(--avf-line);
-      border-radius:14px; padding:22px 24px;
+      border-radius:12px; padding:16px 20px;
     }
     .avf__cta-eyebrow{font-size:11px; letter-spacing:.13em; text-transform:uppercase; color:var(--avf-gold); font-weight:700;}
     .avf__cta-title{font-family:'Cinzel',serif; font-weight:600; font-size:18px; margin:5px 0 7px; color:#fff;}
-    .avf__cta-text{color:var(--avf-muted); margin:0 0 16px; font-size:13px;}
+    .avf__cta-text{color:var(--avf-muted); margin:0 0 12px; font-size:13px;}
     .avf__cta-btn{
       display:inline-flex; align-items:center; gap:8px;
       background:var(--avf-gold); color:#0f2d6b; font-weight:800; font-size:14px;
-      padding:11px 18px; border-radius:9px; text-decoration:none;
+      padding:9px 16px; border-radius:8px; text-decoration:none;
       transition:transform .2s ease,box-shadow .2s ease;
     }
     .avf__cta-btn:hover{transform:translateY(-2px); box-shadow:0 8px 20px rgba(245,166,35,.3);}
-    .avf__cta-lines{display:flex; flex-wrap:wrap; gap:5px 16px; margin-top:13px;}
+    .avf__cta-lines{display:flex; flex-wrap:wrap; gap:5px 16px; margin-top:10px;}
     .avf__cta-lines a{color:var(--avf-text); text-decoration:none; font-weight:600; font-size:13px;}
     .avf__cta-lines a:hover{color:var(--avf-gold);}
 
     /* ── LINK COLUMNS ── */
     /* Desktop: 4 even columns */
-    .avf__cols{display:grid; grid-template-columns:repeat(4,1fr); gap:32px; padding:40px 0;}
+    .avf__cols{display:grid; grid-template-columns:repeat(4,1fr); gap:24px; padding:24px 0;}
     .avf__h{
       font-family:'Cinzel',serif; font-weight:600; font-size:14px; letter-spacing:.05em;
-      color:#fff; margin:0 0 16px; padding-bottom:10px; position:relative;
+      color:#fff; margin:0 0 12px; padding-bottom:8px; position:relative;
     }
     .avf__h::after{content:""; position:absolute; left:0; bottom:0; width:28px; height:2px; background:var(--avf-gold);}
     .avf__col ul{list-style:none; margin:0; padding:0;}
-    .avf__col li{margin-bottom:9px;}
+    .avf__col li{margin-bottom:5px; line-height:1.45;}
     .avf__col a{
       color:var(--avf-muted); text-decoration:none; font-weight:600; font-size:13.5px;
       transition:color .2s ease,padding-left .2s ease;
     }
     .avf__col a:hover{color:var(--avf-gold); padding-left:5px;}
-    .avf__contact li{display:flex; align-items:center; gap:9px; margin-bottom:13px;}
+    .avf__contact li{display:flex; align-items:center; gap:9px; margin-bottom:8px;}
     .avf__contact svg{flex:0 0 auto; color:var(--avf-gold);}
     .avf__contact a{color:var(--avf-text); font-size:13.5px;}
     .avf__hours{margin:4px 0 0; color:var(--avf-muted); font-size:13px;}
@@ -828,7 +827,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     /* ── BOTTOM BAR ── */
     .avf__bottom{
       display:flex; align-items:center; justify-content:space-between; gap:16px;
-      flex-wrap:wrap; padding:18px 0 24px; border-top:1px solid var(--avf-line);
+      flex-wrap:wrap; padding:12px 0 16px; border-top:1px solid var(--avf-line);
     }
     .avf__copy{margin:0; color:var(--avf-muted); font-size:13px;}
     .avf__pay{display:flex; gap:7px; flex-wrap:wrap;}
@@ -843,23 +842,23 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
     /* ── TABLET (769px – 1024px) ── */
     @media (min-width:769px) and (max-width:1024px){
-      .avf__inner{padding:44px 28px 0;}
+      .avf__inner{padding:30px 28px 0;}
       .avf__top{grid-template-columns:55% 41%; gap:4%;}
-      .avf__cols{grid-template-columns:repeat(2,1fr); gap:28px; padding:36px 0;}
+      .avf__cols{grid-template-columns:repeat(2,1fr); gap:20px 28px; padding:22px 0;}
       .avf__cta-title{font-size:17px;}
       .avf__findus{grid-template-columns:1fr 240px; gap:20px;}
     }
 
     /* ── SMALL TABLET / LARGE PHONE (481px – 768px) ── */
     @media (max-width:768px){
-      .avf__inner{padding:40px 20px 0;}
+      .avf__inner{padding:28px 20px 0;}
       .avf{font-size:14px;}
 
       /* Top: brand full width, then CTA card full width */
-      .avf__top{grid-template-columns:1fr; gap:28px; padding-bottom:32px;}
+      .avf__top{grid-template-columns:1fr; gap:20px; padding-bottom:22px;}
 
       /* 2-column link grid on tablet portrait */
-      .avf__cols{grid-template-columns:repeat(2,1fr); gap:24px 28px; padding:32px 0;}
+      .avf__cols{grid-template-columns:repeat(2,1fr); gap:20px 24px; padding:22px 0;}
 
       .avf__cta{padding:18px 20px;}
       .avf__cta-title{font-size:16px;}
@@ -868,19 +867,19 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
       .avf__h{font-size:13px; margin-bottom:13px;}
       .avf__col a,.avf__contact a{font-size:13px;}
-      .avf__col li{margin-bottom:8px;}
+      .avf__col li{margin-bottom:5px;}
 
       /* Find Us stacks */
-      .avf__findus{grid-template-columns:1fr; gap:14px; padding:20px 0;}
-      .avf__map iframe{height:120px;}
+      .avf__findus{grid-template-columns:1fr; gap:12px; padding:14px 0;}
+      .avf__map iframe{height:110px;}
     }
 
     /* ── MOBILE (≤ 480px) ── */
     @media (max-width:480px){
-      .avf__inner{padding:32px 16px 0;}
+      .avf__inner{padding:24px 16px 0;}
       .avf{font-size:13px;}
 
-      .avf__top{gap:22px; padding-bottom:28px;}
+      .avf__top{gap:18px; padding-bottom:20px;}
       .avf__tagline{font-size:12.5px; margin:0 0 11px;}
       .avf__addr{font-size:12px;}
       .avf__social a{width:34px; height:34px;}
@@ -894,29 +893,29 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       .avf__cta-lines a{font-size:12px;}
 
       /* Find Us — small on phone */
-      .avf__findus{padding:16px 0; gap:10px;}
+      .avf__findus{padding:12px 0; gap:10px;}
       .avf__findus-title{font-size:14px;}
       .avf__findus-line,.avf__findus-link{font-size:12px;}
       .avf__map iframe{height:95px;}
 
       /* 2 columns on mobile (not full-width 1 col — saves space) */
-      .avf__cols{grid-template-columns:repeat(2,1fr); gap:20px 16px; padding:28px 0;}
+      .avf__cols{grid-template-columns:repeat(2,1fr); gap:20px 16px; padding:20px 0;}
       .avf__h{font-size:12px; letter-spacing:.04em; margin-bottom:11px; padding-bottom:8px;}
       .avf__h::after{width:22px;}
       .avf__col a,.avf__contact a{font-size:11.5px; word-break:break-word;}
-      .avf__col li{margin-bottom:7px;}
+      .avf__col li{margin-bottom:5px;}
       .avf__contact li{gap:6px; margin-bottom:10px; align-items:flex-start;}
       .avf__contact svg{margin-top:3px;}
       .avf__hours{font-size:12px;}
 
-      .avf__bottom{flex-direction:column; align-items:flex-start; gap:10px; padding:14px 0 20px;}
+      .avf__bottom{flex-direction:column; align-items:flex-start; gap:10px; padding:12px 0 16px;}
       .avf__copy{font-size:12px;}
       .avf__pay span{font-size:10px; padding:4px 8px;}
     }
 
     /* ── LARGE DESKTOP (≥ 1400px) ── */
     @media (min-width:1400px){
-      .avf__inner{padding:60px 48px 0;}
+      .avf__inner{padding:38px 48px 0;}
       .avf__top{gap:5%;}
       .avf{font-size:16px;}
       .avf__cta-title{font-size:20px;}
