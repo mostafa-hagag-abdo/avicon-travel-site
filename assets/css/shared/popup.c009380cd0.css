@@ -1,0 +1,222 @@
+.avi-seasonal-pop{
+  position:fixed;
+  inset:0;
+  z-index:999999;
+  display:none;
+  align-items:center;
+  justify-content:center;
+  padding:18px;
+  background:rgba(8,24,45,.62);
+  font-family:Poppins,Arial,sans-serif;
+}
+.avi-seasonal-pop.is-visible{display:flex}
+.avi-seasonal-pop *{box-sizing:border-box}
+.avi-seasonal-modal{
+  position:relative;
+  width:min(840px,100%);
+  overflow:hidden;
+  border-radius:16px;
+  background:#fff;
+  box-shadow:0 26px 80px rgba(0,0,0,.3);
+}
+.avi-seasonal-close{
+  position:absolute;
+  top:12px;
+  right:12px;
+  z-index:5;
+  width:34px;
+  height:34px;
+  border:0;
+  border-radius:50%;
+  background:rgba(16,35,61,.9);
+  color:#fff;
+  font-size:22px;
+  line-height:1;
+  cursor:pointer;
+}
+.avi-seasonal-top{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:18px;
+  padding:22px 58px 18px 24px;
+  background:#10233d;
+}
+.avi-seasonal-kicker{
+  display:block;
+  margin-bottom:5px;
+  color:#f6a13a;
+  font-size:12px;
+  font-weight:900;
+  text-transform:uppercase;
+  letter-spacing:0;
+}
+.avi-seasonal-top h2{
+  margin:0;
+  color:#fff;
+  font-size:25px;
+  line-height:1.18;
+  font-weight:900;
+  letter-spacing:0;
+}
+.avi-seasonal-top p{
+  max-width:310px;
+  margin:0;
+  color:rgba(255,255,255,.78);
+  font-size:13px;
+  line-height:1.55;
+}
+.avi-seasonal-grid{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:1px;
+  background:#dbe6f2;
+}
+.avi-seasonal-card{
+  display:grid;
+  grid-template-rows:180px 1fr;
+  min-height:100%;
+  background:#fff;
+  color:#10233d;
+  text-decoration:none !important;
+}
+.avi-seasonal-media{
+  position:relative;
+  overflow:hidden;
+  background:#dfe8f2;
+}
+.avi-seasonal-media img{
+  width:100%;
+  height:100%;
+  display:block;
+  object-fit:cover;
+  transition:transform .4s ease;
+}
+.avi-seasonal-card:hover .avi-seasonal-media img{transform:scale(1.05)}
+.avi-seasonal-tag{
+  position:absolute;
+  left:12px;
+  top:12px;
+  padding:6px 10px;
+  border-radius:999px;
+  background:#f6a13a;
+  color:#10233d;
+  font-size:11px;
+  font-weight:900;
+}
+.avi-seasonal-body{
+  display:flex;
+  flex-direction:column;
+  padding:18px;
+}
+.avi-seasonal-body h3{
+  margin:0 0 9px;
+  color:#10233d;
+  font-size:19px;
+  line-height:1.25;
+  font-weight:900;
+  letter-spacing:0;
+}
+.avi-seasonal-body p{
+  margin:0 0 14px;
+  color:#5d6b80;
+  font-size:13px;
+  line-height:1.62;
+}
+.avi-seasonal-info{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  margin-top:auto;
+}
+.avi-seasonal-info span{
+  display:inline-flex;
+  align-items:center;
+  min-height:29px;
+  padding:6px 10px;
+  border-radius:999px;
+  background:#f4f8fd;
+  color:#123f7a;
+  font-size:12px;
+  font-weight:900;
+}
+.avi-seasonal-cta{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  min-height:42px;
+  margin-top:14px;
+  border-radius:8px;
+  background:#123f7a;
+  color:#fff;
+  font-size:13px;
+  font-weight:900;
+}
+.avi-seasonal-card:first-child .avi-seasonal-cta{background:#f6a13a;color:#10233d}
+@media(max-width:720px){
+  .avi-seasonal-pop{
+    align-items:flex-end;
+    padding:10px;
+  }
+  .avi-seasonal-modal{
+    width:100%;
+    max-height:88vh;
+    overflow:auto;
+    border-radius:16px 16px 0 0;
+  }
+  .avi-seasonal-close{
+    top:10px;
+    right:10px;
+    width:32px;
+    height:32px;
+  }
+  .avi-seasonal-top{
+    display:block;
+    padding:18px 52px 14px 16px;
+  }
+  .avi-seasonal-top h2{
+    font-size:20px;
+  }
+  .avi-seasonal-top p{
+    display:none;
+  }
+  .avi-seasonal-grid{
+    grid-template-columns:1fr;
+  }
+  .avi-seasonal-card{
+    grid-template-columns:118px minmax(0,1fr);
+    grid-template-rows:auto;
+  }
+  .avi-seasonal-media{
+    min-height:150px;
+  }
+  .avi-seasonal-tag{
+    left:8px;
+    top:8px;
+    padding:5px 8px;
+    font-size:10px;
+  }
+  .avi-seasonal-body{
+    padding:13px;
+  }
+  .avi-seasonal-body h3{
+    font-size:15px;
+    margin-bottom:6px;
+  }
+  .avi-seasonal-body p{
+    display:none;
+  }
+  .avi-seasonal-info{
+    gap:6px;
+  }
+  .avi-seasonal-info span{
+    min-height:25px;
+    padding:5px 8px;
+    font-size:10px;
+  }
+  .avi-seasonal-cta{
+    min-height:34px;
+    margin-top:10px;
+    font-size:11px;
+  }
+}
