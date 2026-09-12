@@ -66,6 +66,10 @@
   - [x] Bing: `sitemap.xml` اترفع وحالته Success (2026-09-12)
   - [ ] متابعة الفهرسة و404 في GSC وBing لمدة أسبوعين (لحد 2026-09-26)
 - [ ] الأداء: شيل WooCommerce وslick وleaflet وjquery-ui وdaterangepicker وdropzone، وFont Awesome نسخة واحدة
+  - [x] 2026-09-12: اتشال 18 CSS و19 JS من كل الصفحات (WooCommerce وswiper وslick وleaflet وdaterangepicker وdropzone وgsap وfancybox وwow وغيرهم). الصفحة نزلت من 71 لـ 35 ملف، ومن 3.35MB لـ 2.09MB أصول. `custom.js` بتاع الثيم اتبدل بـ `assets/js/avicon-site.js` (قايمة الموبايل، والقوايم الفرعية، والبحث، والهيدر، وزرار الرجوع لفوق)
+  - [x] About والبحث كانوا من غير jQuery، فكان Elementor بيضرب فيهم ← اتضاف
+  - [ ] Font Awesome: نسختين بيتحمّلوا (v5 من use.fontawesome.com، وv6 من jsdelivr) ← نسيب واحدة
+  - ملحوظة: jquery-ui core متساب لأن Elementor محتاجه
 - [ ] الـ CSS المتكرر جوه الصفحات → ملف واحد في الكاش
 - [ ] الصور → WebP/AVIF + `srcset` + `preload` لصورة الهيرو + تحميل الباقي وقت ما يظهر
 - [x] Schema: `TouristTrip` + `itinerary` + `Offer` + `BreadcrumbList` على الـ 31 منتج، و`TravelAgency` في الرئيسية (2026-09-12)

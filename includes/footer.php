@@ -792,8 +792,7 @@
 			document.body.className = c;
 		})();
 	</script>
-	<link rel='stylesheet' id='wc-blocks-style-css' href='/assets/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-10296-css' href='/assets/uploads/elementor/css/post-10296.css?ver=1788475172' type='text/css' media='all' />
+	<link rel='stylesheet' id='elementor-post-10296-css' href='/assets/uploads/elementor/css/post-10296.css?ver=1788475172' type='text/css' media='all' />
 <script type="text/javascript" src="/assets/core/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
 <script type="text/javascript" src="/assets/core/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
 <script type="text/javascript" id="wp-i18n-js-after">
@@ -802,39 +801,9 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 //# sourceURL=wp-i18n-js-after
 /* ]]> */
 </script>
-<script type="text/javascript" src="/assets/plugins/review-rating/assets/js/review-rating.js?ver=1.0.0" id="review-rating-script-js"></script>
 <script type="text/javascript" src="/assets/themes/gofly-main/assets/js/bootstrap.min.js?ver=1778267218" id="bootstrap-js"></script>
 <script type="text/javascript" src="/assets/themes/gofly-main/assets/js/popper.min.js?ver=1778267218" id="popper-js"></script>
-<script type="text/javascript" src="/assets/core/js/dist/vendor/moment.min.js?ver=2.30.1" id="moment-js"></script>
-<script type="text/javascript" id="moment-js-after">
-/* <![CDATA[ */
-moment.updateLocale( 'en_US', {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":1},"longDateFormat":{"LT":"g:i a","LTS":null,"L":null,"LL":"F j, Y","LLL":"F j, Y g:i a","LLLL":null}} );
-//# sourceURL=moment-js-after
-/* ]]> */
-</script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/daterangepicker.min.js?ver=1778267218" id="daterangepicker-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/dropzone-min.js?ver=1778267218" id="dropzone-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/swiper-bundle.min.js?ver=1778267218" id="swiper-slider-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/slick.js?ver=1778267218" id="slick-slider-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/waypoints.min.js?ver=1778267218" id="waypoints-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/jquery.counterup.min.js?ver=1778267218" id="counterup-min-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/wow.min.js?ver=1778267218" id="wow-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/range-slider.js?ver=1778267218" id="range-slider-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/gsap.min.js?ver=1778267218" id="gsap-min-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/ScrollTrigger.min.js?ver=1778267218" id="scroll-trigger-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/jquery.nice-select.min.js?ver=1778267218" id="egns-nice-select-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/jquery.fancybox.min.js?ver=1778267218" id="fancybox-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/leaflet.js?ver=1778267218" id="openstreetmap-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/select-dropdown.js?ver=1778267218" id="egns-select-dropdown-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/custom-calendar.js?ver=1778267218" id="custom-calendar-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/custom-range-calendar.js?ver=1778267218" id="custom-range-calendar-js"></script>
-<script type="text/javascript" id="custom-main-js-extra">
-/* <![CDATA[ */
-var localize_params = {"sticky_header":"1","ajaxurl":"/wp-admin/admin-ajax.php","posts_per_page":"10","author_id":"1","nonce":"ec13dbdbbb","min":"50","max":"2045","exp_min":"10","exp_max":"666","hotel_min":"39","hotel_max":"300","layout":"","symbol":"$"};
-//# sourceURL=custom-main-js-extra
-/* ]]> */
-</script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/custom.js?ver=1778267218" id="custom-main-js"></script>
+<script type="text/javascript" src="/assets/js/avicon-site.js?ver=1" id="avicon-site-js"></script>
 <script type="text/javascript" src="/assets/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.4" id="elementor-webpack-runtime-js"></script>
 <script type="text/javascript" src="/assets/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.4" id="elementor-frontend-modules-js"></script>
 <script type="text/javascript" src="/assets/core/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>

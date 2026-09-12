@@ -90,10 +90,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     
 /*# sourceURL=egns-stylesheet-inline-css */
 </style>
-<link rel='stylesheet' id='review-rating-style-css' href='/assets/plugins/review-rating/assets/css/review-rating.css?ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='woocommerce-layout-css' href='/assets/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=10.8.1' type='text/css' media='all' />
-<link rel='stylesheet' id='woocommerce-smallscreen-css' href='/assets/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=10.8.1' type='text/css' media='only screen and (max-width: 768px)' />
-<link rel='stylesheet' id='woocommerce-general-css' href='/assets/plugins/woocommerce/assets/css/woocommerce.css?ver=10.8.1' type='text/css' media='all' />
 <style id='woocommerce-inline-inline-css' type='text/css'>
 .woocommerce form .form-row .required { visibility: visible; }
 /*# sourceURL=woocommerce-inline-inline-css */
@@ -101,21 +97,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel='stylesheet' id='cmplz-general-css' href='/assets/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1785795914' type='text/css' media='all' />
 <link rel='stylesheet' id='egns-fonts-css' href='https://fonts.googleapis.com/css2?family=Courgette&#038;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&#038;family=Roboto:ital,wght@0,100..900;1,100..900&#038;display=swap' type='text/css' media='all' />
 <link rel='stylesheet' id='bootstrap-icons-css' href='/assets/themes/gofly-main/assets/css/bootstrap-icons.css?ver=1778267218' type='text/css' media='all' />
-<link rel='stylesheet' id='boxicons-css' href='/assets/themes/gofly-main/assets/css/boxicons.min.css?ver=1778267218' type='text/css' media='all' />
-<link rel='stylesheet' id='swiper-bundle-css' href='/assets/themes/gofly-main/assets/css/swiper-bundle.min.css?ver=1778267218' type='text/css' media='all' />
-<link rel='stylesheet' id='egns-nice-select-css' href='/assets/themes/gofly-main/assets/css/nice-select.css?ver=1778267218' type='text/css' media='all' />
-<link rel='stylesheet' id='dropzone-css' href='/assets/themes/gofly-main/assets/css/dropzone.css?ver=1778267218' type='text/css' media='all' />
-<link rel='stylesheet' id='egns-slick-theme-select-css' href='/assets/themes/gofly-main/assets/css/slick.css?ver=1778267218' type='text/css' media='all' />
-<link rel='stylesheet' id='egns-slick-select-css' href='/assets/themes/gofly-main/assets/css/slick-theme.css?ver=1778267218' type='text/css' media='all' />
-<link rel='stylesheet' id='egns-daterangepicker-css' href='/assets/themes/gofly-main/assets/css/daterangepicker.css?ver=1778267218' type='text/css' media='all' />
-<link rel='stylesheet' id='animate-css' href='/assets/themes/gofly-main/assets/css/animate.min.css?ver=1778267218' type='text/css' media='all' />
-<link rel='stylesheet' id='fancybox-css' href='/assets/themes/gofly-main/assets/css/jquery.fancybox.min.css?ver=1778267218' type='text/css' media='all' />
-<link rel='stylesheet' id='openstreetmap-css' href='/assets/themes/gofly-main/assets/css/leaflet.css?ver=1778267218' type='text/css' media='all' />
-<link rel='stylesheet' id='egns-ui-css' href='/assets/themes/gofly-main/assets/css/jquery-ui.css?ver=1778267218' type='text/css' media='all' />
-<link rel='stylesheet' id='calendar-css' href='/assets/themes/gofly-main/assets/css/calendar-css.css?ver=1778267218' type='text/css' media='all' />
 <link rel='stylesheet' id='bootstrap-css' href='/assets/themes/gofly-main/assets/css/bootstrap.min.css?ver=1778267218' type='text/css' media='all' />
 <link rel='stylesheet' id='blog-page-css' href='/assets/themes/gofly-main/assets/css/blog-and-pages.css?ver=1778267218' type='text/css' media='all' />
-<link rel='stylesheet' id='WooCommerce-css' href='/assets/themes/gofly-main/assets/css/woocommerce-custom.css?ver=1778267218' type='text/css' media='all' />
 <link rel='stylesheet' id='egns-style-css' href='/assets/themes/gofly-main/assets/css/style.css?ver=1778267218' type='text/css' media='all' />
 <link rel='stylesheet' id='egns-theme-css' href='/assets/themes/gofly-main/style.css?ver=93' type='text/css' media='all' />
 <link rel='stylesheet' id='fa5-css' href='https://use.fontawesome.com/releases/v5.13.0/css/all.css?ver=5.13.0' type='text/css' media='all' />
@@ -154,8 +137,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <meta name="cdp-version" content="1.5.6" />			<style>.cmplz-hidden {
 					display: none !important;
 				}</style>
-					<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	<meta name="generator" content="Elementor 4.1.4; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+						<meta name="generator" content="Elementor 4.1.4; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
 			<style>
 				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
 				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
@@ -2917,8 +2899,7 @@ textarea.form-input{resize:vertical;min-height:60px}
 			document.body.className = c;
 		})();
 	</script>
-	<link rel='stylesheet' id='wc-blocks-style-css' href='/assets/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-10296-css' href='/assets/uploads/elementor/css/post-10296.css?ver=1788475172' type='text/css' media='all' />
+	<link rel='stylesheet' id='elementor-post-10296-css' href='/assets/uploads/elementor/css/post-10296.css?ver=1788475172' type='text/css' media='all' />
 <script type="text/javascript" src="/assets/core/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
 <script type="text/javascript" src="/assets/core/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
 <script type="text/javascript" id="wp-i18n-js-after">
@@ -2927,46 +2908,9 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 //# sourceURL=wp-i18n-js-after
 /* ]]> */
 </script>
-<script type="text/javascript" id="gofly-core-tour-functions-js-extra">
-/* <![CDATA[ */
-var gofly_core_ajax = {"ajax_url":"/wp-admin/admin-ajax.php","nonce":"b3df1fbdb2","packages":[{"title":"","pricing_categories":[{"slug":"adult","price":110},{"slug":"children","price":0}],"services":[]}],"post_id":"11210","checkout_url":"/checkout/","date_label":"Booking Date"};
-//# sourceURL=gofly-core-tour-functions-js-extra
-/* ]]> */
-</script>
-<script type="text/javascript" src="/assets/plugins/gofly-core/assets/js/tour-functions.js?ver=92" id="gofly-core-tour-functions-js"></script>
-<script type="text/javascript" src="/assets/plugins/review-rating/assets/js/review-rating.js?ver=1.0.0" id="review-rating-script-js"></script>
 <script type="text/javascript" src="/assets/themes/gofly-main/assets/js/bootstrap.min.js?ver=1778267218" id="bootstrap-js"></script>
 <script type="text/javascript" src="/assets/themes/gofly-main/assets/js/popper.min.js?ver=1778267218" id="popper-js"></script>
-<script type="text/javascript" src="/assets/core/js/dist/vendor/moment.min.js?ver=2.30.1" id="moment-js"></script>
-<script type="text/javascript" id="moment-js-after">
-/* <![CDATA[ */
-moment.updateLocale( 'en_US', {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":1},"longDateFormat":{"LT":"g:i a","LTS":null,"L":null,"LL":"F j, Y","LLL":"F j, Y g:i a","LLLL":null}} );
-//# sourceURL=moment-js-after
-/* ]]> */
-</script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/daterangepicker.min.js?ver=1778267218" id="daterangepicker-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/dropzone-min.js?ver=1778267218" id="dropzone-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/swiper-bundle.min.js?ver=1778267218" id="swiper-slider-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/slick.js?ver=1778267218" id="slick-slider-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/waypoints.min.js?ver=1778267218" id="waypoints-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/jquery.counterup.min.js?ver=1778267218" id="counterup-min-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/wow.min.js?ver=1778267218" id="wow-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/range-slider.js?ver=1778267218" id="range-slider-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/gsap.min.js?ver=1778267218" id="gsap-min-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/ScrollTrigger.min.js?ver=1778267218" id="scroll-trigger-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/jquery.nice-select.min.js?ver=1778267218" id="egns-nice-select-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/jquery.fancybox.min.js?ver=1778267218" id="fancybox-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/leaflet.js?ver=1778267218" id="openstreetmap-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/select-dropdown.js?ver=1778267218" id="egns-select-dropdown-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/custom-calendar.js?ver=1778267218" id="custom-calendar-js"></script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/custom-range-calendar.js?ver=1778267218" id="custom-range-calendar-js"></script>
-<script type="text/javascript" id="custom-main-js-extra">
-/* <![CDATA[ */
-var localize_params = {"sticky_header":"1","ajaxurl":"/wp-admin/admin-ajax.php","posts_per_page":"10","author_id":"1","nonce":"8eecfa9f17","min":"50","max":"2045","exp_min":"10","exp_max":"666","hotel_min":"39","hotel_max":"300","layout":"","symbol":"$"};
-//# sourceURL=custom-main-js-extra
-/* ]]> */
-</script>
-<script type="text/javascript" src="/assets/themes/gofly-main/assets/js/custom.js?ver=1778267218" id="custom-main-js"></script>
+<script type="text/javascript" src="/assets/js/avicon-site.js?ver=1" id="avicon-site-js"></script>
 <script type="text/javascript" src="/assets/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.4" id="elementor-webpack-runtime-js"></script>
 <script type="text/javascript" src="/assets/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.4" id="elementor-frontend-modules-js"></script>
 <script type="text/javascript" src="/assets/core/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
