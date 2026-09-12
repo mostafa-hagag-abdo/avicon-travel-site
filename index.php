@@ -3,7 +3,8 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
-	
+	<meta name="google-site-verification" content="tg-4j0gWTy97LNMoz4rIx7nSHwbQRbLaan5AH-RKyXU" />
+
 	
 	
 <!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
