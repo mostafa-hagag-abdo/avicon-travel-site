@@ -790,8 +790,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 {
   "@context":"https://schema.org",
   "@type":"TravelAgency",
+  "@id":"https://avicontravel.com/#organization",
   "name":"Avicon Travel",
-  "url":"/",
+  "url":"https://avicontravel.com/",
+  "logo":"https://avicontravel.com/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp",
   "telephone":"+20 120 055 5600",
   "email":"info@avicontravel.com",
   "address":{
@@ -803,10 +805,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
   "areaServed":["Cairo","Luxor","Aswan","Hurghada","Sharm El Sheikh","Abu Simbel"],
   "sameAs":["https://www.instagram.com/avicontravel/","https://www.facebook.com/profile.php?id=61589341120733","https://www.tripadvisor.com/Attraction_Review-g294204-d27707479-Reviews-Avicon_Travel-Aswan_Aswan_Governorate_Nile_River_Valley.html"],
   "makesOffer":[
-    {"@type":"Offer","name":"Egypt Tour Packages","url":"/packages/"},
-    {"@type":"Offer","name":"Egypt Day Tours","url":"/tours/"},
-    {"@type":"Offer","name":"Nile Cruise Packages","url":"/nile-cruises/"},
-    {"@type":"Offer","name":"Airport Transfers","url":"/transfer/"}
+    {"@type":"Offer","name":"Egypt Tour Packages","url":"https://avicontravel.com/packages/"},
+    {"@type":"Offer","name":"Egypt Day Tours","url":"https://avicontravel.com/tours/"},
+    {"@type":"Offer","name":"Nile Cruise Packages","url":"https://avicontravel.com/nile-cruises/"},
+    {"@type":"Offer","name":"Airport Transfers","url":"https://avicontravel.com/transfer/"}
   ]
 }
 </script>

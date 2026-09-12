@@ -10,6 +10,8 @@ ErrorDocument 404 /404.php
 
   # never serve dot-folders like .git (Git deploys) — except .well-known (SSL validation)
   RewriteRule "(^|/)\.(?!well-known/)" - [F,L]
+  # build tools live in _dev/ (never deployed, blocked in case a copy ever lands here)
+  RewriteRule ^_dev(/|$) - [F,L]
 
   # one canonical origin: https://avicontravel.com (live domain only, so preview/staging hosts keep working)
   RewriteCond %{HTTP_HOST} ^(www\.)?avicontravel\.com$ [NC]
