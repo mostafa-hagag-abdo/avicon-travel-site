@@ -155,6 +155,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <script type="text/javascript" src="/assets/core/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="/assets/core/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script type="application/ld+json" id="avicon-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://avicontravel.com/#organization","name":"Avicon Travel","url":"https://avicontravel.com/","logo":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp"},"email":"info@avicontravel.com","telephone":"+201200555600","sameAs":["https://www.instagram.com/avicontravel/","https://www.facebook.com/profile.php?id=61589341120733","https://www.tripadvisor.com/Attraction_Review-g294204-d27707479-Reviews-Avicon_Travel-Aswan_Aswan_Governorate_Nile_River_Valley.html"]},{"@type":"WebSite","@id":"https://avicontravel.com/#website","url":"https://avicontravel.com/","name":"Avicon Travel","publisher":{"@id":"https://avicontravel.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://avicontravel.com/packages/6-days-cairo-hurghada-package/#webpage","url":"https://avicontravel.com/packages/6-days-cairo-hurghada-package/","name":"6-Day Cairo & Hurghada Tour Package | From $1,255","description":"6 days in Cairo and Hurghada: Giza Pyramids, Saqqara, the Grand Egyptian Museum and Old Cairo, then Red Sea snorkeling. From $1,255 per person.","isPartOf":{"@id":"https://avicontravel.com/#website"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/Best-Grand-Egyptian-Museum-Giza-Pyramids-Tour-In-Cairo.jpg"},"breadcrumb":{"@id":"https://avicontravel.com/packages/6-days-cairo-hurghada-package/#breadcrumb"},"mainEntity":{"@id":"https://avicontravel.com/packages/6-days-cairo-hurghada-package/#trip"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://avicontravel.com/packages/6-days-cairo-hurghada-package/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://avicontravel.com/"},{"@type":"ListItem","position":2,"name":"Egypt Packages","item":"https://avicontravel.com/packages/"},{"@type":"ListItem","position":3,"name":"6 Days Cairo & Hurghada Package","item":"https://avicontravel.com/packages/6-days-cairo-hurghada-package/"}]},{"@type":"TouristTrip","@id":"https://avicontravel.com/packages/6-days-cairo-hurghada-package/#trip","name":"6 Days Cairo & Hurghada Package","description":"6 days in Cairo and Hurghada: Giza Pyramids, Saqqara, the Grand Egyptian Museum and Old Cairo, then Red Sea snorkeling. From $1,255 per person.","url":"https://avicontravel.com/packages/6-days-cairo-hurghada-package/","image":"https://avicontravel.com/assets/uploads/Best-Grand-Egyptian-Museum-Giza-Pyramids-Tour-In-Cairo.jpg","provider":{"@id":"https://avicontravel.com/#organization"},"itinerary":{"@type":"ItemList","numberOfItems":6,"itemListElement":[{"@type":"ListItem","position":1,"name":"Day 1 Arrival in Cairo & Dinner Cruise"},{"@type":"ListItem","position":2,"name":"Day 2 Giza Pyramids, Saqqara & Grand Egyptian Museum"},{"@type":"ListItem","position":3,"name":"Day 3 Old Cairo Sightseeing"},{"@type":"ListItem","position":4,"name":"Day 4 Flight to Hurghada"},{"@type":"ListItem","position":5,"name":"Day 5 Red Sea Snorkeling Trip"},{"@type":"ListItem","position":6,"name":"Day 6 Final Departure"}]},"offers":{"@type":"Offer","price":"1255","priceCurrency":"USD","availability":"https://schema.org/InStock","url":"https://avicontravel.com/packages/6-days-cairo-hurghada-package/","description":"Starting price per person","seller":{"@id":"https://avicontravel.com/#organization"}}}]}</script>
+<style id="avicon-img-ratio">:where(img[width][height]){height:auto}</style>
 </head>
 <body data-rsssl=1 data-cmplz=1 class="wp-singular tour-template tour-template-elementor_header_footer single single-tour postid-11249 wp-custom-logo wp-theme-gofly-main tt-magic-cursor  theme-gofly-main woocommerce-no-js elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-11249">
 <?php include $_SERVER['DOCUMENT_ROOT'].'/includes/header.php'; ?>
@@ -181,9 +182,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     </div>
   </div>
   <div class="bk-gallery bk-container">
-    <div class="bk-main" data-bk-lb="1"><img decoding="async" src="/assets/uploads/Best-Grand-Egyptian-Museum-Giza-Pyramids-Tour-In-Cairo.jpg.webp" alt="6 Days Cairo &amp; Hurghada Package"></div>
-      <div class="bk-tile" data-bk-lb="1"><img loading="lazy" decoding="async" src="/assets/uploads/2026/05/6-Days-Cairo-Hurghada.png.webp" alt="6 Days Cairo &amp; Hurghada Package – photo 2"></div>
-      <div class="bk-tile" data-bk-lb="1"><img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Orange-Bay-Snorkeling-Excursion-In-Hurghada.jpg" alt="6 Days Cairo &amp; Hurghada Package – Red Sea snorkeling">
+    <div class="bk-main" data-bk-lb="1"><img width="1227" height="735" decoding="async" src="/assets/uploads/Best-Grand-Egyptian-Museum-Giza-Pyramids-Tour-In-Cairo.jpg.webp" alt="6 Days Cairo &amp; Hurghada Package"></div>
+      <div class="bk-tile" data-bk-lb="1"><img width="600" height="400" loading="lazy" decoding="async" src="/assets/uploads/2026/05/6-Days-Cairo-Hurghada.png.webp" alt="6 Days Cairo &amp; Hurghada Package – photo 2"></div>
+      <div class="bk-tile" data-bk-lb="1"><img width="1007" height="558" loading="lazy" decoding="async" src="/assets/uploads/2026/05/Orange-Bay-Snorkeling-Excursion-In-Hurghada.jpg" alt="6 Days Cairo &amp; Hurghada Package – Red Sea snorkeling">
       </div>
   </div>
 </section>
@@ -192,7 +193,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <div class="bk-lb" id="bkLb">
   <button class="bk-lb-close" aria-label="Close">✕</button>
   <button class="bk-lb-prev" aria-label="Previous">‹</button>
-  <img loading="lazy" decoding="async" src="/assets/uploads/Best-Grand-Egyptian-Museum-Giza-Pyramids-Tour-In-Cairo.jpg.webp" alt="6 Days Cairo &amp; Hurghada Package">
+  <img width="1227" height="735" loading="lazy" decoding="async" src="/assets/uploads/Best-Grand-Egyptian-Museum-Giza-Pyramids-Tour-In-Cairo.jpg.webp" alt="6 Days Cairo &amp; Hurghada Package">
   <button class="bk-lb-next" aria-label="Next">›</button>
   <div class="bk-lb-count">1 / 3</div>
 </div>
@@ -596,7 +597,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <div class="related-img">
           <span class="related-duration">7 Days</span>
           <span class="related-cities"><i class="fas fa-map-marker-alt"></i> Cairo · Hurghada</span>
-          <img loading="lazy" decoding="async" src="/assets/uploads/2026/05/7-Days-Cairo.png.webp" alt="7 Days Cairo &amp; Hurghada Holiday" onerror="this.style.display='none'">
+          <img width="1600" height="900" loading="lazy" decoding="async" src="/assets/uploads/2026/05/7-Days-Cairo.png.webp" alt="7 Days Cairo &amp; Hurghada Holiday" onerror="this.style.display='none'">
         </div>
         <div class="related-body">
           <div class="related-title">7 Days Cairo &amp; Hurghada Holiday</div>
@@ -611,7 +612,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <div class="related-img">
           <span class="related-duration">4 Days</span>
           <span class="related-cities"><i class="fas fa-map-marker-alt"></i> Cairo · Giza</span>
-          <img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Golden-hour-at-the-Giza-plateau.png.webp" alt="Private 4 Days Cairo Tour Package" onerror="this.style.display='none'">
+          <img width="1600" height="900" loading="lazy" decoding="async" src="/assets/uploads/2026/05/Golden-hour-at-the-Giza-plateau.png.webp" alt="Private 4 Days Cairo Tour Package" onerror="this.style.display='none'">
         </div>
         <div class="related-body">
           <div class="related-title">Private 4 Days Cairo Tour Package</div>
@@ -626,7 +627,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <div class="related-img">
           <span class="related-duration">12 Days</span>
           <span class="related-cities"><i class="fas fa-map-marker-alt"></i> Cairo · Aswan · Luxor · Hurghada</span>
-          <img loading="lazy" decoding="async" src="/assets/uploads/2026/05/12-Days-Cairo-Hurghada-Holiday.jpg" alt="12 Days Egypt Tour to Cairo, Nile Cruise &amp; Hurghada" onerror="this.style.display='none'">
+          <img width="275" height="183" loading="lazy" decoding="async" src="/assets/uploads/2026/05/12-Days-Cairo-Hurghada-Holiday.jpg" alt="12 Days Egypt Tour to Cairo, Nile Cruise &amp; Hurghada" onerror="this.style.display='none'">
         </div>
         <div class="related-body">
           <div class="related-title">12 Days Egypt Tour to Cairo, Nile Cruise &amp; Hurghada</div>
@@ -1028,7 +1029,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/4-days-christmas-new-year-nile-cruise/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Christmas</span>
-          <img loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
+          <img width="1600" height="822" loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
         </div>
         <div class="avi-seasonal-body">
           <h3>4 Days Christmas &amp; New Year Nile Cruise</h3>
@@ -1041,7 +1042,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/total-solar-eclipse-tour-2027/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Eclipse 2027</span>
-          <img loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
+          <img width="1600" height="872" loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
         </div>
         <div class="avi-seasonal-body">
           <h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3>

@@ -44,7 +44,7 @@
         </form>
       </div>
       <div class="avi-info">
-        <div class="avi-info__image-wrap"><img decoding="async" src="/assets/uploads/2026/06/Avicon-Customer-Reviews-Pyramids-Giza.png.webp" alt="Egypt Tour Experience"></div>
+        <div class="avi-info__image-wrap"><img width="1402" height="1122" decoding="async" src="/assets/uploads/2026/06/Avicon-Customer-Reviews-Pyramids-Giza.png.webp" alt="Egypt Tour Experience"></div>
         <div class="avi-info__box">
           <h3 class="avi-info__title">Why Book With Us?</h3>
           <ul class="avi-info__list">
@@ -540,7 +540,7 @@
       <a class="avi-seasonal-card" href="/packages/4-days-christmas-new-year-nile-cruise/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Christmas</span>
-          <img loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
+          <img width="1600" height="822" loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
         </div>
         <div class="avi-seasonal-body">
           <h3>4 Days Christmas &amp; New Year Nile Cruise</h3>
@@ -553,7 +553,7 @@
       <a class="avi-seasonal-card" href="/packages/total-solar-eclipse-tour-2027/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Eclipse 2027</span>
-          <img loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
+          <img width="1600" height="872" loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
         </div>
         <div class="avi-seasonal-body">
           <h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3>

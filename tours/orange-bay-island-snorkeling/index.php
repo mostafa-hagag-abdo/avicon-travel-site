@@ -161,6 +161,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <script type="text/javascript" src="/assets/core/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="/assets/core/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script type="application/ld+json" id="avicon-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://avicontravel.com/#organization","name":"Avicon Travel","url":"https://avicontravel.com/","logo":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp"},"email":"info@avicontravel.com","telephone":"+201200555600","sameAs":["https://www.instagram.com/avicontravel/","https://www.facebook.com/profile.php?id=61589341120733","https://www.tripadvisor.com/Attraction_Review-g294204-d27707479-Reviews-Avicon_Travel-Aswan_Aswan_Governorate_Nile_River_Valley.html"]},{"@type":"WebSite","@id":"https://avicontravel.com/#website","url":"https://avicontravel.com/","name":"Avicon Travel","publisher":{"@id":"https://avicontravel.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://avicontravel.com/tours/orange-bay-island-snorkeling/#webpage","url":"https://avicontravel.com/tours/orange-bay-island-snorkeling/","name":"Orange Bay Island Snorkeling Trip, Hurghada | From $60","description":"Orange Bay Island snorkeling day trip from Hurghada: Red Sea cruise, white sandbank beach time, snorkeling stops, and lunch on board. From $60 per person.","isPartOf":{"@id":"https://avicontravel.com/#website"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/Orange-Bay-Snorkeling-Excursion-In-Hurghada.jpg"},"breadcrumb":{"@id":"https://avicontravel.com/tours/orange-bay-island-snorkeling/#breadcrumb"},"mainEntity":{"@id":"https://avicontravel.com/tours/orange-bay-island-snorkeling/#trip"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://avicontravel.com/tours/orange-bay-island-snorkeling/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://avicontravel.com/"},{"@type":"ListItem","position":2,"name":"Day Tours","item":"https://avicontravel.com/tours/"},{"@type":"ListItem","position":3,"name":"Orange Bay Island Snorkeling","item":"https://avicontravel.com/tours/orange-bay-island-snorkeling/"}]},{"@type":"TouristTrip","@id":"https://avicontravel.com/tours/orange-bay-island-snorkeling/#trip","name":"Orange Bay Island Snorkeling","description":"Orange Bay Island snorkeling day trip from Hurghada: Red Sea cruise, white sandbank beach time, snorkeling stops, and lunch on board. From $60 per person.","url":"https://avicontravel.com/tours/orange-bay-island-snorkeling/","image":"https://avicontravel.com/assets/uploads/2026/05/Orange-Bay-Snorkeling-Excursion-In-Hurghada.jpg","provider":{"@id":"https://avicontravel.com/#organization"},"itinerary":{"@type":"ItemList","numberOfItems":6,"itemListElement":[{"@type":"ListItem","position":1,"name":"Step 1 Hotel Pickup In Hurghada"},{"@type":"ListItem","position":2,"name":"Step 2 Boat Cruise Across The Red Sea"},{"@type":"ListItem","position":3,"name":"Step 3 Snorkeling Stop"},{"@type":"ListItem","position":4,"name":"Step 4 Orange Bay Island Visit"},{"@type":"ListItem","position":5,"name":"Step 5 Lunch On Board"},{"@type":"ListItem","position":6,"name":"Step 6 Return Cruise & Hotel Transfer"}]},"offers":{"@type":"Offer","price":"60","priceCurrency":"USD","availability":"https://schema.org/InStock","url":"https://avicontravel.com/tours/orange-bay-island-snorkeling/","description":"Starting price per person","seller":{"@id":"https://avicontravel.com/#organization"}}}]}</script>
+<style id="avicon-img-ratio">:where(img[width][height]){height:auto}</style>
 </head>
 <body data-rsssl=1 data-cmplz=1 class="wp-singular tour-template tour-template-elementor_header_footer single single-tour postid-11208 wp-custom-logo wp-theme-gofly-main tt-magic-cursor  theme-gofly-main woocommerce-no-js elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-11208">
 <?php include $_SERVER['DOCUMENT_ROOT'].'/includes/header.php'; ?>
@@ -180,9 +181,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     </div>
   </div>
   <div class="bk-gallery bk-container">
-    <div class="bk-main" data-bk-lb="1"><img decoding="async" src="/assets/uploads/2026/05/Orange-Bay-Island-Snorkeling-Tour-From-Hurghada.jpg" alt="Orange Bay Island Snorkeling"></div>
-      <div class="bk-tile" data-bk-lb="1"><img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Orange-Bay-Snorkeling-Excursion-In-Hurghada.jpg" alt="Orange Bay Island Snorkeling – photo 2"></div>
-      <div class="bk-tile" data-bk-lb="1"><img loading="lazy" decoding="async" src="/assets/uploads/Best-Orange-Bay-Island-Snorkeling-Trip-In-Hurghada.jpg" alt="Orange Bay Island Snorkeling – photo 3">
+    <div class="bk-main" data-bk-lb="1"><img width="1080" height="608" decoding="async" src="/assets/uploads/2026/05/Orange-Bay-Island-Snorkeling-Tour-From-Hurghada.jpg" alt="Orange Bay Island Snorkeling"></div>
+      <div class="bk-tile" data-bk-lb="1"><img width="1007" height="558" loading="lazy" decoding="async" src="/assets/uploads/2026/05/Orange-Bay-Snorkeling-Excursion-In-Hurghada.jpg" alt="Orange Bay Island Snorkeling – photo 2"></div>
+      <div class="bk-tile" data-bk-lb="1"><img width="1000" height="562" loading="lazy" decoding="async" src="/assets/uploads/Best-Orange-Bay-Island-Snorkeling-Trip-In-Hurghada.jpg" alt="Orange Bay Island Snorkeling – photo 3">
       </div>
   </div>
 </section>
@@ -191,7 +192,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <div class="bk-lb" id="bkLb">
   <button class="bk-lb-close" aria-label="Close">✕</button>
   <button class="bk-lb-prev" aria-label="Previous">‹</button>
-  <img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Orange-Bay-Snorkeling-Excursion-In-Hurghada.jpg" alt="Orange Bay Island Snorkeling">
+  <img width="1007" height="558" loading="lazy" decoding="async" src="/assets/uploads/2026/05/Orange-Bay-Snorkeling-Excursion-In-Hurghada.jpg" alt="Orange Bay Island Snorkeling">
   <button class="bk-lb-next" aria-label="Next">›</button>
   <div class="bk-lb-count">1 / 3</div>
 </div>
@@ -654,7 +655,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <div class="related-img">
           <span class="related-duration">7 To 9 Hours</span>
           <span class="related-cities"><i class="fas fa-map-marker-alt"></i> Sharm El Sheikh</span>
-          <img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Best-Ras-Mohammed-Snorkeling-Trip-650x400.jpg" alt="Ras Mohammed Snorkeling" onerror="this.style.display='none'">
+          <img width="650" height="400" loading="lazy" decoding="async" src="/assets/uploads/2026/05/Best-Ras-Mohammed-Snorkeling-Trip-650x400.jpg" alt="Ras Mohammed Snorkeling" onerror="this.style.display='none'">
         </div>
         <div class="related-body">
           <div class="related-title">Ras Mohammed Snorkeling</div>
@@ -669,7 +670,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <div class="related-img">
           <span class="related-duration">14 To 16 Hours</span>
           <span class="related-cities"><i class="fas fa-map-marker-alt"></i> Hurghada · Luxor</span>
-          <img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Luxor-Temple-Visit.jpg" alt="Luxor Day Trip From Hurghada" onerror="this.style.display='none'">
+          <img width="564" height="339" loading="lazy" decoding="async" src="/assets/uploads/2026/05/Luxor-Temple-Visit.jpg" alt="Luxor Day Trip From Hurghada" onerror="this.style.display='none'">
         </div>
         <div class="related-body">
           <div class="related-title">Luxor Day Trip From Hurghada</div>
@@ -684,7 +685,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <div class="related-img">
           <span class="related-duration">8 To 10 Hours</span>
           <span class="related-cities"><i class="fas fa-map-marker-alt"></i> Aswan</span>
-          <img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Abu-Simbel-Temples-Day-Tour.jpg.webp" alt="Abu Simbel Temples Private Tour" onerror="this.style.display='none'">
+          <img width="1600" height="922" loading="lazy" decoding="async" src="/assets/uploads/2026/05/Abu-Simbel-Temples-Day-Tour.jpg.webp" alt="Abu Simbel Temples Private Tour" onerror="this.style.display='none'">
         </div>
         <div class="related-body">
           <div class="related-title">Abu Simbel Temples Private Tour</div>
@@ -1083,7 +1084,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/4-days-christmas-new-year-nile-cruise/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Christmas</span>
-          <img loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
+          <img width="1600" height="822" loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
         </div>
         <div class="avi-seasonal-body">
           <h3>4 Days Christmas &amp; New Year Nile Cruise</h3>
@@ -1096,7 +1097,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/total-solar-eclipse-tour-2027/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Eclipse 2027</span>
-          <img loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
+          <img width="1600" height="872" loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
         </div>
         <div class="avi-seasonal-body">
           <h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3>

@@ -154,6 +154,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <script type="text/javascript" src="/assets/core/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="/assets/core/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script type="application/ld+json" id="avicon-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://avicontravel.com/#organization","name":"Avicon Travel","url":"https://avicontravel.com/","logo":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/cropped-Avicon-Travel-1-1.png.webp"},"email":"info@avicontravel.com","telephone":"+201200555600","sameAs":["https://www.instagram.com/avicontravel/","https://www.facebook.com/profile.php?id=61589341120733","https://www.tripadvisor.com/Attraction_Review-g294204-d27707479-Reviews-Avicon_Travel-Aswan_Aswan_Governorate_Nile_River_Valley.html"]},{"@type":"WebSite","@id":"https://avicontravel.com/#website","url":"https://avicontravel.com/","name":"Avicon Travel","publisher":{"@id":"https://avicontravel.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://avicontravel.com/blog/red-sea-egypt-resorts-hurghada-vs-sharm-guide/#webpage","url":"https://avicontravel.com/blog/red-sea-egypt-resorts-hurghada-vs-sharm-guide/","name":"Red Sea Egypt Resorts: Dream Holidays in Hurghada & Sharm","description":"Discover the best Red Sea Egypt resorts. Compare Hurghada and Sharm el-Sheikh for your unforgettable vacation. Find your perfect getaway today!","isPartOf":{"@id":"https://avicontravel.com/#website"},"about":{"@id":"https://avicontravel.com/#organization"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/06/Red-Sea-Egypt-resorts.png"},"datePublished":"2026-06-21T08:39:51+00:00","dateModified":"2026-06-22T14:47:51+00:00","breadcrumb":{"@id":"https://avicontravel.com/blog/red-sea-egypt-resorts-hurghada-vs-sharm-guide/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://avicontravel.com/blog/red-sea-egypt-resorts-hurghada-vs-sharm-guide/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://avicontravel.com/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://avicontravel.com/blog/"},{"@type":"ListItem","position":3,"name":"Red Sea Egypt Resorts: Dream Holidays in Hurghada & Sharm","item":"https://avicontravel.com/blog/red-sea-egypt-resorts-hurghada-vs-sharm-guide/"}]},{"@type":"BlogPosting","@id":"https://avicontravel.com/blog/red-sea-egypt-resorts-hurghada-vs-sharm-guide/#article","headline":"Red Sea Egypt Resorts: Dream Holidays in Hurghada & Sharm","description":"Discover the best Red Sea Egypt resorts. Compare Hurghada and Sharm el-Sheikh for your unforgettable vacation. Find your perfect getaway today!","image":"https://avicontravel.com/assets/uploads/2026/06/Red-Sea-Egypt-resorts.png","datePublished":"2026-06-21T08:39:51+00:00","dateModified":"2026-06-22T14:47:51+00:00","articleSection":"Destination Guides","keywords":"Red Sea Egypt resorts","author":{"@id":"https://avicontravel.com/#organization"},"publisher":{"@id":"https://avicontravel.com/#organization"},"mainEntityOfPage":{"@id":"https://avicontravel.com/blog/red-sea-egypt-resorts-hurghada-vs-sharm-guide/#webpage"},"inLanguage":"en-US"}]}</script>
+<style id="avicon-img-ratio">:where(img[width][height]){height:auto}</style>
 </head>
 <body data-rsssl=1 data-cmplz=1 class="wp-singular post-template-default single single-post postid-11432 single-format-standard wp-custom-logo wp-theme-gofly-main tt-magic-cursor  theme-gofly-main woocommerce-no-js elementor-default elementor-kit-7">
 <?php include $_SERVER['DOCUMENT_ROOT'].'/includes/header.php'; ?>
@@ -172,7 +173,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <span><i class="fas fa-clock"></i> 6 min read</span>
     </div>
   </header>
-  <figure class="avp-figure"><img decoding="async" src="/assets/uploads/2026/06/Red-Sea-Egypt-resorts.png.webp" alt="Red Sea Egypt Resorts: Dream Holidays in Hurghada &amp; Sharm"></figure>
+  <figure class="avp-figure"><img width="1448" height="1086" decoding="async" src="/assets/uploads/2026/06/Red-Sea-Egypt-resorts.png.webp" alt="Red Sea Egypt Resorts: Dream Holidays in Hurghada &amp; Sharm"></figure>
 <article class="avp-body">
 <p>If you&#8217;ve been dreaming about powdery sand beaches, crystal-clear waters, and world-famous hospitality, look no further than the exquisite <strong>Red Sea Egypt resorts</strong>. With sun-kissed coastlines stretching for miles, Egypt’s Red Sea region has long enchanted travelers yearning for relaxation and adventure. Whether you are seeking vibrant coral reefs, opulent all-inclusive stays, or a thrilling blend of culture and nightlife, Hurghada and Sharm el-Sheikh deliver unforgettable experiences. This comprehensive guide will help you compare these two resort giants — and find your perfect Red Sea escape!</p>
 
@@ -434,21 +435,21 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     <p class="sub">More guides and tips for your Egypt trip</p>
     <div class="avp-rel-grid">
       <a class="avp-rel-card" href="/blog/aswan-egypt-guide-temples-nubian-villages-sunsets/">
-        <div class="avp-rel-img"><span>Destination Guides</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Aswan-Egypt-guide.png.webp" alt="Aswan Egypt Guide: Discover Temples, Nubian Culture &amp; Sunsets" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-img"><span>Destination Guides</span><img width="1448" height="1086" loading="lazy" decoding="async" src="/assets/uploads/2026/06/Aswan-Egypt-guide.png.webp" alt="Aswan Egypt Guide: Discover Temples, Nubian Culture &amp; Sunsets" onerror="this.style.display='none'"></div>
         <div class="avp-rel-body">
           <h3>Aswan Egypt Guide: Discover Temples, Nubian Culture &amp; Sunsets</h3>
           <div class="avp-rel-meta">Read Article <small>19 June 2026 · 6 min</small></div>
         </div>
       </a>
       <a class="avp-rel-card" href="/blog/cairo-travel-guide-pyramids-museums-bazaars/">
-        <div class="avp-rel-img"><span>Destination Guides</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Cairo-travel-guide.png.webp" alt="Cairo Travel Guide: Explore Pyramids, Bazaars &amp; Museums" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-img"><span>Destination Guides</span><img width="1448" height="1086" loading="lazy" decoding="async" src="/assets/uploads/2026/06/Cairo-travel-guide.png.webp" alt="Cairo Travel Guide: Explore Pyramids, Bazaars &amp; Museums" onerror="this.style.display='none'"></div>
         <div class="avp-rel-body">
           <h3>Cairo Travel Guide: Explore Pyramids, Bazaars &amp; Museums</h3>
           <div class="avp-rel-meta">Read Article <small>20 June 2026 · 6 min</small></div>
         </div>
       </a>
       <a class="avp-rel-card" href="/blog/luxor-egypt-travel-guide-temples-balloon/">
-        <div class="avp-rel-img"><span>Destination Guides</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Luxor-Egypt-travel-guide.png.webp" alt="Luxor Egypt Travel Guide: Temples, Tombs &amp; Balloon Rides" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-img"><span>Destination Guides</span><img width="1448" height="1086" loading="lazy" decoding="async" src="/assets/uploads/2026/06/Luxor-Egypt-travel-guide.png.webp" alt="Luxor Egypt Travel Guide: Temples, Tombs &amp; Balloon Rides" onerror="this.style.display='none'"></div>
         <div class="avp-rel-body">
           <h3>Luxor Egypt Travel Guide: Temples, Tombs &amp; Balloon Rides</h3>
           <div class="avp-rel-meta">Read Article <small>18 June 2026 · 6 min</small></div>
@@ -648,7 +649,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/4-days-christmas-new-year-nile-cruise/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Christmas</span>
-          <img loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
+          <img width="1600" height="822" loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
         </div>
         <div class="avi-seasonal-body">
           <h3>4 Days Christmas &amp; New Year Nile Cruise</h3>
@@ -661,7 +662,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/total-solar-eclipse-tour-2027/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Eclipse 2027</span>
-          <img loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
+          <img width="1600" height="872" loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
         </div>
         <div class="avi-seasonal-body">
           <h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3>

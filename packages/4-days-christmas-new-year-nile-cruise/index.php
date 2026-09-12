@@ -155,6 +155,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <script type="text/javascript" src="/assets/core/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="/assets/core/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script type="application/ld+json" id="avicon-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://avicontravel.com/#organization","name":"Avicon Travel","url":"https://avicontravel.com/","logo":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp"},"email":"info@avicontravel.com","telephone":"+201200555600","sameAs":["https://www.instagram.com/avicontravel/","https://www.facebook.com/profile.php?id=61589341120733","https://www.tripadvisor.com/Attraction_Review-g294204-d27707479-Reviews-Avicon_Travel-Aswan_Aswan_Governorate_Nile_River_Valley.html"]},{"@type":"WebSite","@id":"https://avicontravel.com/#website","url":"https://avicontravel.com/","name":"Avicon Travel","publisher":{"@id":"https://avicontravel.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://avicontravel.com/packages/4-days-christmas-new-year-nile-cruise/#webpage","url":"https://avicontravel.com/packages/4-days-christmas-new-year-nile-cruise/","name":"4-Day Christmas & New Year Nile Cruise | From $360","description":"Celebrate Christmas or New Year on a 4-day Nile cruise from Aswan to Luxor with Kom Ombo, Edfu, Luxor's West Bank and Karnak. From $360 per person.","isPartOf":{"@id":"https://avicontravel.com/#website"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/Holiday-evening-on-a-festive-riverboat.png"},"breadcrumb":{"@id":"https://avicontravel.com/packages/4-days-christmas-new-year-nile-cruise/#breadcrumb"},"mainEntity":{"@id":"https://avicontravel.com/packages/4-days-christmas-new-year-nile-cruise/#trip"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://avicontravel.com/packages/4-days-christmas-new-year-nile-cruise/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://avicontravel.com/"},{"@type":"ListItem","position":2,"name":"Egypt Packages","item":"https://avicontravel.com/packages/"},{"@type":"ListItem","position":3,"name":"4 Days Christmas & New Year Nile Cruise","item":"https://avicontravel.com/packages/4-days-christmas-new-year-nile-cruise/"}]},{"@type":"TouristTrip","@id":"https://avicontravel.com/packages/4-days-christmas-new-year-nile-cruise/#trip","name":"4 Days Christmas & New Year Nile Cruise","description":"Celebrate Christmas or New Year on a 4-day Nile cruise from Aswan to Luxor with Kom Ombo, Edfu, Luxor's West Bank and Karnak. From $360 per person.","url":"https://avicontravel.com/packages/4-days-christmas-new-year-nile-cruise/","image":"https://avicontravel.com/assets/uploads/2026/05/Holiday-evening-on-a-festive-riverboat.png","provider":{"@id":"https://avicontravel.com/#organization"},"itinerary":{"@type":"ItemList","numberOfItems":4,"itemListElement":[{"@type":"ListItem","position":1,"name":"Day 1 Arrival in Aswan"},{"@type":"ListItem","position":2,"name":"Day 2 Kom Ombo & Edfu Temples"},{"@type":"ListItem","position":3,"name":"Day 3 Luxor West Bank Tour"},{"@type":"ListItem","position":4,"name":"Day 4 Karnak & Luxor Temples / Departure"}]},"offers":{"@type":"Offer","price":"360","priceCurrency":"USD","availability":"https://schema.org/InStock","url":"https://avicontravel.com/packages/4-days-christmas-new-year-nile-cruise/","description":"Starting price per person","seller":{"@id":"https://avicontravel.com/#organization"}}}]}</script>
+<style id="avicon-img-ratio">:where(img[width][height]){height:auto}</style>
 </head>
 <body data-rsssl=1 data-cmplz=1 class="wp-singular tour-template tour-template-elementor_header_footer single single-tour postid-11243 wp-custom-logo wp-theme-gofly-main tt-magic-cursor  theme-gofly-main woocommerce-no-js elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-11243">
 <?php include $_SERVER['DOCUMENT_ROOT'].'/includes/header.php'; ?>
@@ -1100,9 +1101,9 @@ textarea.form-input{resize:vertical;min-height:60px}
     </div>
   </div>
   <div class="bk-gallery bk-container">
-    <div class="bk-main" data-bk-lb="1"><img decoding="async" src="/assets/uploads/2026/07/5-Days-Nile-Cruise-Luxor-to-Aswan-002.jpg.webp" alt="4 Days Christmas &amp; New Year Nile Cruise"></div>
-      <div class="bk-tile" data-bk-lb="1"><img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Holiday-evening-on-a-festive-riverboat.png.webp" alt="4 Days Christmas &amp; New Year Nile Cruise – photo 2"></div>
-      <div class="bk-tile" data-bk-lb="1"><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Serene-Nile-cruise-at-sunset.png.webp" alt="4 Days Christmas &amp; New Year Nile Cruise – photo 3">
+    <div class="bk-main" data-bk-lb="1"><img width="1024" height="678" decoding="async" src="/assets/uploads/2026/07/5-Days-Nile-Cruise-Luxor-to-Aswan-002.jpg.webp" alt="4 Days Christmas &amp; New Year Nile Cruise"></div>
+      <div class="bk-tile" data-bk-lb="1"><img width="1600" height="900" loading="lazy" decoding="async" src="/assets/uploads/2026/05/Holiday-evening-on-a-festive-riverboat.png.webp" alt="4 Days Christmas &amp; New Year Nile Cruise – photo 2"></div>
+      <div class="bk-tile" data-bk-lb="1"><img width="1448" height="1086" loading="lazy" decoding="async" src="/assets/uploads/2026/06/Serene-Nile-cruise-at-sunset.png.webp" alt="4 Days Christmas &amp; New Year Nile Cruise – photo 3">
       </div>
   </div>
 </section>
@@ -1111,7 +1112,7 @@ textarea.form-input{resize:vertical;min-height:60px}
 <div class="bk-lb" id="bkLb">
   <button class="bk-lb-close" aria-label="Close">✕</button>
   <button class="bk-lb-prev" aria-label="Previous">‹</button>
-  <img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Holiday-evening-on-a-festive-riverboat.png.webp" alt="4 Days Christmas &amp; New Year Nile Cruise">
+  <img width="1600" height="900" loading="lazy" decoding="async" src="/assets/uploads/2026/05/Holiday-evening-on-a-festive-riverboat.png.webp" alt="4 Days Christmas &amp; New Year Nile Cruise">
   <button class="bk-lb-next" aria-label="Next">›</button>
   <div class="bk-lb-count">1 / 3</div>
 </div>
@@ -1512,7 +1513,7 @@ textarea.form-input{resize:vertical;min-height:60px}
         <div class="related-img">
           <span class="related-duration">8 Days</span>
           <span class="related-cities"><i class="fas fa-map-marker-alt"></i> Cairo · Aswan · Luxor · Hurghada</span>
-          <img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Abu-simble.jpg" alt="8 Days Cairo, Abu Simbel, Luxor &amp; Hurghada" onerror="this.style.display='none'">
+          <img width="564" height="375" loading="lazy" decoding="async" src="/assets/uploads/2026/05/Abu-simble.jpg" alt="8 Days Cairo, Abu Simbel, Luxor &amp; Hurghada" onerror="this.style.display='none'">
         </div>
         <div class="related-body">
           <div class="related-title">8 Days Cairo, Abu Simbel, Luxor &amp; Hurghada</div>
@@ -1527,7 +1528,7 @@ textarea.form-input{resize:vertical;min-height:60px}
         <div class="related-img">
           <span class="related-duration">7 Days</span>
           <span class="related-cities"><i class="fas fa-map-marker-alt"></i> Cairo · Hurghada</span>
-          <img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Desert-monuments-meet-coastal-paradise-650x400.png.webp" alt="7 Days Cairo &amp; Hurghada Holiday" onerror="this.style.display='none'">
+          <img width="650" height="400" loading="lazy" decoding="async" src="/assets/uploads/2026/05/Desert-monuments-meet-coastal-paradise-650x400.png.webp" alt="7 Days Cairo &amp; Hurghada Holiday" onerror="this.style.display='none'">
         </div>
         <div class="related-body">
           <div class="related-title">7 Days Cairo &amp; Hurghada Holiday</div>
@@ -1542,7 +1543,7 @@ textarea.form-input{resize:vertical;min-height:60px}
         <div class="related-img">
           <span class="related-duration">6 Days</span>
           <span class="related-cities"><i class="fas fa-map-marker-alt"></i> Cairo · Hurghada</span>
-          <img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Giza-Pyramids-650x400.jpg" alt="6 Days Cairo &amp; Hurghada Package" onerror="this.style.display='none'">
+          <img width="650" height="400" loading="lazy" decoding="async" src="/assets/uploads/2026/05/Giza-Pyramids-650x400.jpg" alt="6 Days Cairo &amp; Hurghada Package" onerror="this.style.display='none'">
         </div>
         <div class="related-body">
           <div class="related-title">6 Days Cairo &amp; Hurghada Package</div>
@@ -1944,7 +1945,7 @@ textarea.form-input{resize:vertical;min-height:60px}
       <a class="avi-seasonal-card" href="/packages/4-days-christmas-new-year-nile-cruise/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Christmas</span>
-          <img loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
+          <img width="1600" height="822" loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
         </div>
         <div class="avi-seasonal-body">
           <h3>4 Days Christmas &amp; New Year Nile Cruise</h3>
@@ -1957,7 +1958,7 @@ textarea.form-input{resize:vertical;min-height:60px}
       <a class="avi-seasonal-card" href="/packages/total-solar-eclipse-tour-2027/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Eclipse 2027</span>
-          <img loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
+          <img width="1600" height="872" loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
         </div>
         <div class="avi-seasonal-body">
           <h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3>

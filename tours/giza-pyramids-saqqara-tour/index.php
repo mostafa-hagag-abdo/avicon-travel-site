@@ -159,6 +159,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <script type="text/javascript" src="/assets/core/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="/assets/core/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script type="application/ld+json" id="avicon-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://avicontravel.com/#organization","name":"Avicon Travel","url":"https://avicontravel.com/","logo":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp"},"email":"info@avicontravel.com","telephone":"+201200555600","sameAs":["https://www.instagram.com/avicontravel/","https://www.facebook.com/profile.php?id=61589341120733","https://www.tripadvisor.com/Attraction_Review-g294204-d27707479-Reviews-Avicon_Travel-Aswan_Aswan_Governorate_Nile_River_Valley.html"]},{"@type":"WebSite","@id":"https://avicontravel.com/#website","url":"https://avicontravel.com/","name":"Avicon Travel","publisher":{"@id":"https://avicontravel.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://avicontravel.com/tours/giza-pyramids-saqqara-tour/#webpage","url":"https://avicontravel.com/tours/giza-pyramids-saqqara-tour/","name":"Giza Pyramids & Saqqara Private Day Tour | From $50","description":"Private day tour from Cairo to the Giza Pyramids, the Great Sphinx and Saqqara's Step Pyramid, with hotel pickup and an optional lunch. From $50 per person.","isPartOf":{"@id":"https://avicontravel.com/#website"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/Ancient-Wonders-Of-Giza-Saqqara-1024x677.jpg"},"breadcrumb":{"@id":"https://avicontravel.com/tours/giza-pyramids-saqqara-tour/#breadcrumb"},"mainEntity":{"@id":"https://avicontravel.com/tours/giza-pyramids-saqqara-tour/#trip"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://avicontravel.com/tours/giza-pyramids-saqqara-tour/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://avicontravel.com/"},{"@type":"ListItem","position":2,"name":"Day Tours","item":"https://avicontravel.com/tours/"},{"@type":"ListItem","position":3,"name":"Giza Pyramids & Saqqara Tour","item":"https://avicontravel.com/tours/giza-pyramids-saqqara-tour/"}]},{"@type":"TouristTrip","@id":"https://avicontravel.com/tours/giza-pyramids-saqqara-tour/#trip","name":"Giza Pyramids & Saqqara Tour","description":"Private day tour from Cairo to the Giza Pyramids, the Great Sphinx and Saqqara's Step Pyramid, with hotel pickup and an optional lunch. From $50 per person.","url":"https://avicontravel.com/tours/giza-pyramids-saqqara-tour/","image":"https://avicontravel.com/assets/uploads/2026/05/Ancient-Wonders-Of-Giza-Saqqara-1024x677.jpg","provider":{"@id":"https://avicontravel.com/#organization"},"itinerary":{"@type":"ItemList","numberOfItems":6,"itemListElement":[{"@type":"ListItem","position":1,"name":"Step 1 Hotel Pickup In Cairo"},{"@type":"ListItem","position":2,"name":"Step 2 Visit The Giza Pyramids"},{"@type":"ListItem","position":3,"name":"Step 3 The Great Sphinx Visit"},{"@type":"ListItem","position":4,"name":"Step 4 Saqqara Step Pyramid Tour"},{"@type":"ListItem","position":5,"name":"Step 5 Optional Lunch Break"},{"@type":"ListItem","position":6,"name":"Step 6 Return Transfer"}]},"offers":{"@type":"Offer","price":"50","priceCurrency":"USD","availability":"https://schema.org/InStock","url":"https://avicontravel.com/tours/giza-pyramids-saqqara-tour/","description":"Starting price per person","seller":{"@id":"https://avicontravel.com/#organization"}}}]}</script>
+<style id="avicon-img-ratio">:where(img[width][height]){height:auto}</style>
 </head>
 <body data-rsssl=1 data-cmplz=1 class="wp-singular tour-template tour-template-elementor_header_footer single single-tour postid-11201 wp-custom-logo wp-theme-gofly-main tt-magic-cursor  theme-gofly-main woocommerce-no-js elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-11201">
 <?php include $_SERVER['DOCUMENT_ROOT'].'/includes/header.php'; ?>
@@ -178,9 +179,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     </div>
   </div>
   <div class="bk-gallery bk-container">
-    <div class="bk-main" data-bk-lb="1"><img decoding="async" src="/assets/uploads/2026/05/Private-Tour-To-Giza-Pyramids-Saqqara.jpg.webp" alt="Giza Pyramids &amp; Saqqara Tour"></div>
-      <div class="bk-tile" data-bk-lb="1"><img loading="lazy" decoding="async" src="/assets/uploads/Giza-Pyramids-Sphinx-Saqqara-Tour.jpg.webp" alt="Giza Pyramids &amp; Saqqara Tour – photo 2"></div>
-      <div class="bk-tile" data-bk-lb="1"><img loading="lazy" decoding="async" src="/assets/uploads/Giza-Pyramids-Saqqara-Gallery.jpg.webp" alt="Giza Pyramids &amp; Saqqara Tour – photo 3">
+    <div class="bk-main" data-bk-lb="1"><img width="1600" height="1062" decoding="async" src="/assets/uploads/2026/05/Private-Tour-To-Giza-Pyramids-Saqqara.jpg.webp" alt="Giza Pyramids &amp; Saqqara Tour"></div>
+      <div class="bk-tile" data-bk-lb="1"><img width="1600" height="1065" loading="lazy" decoding="async" src="/assets/uploads/Giza-Pyramids-Sphinx-Saqqara-Tour.jpg.webp" alt="Giza Pyramids &amp; Saqqara Tour – photo 2"></div>
+      <div class="bk-tile" data-bk-lb="1"><img width="1600" height="1066" loading="lazy" decoding="async" src="/assets/uploads/Giza-Pyramids-Saqqara-Gallery.jpg.webp" alt="Giza Pyramids &amp; Saqqara Tour – photo 3">
       </div>
   </div>
 </section>
@@ -189,7 +190,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <div class="bk-lb" id="bkLb">
   <button class="bk-lb-close" aria-label="Close">✕</button>
   <button class="bk-lb-prev" aria-label="Previous">‹</button>
-  <img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Ancient-Wonders-Of-Giza-Saqqara-scaled.jpg.webp" alt="Giza Pyramids &amp; Saqqara Tour">
+  <img width="1600" height="1058" loading="lazy" decoding="async" src="/assets/uploads/2026/05/Ancient-Wonders-Of-Giza-Saqqara-scaled.jpg.webp" alt="Giza Pyramids &amp; Saqqara Tour">
   <button class="bk-lb-next" aria-label="Next">›</button>
   <div class="bk-lb-count">1 / 3</div>
 </div>
@@ -649,7 +650,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <div class="related-img">
           <span class="related-duration">6 To 8 Hours</span>
           <span class="related-cities"><i class="fas fa-map-marker-alt"></i> Cairo</span>
-          <img loading="lazy" decoding="async" src="/assets/uploads/2026/07/Ancient-Wonders-Of-Giza-Saqqara-scaled-1.jpg.webp" alt="Saqqara, Memphis &amp; Dahshur Day Trip" onerror="this.style.display='none'">
+          <img width="1600" height="1058" loading="lazy" decoding="async" src="/assets/uploads/2026/07/Ancient-Wonders-Of-Giza-Saqqara-scaled-1.jpg.webp" alt="Saqqara, Memphis &amp; Dahshur Day Trip" onerror="this.style.display='none'">
         </div>
         <div class="related-body">
           <div class="related-title">Saqqara, Memphis &amp; Dahshur Day Trip</div>
@@ -664,7 +665,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <div class="related-img">
           <span class="related-duration">6 To 8 Hours</span>
           <span class="related-cities"><i class="fas fa-map-marker-alt"></i> Cairo</span>
-          <img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Egyptian-Museum-Tour.jpg" alt="Grand Egyptian Museum &amp; Pyramids" onerror="this.style.display='none'">
+          <img width="563" height="350" loading="lazy" decoding="async" src="/assets/uploads/2026/05/Egyptian-Museum-Tour.jpg" alt="Grand Egyptian Museum &amp; Pyramids" onerror="this.style.display='none'">
         </div>
         <div class="related-body">
           <div class="related-title">Grand Egyptian Museum &amp; Pyramids</div>
@@ -679,7 +680,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <div class="related-img">
           <span class="related-duration">3 To 4 Hours</span>
           <span class="related-cities"><i class="fas fa-map-marker-alt"></i> Cairo</span>
-          <img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Cairo-Nile-Dinner-Cruise-Live-Entertainment-650x400.jpg" alt="Luxury Cairo Dinner Nile Cruise With Entertainment Show" onerror="this.style.display='none'">
+          <img width="650" height="400" loading="lazy" decoding="async" src="/assets/uploads/2026/05/Cairo-Nile-Dinner-Cruise-Live-Entertainment-650x400.jpg" alt="Luxury Cairo Dinner Nile Cruise With Entertainment Show" onerror="this.style.display='none'">
         </div>
         <div class="related-body">
           <div class="related-title">Luxury Cairo Dinner Nile Cruise With Entertainment Show</div>
@@ -1078,7 +1079,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/4-days-christmas-new-year-nile-cruise/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Christmas</span>
-          <img loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
+          <img width="1600" height="822" loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
         </div>
         <div class="avi-seasonal-body">
           <h3>4 Days Christmas &amp; New Year Nile Cruise</h3>
@@ -1091,7 +1092,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/total-solar-eclipse-tour-2027/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Eclipse 2027</span>
-          <img loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
+          <img width="1600" height="872" loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
         </div>
         <div class="avi-seasonal-body">
           <h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3>

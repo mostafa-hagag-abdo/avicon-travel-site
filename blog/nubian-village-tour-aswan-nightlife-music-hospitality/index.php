@@ -145,6 +145,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <script type="text/javascript" src="/assets/core/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="/assets/core/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script type="application/ld+json" id="avicon-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://avicontravel.com/#organization","name":"Avicon Travel","url":"https://avicontravel.com/","logo":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/cropped-Avicon-Travel-1-1.png.webp"},"email":"info@avicontravel.com","telephone":"+201200555600","sameAs":["https://www.instagram.com/avicontravel/","https://www.facebook.com/profile.php?id=61589341120733","https://www.tripadvisor.com/Attraction_Review-g294204-d27707479-Reviews-Avicon_Travel-Aswan_Aswan_Governorate_Nile_River_Valley.html"]},{"@type":"WebSite","@id":"https://avicontravel.com/#website","url":"https://avicontravel.com/","name":"Avicon Travel","publisher":{"@id":"https://avicontravel.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://avicontravel.com/blog/nubian-village-tour-aswan-nightlife-music-hospitality/#webpage","url":"https://avicontravel.com/blog/nubian-village-tour-aswan-nightlife-music-hospitality/","name":"Nubian Village Tour Aswan: Experience Nile Magic & Nightlife","description":"Discover Nubian culture in Aswan. Enjoy vibrant nightlife, live music, and legendary Nile hospitality on an unforgettable village tour.","isPartOf":{"@id":"https://avicontravel.com/#website"},"about":{"@id":"https://avicontravel.com/#organization"},"datePublished":"2026-07-05T18:01:04+00:00","dateModified":"2026-07-05T18:01:04+00:00","breadcrumb":{"@id":"https://avicontravel.com/blog/nubian-village-tour-aswan-nightlife-music-hospitality/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://avicontravel.com/blog/nubian-village-tour-aswan-nightlife-music-hospitality/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://avicontravel.com/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://avicontravel.com/blog/"},{"@type":"ListItem","position":3,"name":"Nubian Village Tour Aswan: Experience Nile Magic & Nightlife","item":"https://avicontravel.com/blog/nubian-village-tour-aswan-nightlife-music-hospitality/"}]},{"@type":"BlogPosting","@id":"https://avicontravel.com/blog/nubian-village-tour-aswan-nightlife-music-hospitality/#article","headline":"Nubian Village Tour Aswan: Experience Nile Magic & Nightlife","description":"Discover Nubian culture in Aswan. Enjoy vibrant nightlife, live music, and legendary Nile hospitality on an unforgettable village tour.","datePublished":"2026-07-05T18:01:04+00:00","dateModified":"2026-07-05T18:01:04+00:00","articleSection":"Uncategorized","keywords":"nubian village tour aswan","author":{"@id":"https://avicontravel.com/#organization"},"publisher":{"@id":"https://avicontravel.com/#organization"},"mainEntityOfPage":{"@id":"https://avicontravel.com/blog/nubian-village-tour-aswan-nightlife-music-hospitality/#webpage"},"inLanguage":"en-US"}]}</script>
+<style id="avicon-img-ratio">:where(img[width][height]){height:auto}</style>
 </head>
 <body data-rsssl=1 data-cmplz=1 class="wp-singular post-template-default single single-post postid-11497 single-format-standard wp-custom-logo wp-theme-gofly-main tt-magic-cursor  theme-gofly-main woocommerce-no-js elementor-default elementor-kit-7">
 <?php include $_SERVER['DOCUMENT_ROOT'].'/includes/header.php'; ?>
@@ -163,7 +164,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <span><i class="fas fa-clock"></i> 6 min read</span>
     </div>
   </header>
-  <figure class="avp-figure"><img decoding="async" src="/assets/uploads/2025/09/Nubian-Culture-Nile-Beauty-1536x864.png.webp" alt="Nubian Village Tour Aswan: Experience Nile Magic &amp; Nightlife"></figure>
+  <figure class="avp-figure"><img width="1536" height="864" decoding="async" src="/assets/uploads/2025/09/Nubian-Culture-Nile-Beauty-1536x864.png.webp" alt="Nubian Village Tour Aswan: Experience Nile Magic &amp; Nightlife"></figure>
 <article class="avp-body">
 <p>
         Imagine gliding along the legendary Nile at sunset, the air filled with the rhythms of African drums, warm smiles welcoming you to colorful Nubian homes, and a world of ancient traditions coming alive. If you’re seeking an unforgettable adventure, the <strong>nubian village tour aswan</strong> is the key to unlocking magic you’ll never forget. Discover lively nightlife, mesmerizing music, and the unrivaled hospitality of the Nubian people on a journey that’s as vibrant as the Nile itself.
@@ -299,21 +300,21 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     <p class="sub">More guides and tips for your Egypt trip</p>
     <div class="avp-rel-grid">
       <a class="avp-rel-card" href="/blog/aswan-egypt-guide-temples-nubian-villages-sunsets/">
-        <div class="avp-rel-img"><span>Destination Guides</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Aswan-Egypt-guide.png.webp" alt="Aswan Egypt Guide: Discover Temples, Nubian Culture &amp; Sunsets" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-img"><span>Destination Guides</span><img width="1448" height="1086" loading="lazy" decoding="async" src="/assets/uploads/2026/06/Aswan-Egypt-guide.png.webp" alt="Aswan Egypt Guide: Discover Temples, Nubian Culture &amp; Sunsets" onerror="this.style.display='none'"></div>
         <div class="avp-rel-body">
           <h3>Aswan Egypt Guide: Discover Temples, Nubian Culture &amp; Sunsets</h3>
           <div class="avp-rel-meta">Read Article <small>19 June 2026 · 6 min</small></div>
         </div>
       </a>
       <a class="avp-rel-card" href="/blog/cairo-travel-guide-pyramids-museums-bazaars/">
-        <div class="avp-rel-img"><span>Destination Guides</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Cairo-travel-guide.png.webp" alt="Cairo Travel Guide: Explore Pyramids, Bazaars &amp; Museums" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-img"><span>Destination Guides</span><img width="1448" height="1086" loading="lazy" decoding="async" src="/assets/uploads/2026/06/Cairo-travel-guide.png.webp" alt="Cairo Travel Guide: Explore Pyramids, Bazaars &amp; Museums" onerror="this.style.display='none'"></div>
         <div class="avp-rel-body">
           <h3>Cairo Travel Guide: Explore Pyramids, Bazaars &amp; Museums</h3>
           <div class="avp-rel-meta">Read Article <small>20 June 2026 · 6 min</small></div>
         </div>
       </a>
       <a class="avp-rel-card" href="/blog/egypt-packing-light-essential-guide/">
-        <div class="avp-rel-img"><span>Travel Tips &amp; Packing</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Egypt-Packing-Light-Essential-Guide-for-Tourists.png.webp" alt="Egypt Packing Light: Essential Guide for Tourists" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-img"><span>Travel Tips &amp; Packing</span><img width="1600" height="900" loading="lazy" decoding="async" src="/assets/uploads/2026/06/Egypt-Packing-Light-Essential-Guide-for-Tourists.png.webp" alt="Egypt Packing Light: Essential Guide for Tourists" onerror="this.style.display='none'"></div>
         <div class="avp-rel-body">
           <h3>Egypt Packing Light: Essential Guide for Tourists</h3>
           <div class="avp-rel-meta">Read Article <small>25 June 2026 · 6 min</small></div>
@@ -513,7 +514,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/4-days-christmas-new-year-nile-cruise/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Christmas</span>
-          <img loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
+          <img width="1600" height="822" loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
         </div>
         <div class="avi-seasonal-body">
           <h3>4 Days Christmas &amp; New Year Nile Cruise</h3>
@@ -526,7 +527,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/total-solar-eclipse-tour-2027/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Eclipse 2027</span>
-          <img loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
+          <img width="1600" height="872" loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
         </div>
         <div class="avi-seasonal-body">
           <h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3>

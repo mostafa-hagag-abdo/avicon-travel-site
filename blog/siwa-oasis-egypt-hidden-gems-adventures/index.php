@@ -154,6 +154,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <script type="text/javascript" src="/assets/core/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="/assets/core/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script type="application/ld+json" id="avicon-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://avicontravel.com/#organization","name":"Avicon Travel","url":"https://avicontravel.com/","logo":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/cropped-Avicon-Travel-1-1.png.webp"},"email":"info@avicontravel.com","telephone":"+201200555600","sameAs":["https://www.instagram.com/avicontravel/","https://www.facebook.com/profile.php?id=61589341120733","https://www.tripadvisor.com/Attraction_Review-g294204-d27707479-Reviews-Avicon_Travel-Aswan_Aswan_Governorate_Nile_River_Valley.html"]},{"@type":"WebSite","@id":"https://avicontravel.com/#website","url":"https://avicontravel.com/","name":"Avicon Travel","publisher":{"@id":"https://avicontravel.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://avicontravel.com/blog/siwa-oasis-egypt-hidden-gems-adventures/#webpage","url":"https://avicontravel.com/blog/siwa-oasis-egypt-hidden-gems-adventures/","name":"Siwa Oasis Egypt: Hidden Gems & Adventures Await","description":"Discover Egypt’s secret escapes—Siwa Oasis, Bahariya, and Fayoum. Unforgettable adventures for foreign travelers exploring Egypt.","isPartOf":{"@id":"https://avicontravel.com/#website"},"about":{"@id":"https://avicontravel.com/#organization"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/06/Siwa-Oasis-at-golden-hour.png"},"datePublished":"2026-06-21T20:14:23+00:00","dateModified":"2026-06-22T15:03:16+00:00","breadcrumb":{"@id":"https://avicontravel.com/blog/siwa-oasis-egypt-hidden-gems-adventures/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://avicontravel.com/blog/siwa-oasis-egypt-hidden-gems-adventures/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://avicontravel.com/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://avicontravel.com/blog/"},{"@type":"ListItem","position":3,"name":"Siwa Oasis Egypt: Hidden Gems & Adventures Await","item":"https://avicontravel.com/blog/siwa-oasis-egypt-hidden-gems-adventures/"}]},{"@type":"BlogPosting","@id":"https://avicontravel.com/blog/siwa-oasis-egypt-hidden-gems-adventures/#article","headline":"Siwa Oasis Egypt: Hidden Gems & Adventures Await","description":"Discover Egypt’s secret escapes—Siwa Oasis, Bahariya, and Fayoum. Unforgettable adventures for foreign travelers exploring Egypt.","image":"https://avicontravel.com/assets/uploads/2026/06/Siwa-Oasis-at-golden-hour.png","datePublished":"2026-06-21T20:14:23+00:00","dateModified":"2026-06-22T15:03:16+00:00","articleSection":"Destination Guides","keywords":"Siwa Oasis Egypt","author":{"@id":"https://avicontravel.com/#organization"},"publisher":{"@id":"https://avicontravel.com/#organization"},"mainEntityOfPage":{"@id":"https://avicontravel.com/blog/siwa-oasis-egypt-hidden-gems-adventures/#webpage"},"inLanguage":"en-US"}]}</script>
+<style id="avicon-img-ratio">:where(img[width][height]){height:auto}</style>
 </head>
 <body data-rsssl=1 data-cmplz=1 class="wp-singular post-template-default single single-post postid-11445 single-format-standard wp-custom-logo wp-theme-gofly-main tt-magic-cursor  theme-gofly-main woocommerce-no-js elementor-default elementor-kit-7">
 <?php include $_SERVER['DOCUMENT_ROOT'].'/includes/header.php'; ?>
@@ -172,7 +173,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <span><i class="fas fa-clock"></i> 6 min read</span>
     </div>
   </header>
-  <figure class="avp-figure"><img decoding="async" src="/assets/uploads/2026/06/Siwa-Oasis-at-golden-hour.png.webp" alt="Siwa Oasis Egypt: Hidden Gems &amp; Adventures Await"></figure>
+  <figure class="avp-figure"><img width="1448" height="1086" decoding="async" src="/assets/uploads/2026/06/Siwa-Oasis-at-golden-hour.png.webp" alt="Siwa Oasis Egypt: Hidden Gems &amp; Adventures Await"></figure>
 <article class="avp-body">
 <p><br>When most travelers think of Egypt, the majestic Pyramids of Giza, the enigmatic Sphinx, and bustling Cairo come to mind. But a journey to <strong>Siwa Oasis Egypt</strong> unveils a mesmerizing side to the country that remains blissfully untouched by mass tourism. Nestled deep in the Western Desert, Siwa—along with the fascinating Bahariya and Fayoum oases—offers intrepid explorers a world of lush palm groves, crystalline springs, surreal landscapes, and ancient traditions. If you’re searching for authentic experiences and once-in-a-lifetime adventures, Egypt’s hidden oases are yours to discover.</p>
 
@@ -500,21 +501,21 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     <p class="sub">More guides and tips for your Egypt trip</p>
     <div class="avp-rel-grid">
       <a class="avp-rel-card" href="/blog/aswan-egypt-guide-temples-nubian-villages-sunsets/">
-        <div class="avp-rel-img"><span>Destination Guides</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Aswan-Egypt-guide.png.webp" alt="Aswan Egypt Guide: Discover Temples, Nubian Culture &amp; Sunsets" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-img"><span>Destination Guides</span><img width="1448" height="1086" loading="lazy" decoding="async" src="/assets/uploads/2026/06/Aswan-Egypt-guide.png.webp" alt="Aswan Egypt Guide: Discover Temples, Nubian Culture &amp; Sunsets" onerror="this.style.display='none'"></div>
         <div class="avp-rel-body">
           <h3>Aswan Egypt Guide: Discover Temples, Nubian Culture &amp; Sunsets</h3>
           <div class="avp-rel-meta">Read Article <small>19 June 2026 · 6 min</small></div>
         </div>
       </a>
       <a class="avp-rel-card" href="/blog/cairo-travel-guide-pyramids-museums-bazaars/">
-        <div class="avp-rel-img"><span>Destination Guides</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Cairo-travel-guide.png.webp" alt="Cairo Travel Guide: Explore Pyramids, Bazaars &amp; Museums" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-img"><span>Destination Guides</span><img width="1448" height="1086" loading="lazy" decoding="async" src="/assets/uploads/2026/06/Cairo-travel-guide.png.webp" alt="Cairo Travel Guide: Explore Pyramids, Bazaars &amp; Museums" onerror="this.style.display='none'"></div>
         <div class="avp-rel-body">
           <h3>Cairo Travel Guide: Explore Pyramids, Bazaars &amp; Museums</h3>
           <div class="avp-rel-meta">Read Article <small>20 June 2026 · 6 min</small></div>
         </div>
       </a>
       <a class="avp-rel-card" href="/blog/luxor-egypt-travel-guide-temples-balloon/">
-        <div class="avp-rel-img"><span>Destination Guides</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Luxor-Egypt-travel-guide.png.webp" alt="Luxor Egypt Travel Guide: Temples, Tombs &amp; Balloon Rides" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-img"><span>Destination Guides</span><img width="1448" height="1086" loading="lazy" decoding="async" src="/assets/uploads/2026/06/Luxor-Egypt-travel-guide.png.webp" alt="Luxor Egypt Travel Guide: Temples, Tombs &amp; Balloon Rides" onerror="this.style.display='none'"></div>
         <div class="avp-rel-body">
           <h3>Luxor Egypt Travel Guide: Temples, Tombs &amp; Balloon Rides</h3>
           <div class="avp-rel-meta">Read Article <small>18 June 2026 · 6 min</small></div>
@@ -714,7 +715,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/4-days-christmas-new-year-nile-cruise/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Christmas</span>
-          <img loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
+          <img width="1600" height="822" loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
         </div>
         <div class="avi-seasonal-body">
           <h3>4 Days Christmas &amp; New Year Nile Cruise</h3>
@@ -727,7 +728,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/total-solar-eclipse-tour-2027/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Eclipse 2027</span>
-          <img loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
+          <img width="1600" height="872" loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
         </div>
         <div class="avi-seasonal-body">
           <h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3>

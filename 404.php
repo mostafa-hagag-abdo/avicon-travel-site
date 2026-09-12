@@ -19,6 +19,7 @@ a.btn{display:inline-flex;align-items:center;gap:9px;background:#F5A623;color:#1
 a.btn.ghost{background:#fff;color:#1A3A6E;border:1px solid #E1E8F0}
 a.btn:hover{transform:translateY(-2px)}
 </style>
+<style id="avicon-img-ratio">:where(img[width][height]){height:auto}</style>
 </head>
 <body>
 <div class="wrap">

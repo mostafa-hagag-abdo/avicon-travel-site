@@ -13,7 +13,7 @@
           <div class="topbar-wrap">
               <div class="logo-and-search-area">
                                         <a href="/" class="header-logo">
-                          <img src="/assets/uploads/2026/05/cropped-Avicon-Travel-1-1.png.webp" alt="logo-image">
+                          <img width="355" height="250" src="/assets/uploads/2026/05/cropped-Avicon-Travel-1-1.png.webp" alt="logo-image">
                       </a>
                    
                                         <form class="search-area" method="get" id="searchform" action="/search/" role="search">
@@ -41,12 +41,12 @@
   <header class="style-1">
       <div class="container d-flex flex-nowrap align-items-center justify-content-between">
                         <a href="/" class="header-logo d-lg-none d-block">
-                  <img src="/assets/uploads/2026/05/Avicon-Travel.webp" alt="mobile-logo" />
+                  <img width="500" height="250" src="/assets/uploads/2026/05/Avicon-Travel.webp" alt="mobile-logo" />
               </a>
                     <div class="main-menu">
               <div class="mobile-logo-area d-lg-none d-flex align-items-center justify-content-between">
                                         <a href="/" class="mobile-logo-wrap">
-                          <img src="/assets/uploads/2026/05/Avicon-Travel.webp" alt="mobile-logo">
+                          <img width="500" height="250" src="/assets/uploads/2026/05/Avicon-Travel.webp" alt="mobile-logo">
                       </a>
                                     <div class="menu-close-btn">
                       <i class="bi bi-x"></i>

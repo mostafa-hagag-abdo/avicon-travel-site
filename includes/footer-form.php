@@ -44,7 +44,7 @@
         </form>
       </div>
       <div class="avi-info">
-        <div class="avi-info__image-wrap"><img decoding="async" src="/assets/uploads/2026/06/Avicon-Customer-Reviews-Pyramids-Giza.png.webp" alt="Egypt Tour Experience"></div>
+        <div class="avi-info__image-wrap"><img width="1402" height="1122" decoding="async" src="/assets/uploads/2026/06/Avicon-Customer-Reviews-Pyramids-Giza.png.webp" alt="Egypt Tour Experience"></div>
         <div class="avi-info__box">
           <h3 class="avi-info__title">Why Book With Us?</h3>
           <ul class="avi-info__list">
