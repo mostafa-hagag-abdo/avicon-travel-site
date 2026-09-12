@@ -43,8 +43,17 @@ jobs:
           # strip CRs in case the key was pasted from a Windows file
           printf '%s\n' "$SSH_PRIVATE_KEY" | tr -d '\r' > ~/.ssh/deploy_key
           chmod 600 ~/.ssh/deploy_key
-          ssh-keyscan -p "$SSH_PORT" "$SSH_HOST" >> ~/.ssh/known_hosts 2>/dev/null
-          rsync -rlz --checksum --itemize-changes --chmod=D755,F644 \
-            --exclude='.git*' --exclude='.github/' --exclude='_dev/' --exclude='.ftp-deploy-sync-state.json' \
-            -e "ssh -i ~/.ssh/deploy_key -p $SSH_PORT" \
-            ./ "$SSH_USER@$SSH_HOST:$REMOTE_DIR"
+          # the host sometimes drops a connection; retry instead of failing the deploy
+          for i in 1 2 3 4 5; do
+            ssh-keyscan -T 15 -p "$SSH_PORT" "$SSH_HOST" > ~/.ssh/known_hosts 2>/dev/null && [ -s ~/.ssh/known_hosts ] && break
+            echo "ssh-keyscan attempt $i failed, retrying"; sleep 10
+          done
+          [ -s ~/.ssh/known_hosts ] || { echo "::error::Could not reach $SSH_HOST:$SSH_PORT"; exit 1; }
+          for i in 1 2 3; do
+            rsync -rlz --checksum --itemize-changes --chmod=D755,F644 \
+              --exclude='.git*' --exclude='.github/' --exclude='_dev/' --exclude='.ftp-deploy-sync-state.json' \
+              -e "ssh -i ~/.ssh/deploy_key -p $SSH_PORT -o ConnectTimeout=20" \
+              ./ "$SSH_USER@$SSH_HOST:$REMOTE_DIR" && exit 0
+            echo "rsync attempt $i failed, retrying"; sleep 15
+          done
+          echo "::error::rsync failed 3 times"; exit 1
