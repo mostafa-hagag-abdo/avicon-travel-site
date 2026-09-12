@@ -683,7 +683,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
         <a class="package-card" href="/packages/total-solar-eclipse-tour-2027/">
           <div class="card-img"><span class="badge">2027 Event</span><span class="locations"><i class="fas fa-location-dot"></i> Aswan, Luxor</span><img decoding="async" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-650x400.png" alt="Total Solar Eclipse Tour 2027 Nile Cruise"></div>
-          <div class="card-body"><h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3><p>A special Egypt 2027 Nile cruise package designed around the total solar eclipse travel experience.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>4 Days / 3 Nights</strong></div><div class="meta"><span>Style</span><strong>Special Event</strong></div></div><div class="card-footer"><div class="price">$1,200.00</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
+          <div class="card-body"><h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3><p>A special Egypt 2027 Nile cruise package designed around the total solar eclipse travel experience.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>4 Days / 3 Nights</strong></div><div class="meta"><span>Style</span><strong>Special Event</strong></div></div><div class="card-footer"><div class="price">$1,199.00</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/packages/12-days-egypt-tour-to-cairo/">
@@ -1399,7 +1399,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <div class="avi-seasonal-body">
           <h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3>
           <p>A special Egypt 2027 journey designed around the total solar eclipse and Nile cruise sightseeing.</p>
-          <div class="avi-seasonal-info"><span>4 Days</span><span>From $1,200</span></div>
+          <div class="avi-seasonal-info"><span>4 Days</span><span>From $1,199</span></div>
           <span class="avi-seasonal-cta">View Offer</span>
         </div>
       </a>

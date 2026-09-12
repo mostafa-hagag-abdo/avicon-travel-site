@@ -1367,7 +1367,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <div class="avi-seasonal-body">
           <h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3>
           <p>A special Egypt 2027 journey designed around the total solar eclipse and Nile cruise sightseeing.</p>
-          <div class="avi-seasonal-info"><span>4 Days</span><span>From $1,200</span></div>
+          <div class="avi-seasonal-info"><span>4 Days</span><span>From $1,199</span></div>
           <span class="avi-seasonal-cta">View Offer</span>
         </div>
       </a>

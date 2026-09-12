@@ -21,7 +21,7 @@ SAME_AS = ["https://www.instagram.com/avicontravel/",
            "https://www.tripadvisor.com/Attraction_Review-g294204-d27707479-Reviews-Avicon_Travel-Aswan_Aswan_Governorate_Nile_River_Valley.html"]
 HUBS = {"packages": "Egypt Packages", "nile-cruises": "Egypt Nile Cruises", "tours": "Day Tours"}
 # pages whose price is being confirmed with the client: no Offer until it is settled
-PRICE_UNDER_REVIEW = {"/packages/4-days-christmas-new-year-nile-cruise/"}
+PRICE_UNDER_REVIEW = set()
 TAG = re.compile(r'<script type="application/ld\+json" id="avicon-schema">.*?</script>\r?\n?', re.S)
 
 
