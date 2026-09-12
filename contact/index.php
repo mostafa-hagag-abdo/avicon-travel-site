@@ -212,7 +212,7 @@ body{
   overflow:hidden;
   background:
     linear-gradient(135deg,rgba(26,58,110,.90),rgba(21,101,192,.72)),
-    url('/assets/uploads/2026/05/Grand-Egyptian-Museum-Giza-Pyramids-Day-Tour-scaled.jpg') center/cover no-repeat;
+    url('/assets/uploads/2026/05/Grand-Egyptian-Museum-Giza-Pyramids-Day-Tour-scaled.jpg.webp') center/cover no-repeat;
   background-color:var(--primary);
 }
 
@@ -1629,7 +1629,7 @@ body{
       <a class="avi-seasonal-card" href="/packages/4-days-christmas-new-year-nile-cruise/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Christmas</span>
-          <img src="/assets/uploads/2026/05/New-Year-2026.png" alt="Christmas and New Year Nile Cruise Egypt">
+          <img loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
         </div>
         <div class="avi-seasonal-body">
           <h3>4 Days Christmas &amp; New Year Nile Cruise</h3>
@@ -1642,7 +1642,7 @@ body{
       <a class="avi-seasonal-card" href="/packages/total-solar-eclipse-tour-2027/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Eclipse 2027</span>
-          <img src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
+          <img loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
         </div>
         <div class="avi-seasonal-body">
           <h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3>

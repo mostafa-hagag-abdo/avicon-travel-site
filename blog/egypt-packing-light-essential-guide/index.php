@@ -255,7 +255,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <span><i class="fas fa-clock"></i> 6 min read</span>
     </div>
   </header>
-  <figure class="avp-figure"><img decoding="async" src="/assets/uploads/2026/06/Egypt-Packing-Light-Essential-Guide-for-Tourists.png" alt="Egypt Packing Light: Essential Guide for Tourists"></figure>
+  <figure class="avp-figure"><img decoding="async" src="/assets/uploads/2026/06/Egypt-Packing-Light-Essential-Guide-for-Tourists.png.webp" alt="Egypt Packing Light: Essential Guide for Tourists"></figure>
 <article class="avp-body">
 <p>Planning your dream trip to Egypt? Traveling through Cairo, Luxor, Aswan, and the mesmerizing Red Sea coast is a once-in-a-lifetime adventure. But before you get swept away by its magic, let’s talk about one crucial detail: <strong>Egypt packing light</strong>. Knowing what and how to pack can transform your journey from stressful to effortlessly enjoyable, whether you&#8217;re strolling through historic temples or soaking up the sun in Sharm El Sheikh. This essential guide will help you make informed choices so you can travel light, yet ready for Egypt&#8217;s wonders.</p>
 
@@ -575,21 +575,21 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     <p class="sub">More guides and tips for your Egypt trip</p>
     <div class="avp-rel-grid">
       <a class="avp-rel-card" href="/blog/egypt-packing-list-essential-items/">
-        <div class="avp-rel-img"><span>Travel Tips &amp; Packing</span><img decoding="async" src="/assets/uploads/2026/06/Egypt-packing-essentials-for-your-trip.png" alt="Egypt Packing List: Essential Items for Your Perfect Trip" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-img"><span>Travel Tips &amp; Packing</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Egypt-packing-essentials-for-your-trip.png.webp" alt="Egypt Packing List: Essential Items for Your Perfect Trip" onerror="this.style.display='none'"></div>
         <div class="avp-rel-body">
           <h3>Egypt Packing List: Essential Items for Your Perfect Trip</h3>
           <div class="avp-rel-meta">Read Article <small>22 June 2026 · 6 min</small></div>
         </div>
       </a>
       <a class="avp-rel-card" href="/blog/egypt-photography-tips-travel-camera-gear/">
-        <div class="avp-rel-img"><span>Travel Tips &amp; Packing</span><img decoding="async" src="/assets/uploads/2026/06/Egypt-photography-guide-capture-stunning-moments.png" alt="Egypt Photography Tips: Capture Magical Moments with Ease" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-img"><span>Travel Tips &amp; Packing</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Egypt-photography-guide-capture-stunning-moments.png.webp" alt="Egypt Photography Tips: Capture Magical Moments with Ease" onerror="this.style.display='none'"></div>
         <div class="avp-rel-body">
           <h3>Egypt Photography Tips: Capture Magical Moments with Ease</h3>
           <div class="avp-rel-meta">Read Article <small>23 June 2026 · 6 min</small></div>
         </div>
       </a>
       <a class="avp-rel-card" href="/blog/egypt-sim-card-tourist-guide-nile-cruise/">
-        <div class="avp-rel-img"><span>Travel Tips &amp; Packing</span><img decoding="async" src="/assets/uploads/2026/06/Stay-connected-with-Egypt-SIM-cards.png" alt="Egypt SIM Card Tourist Guide: Stay Connected on Your Trip" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-img"><span>Travel Tips &amp; Packing</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Stay-connected-with-Egypt-SIM-cards.png.webp" alt="Egypt SIM Card Tourist Guide: Stay Connected on Your Trip" onerror="this.style.display='none'"></div>
         <div class="avp-rel-body">
           <h3>Egypt SIM Card Tourist Guide: Stay Connected on Your Trip</h3>
           <div class="avp-rel-meta">Read Article <small>25 June 2026 · 6 min</small></div>
@@ -1215,7 +1215,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/4-days-christmas-new-year-nile-cruise/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Christmas</span>
-          <img src="/assets/uploads/2026/05/New-Year-2026.png" alt="Christmas and New Year Nile Cruise Egypt">
+          <img loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
         </div>
         <div class="avi-seasonal-body">
           <h3>4 Days Christmas &amp; New Year Nile Cruise</h3>
@@ -1228,7 +1228,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/total-solar-eclipse-tour-2027/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Eclipse 2027</span>
-          <img src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
+          <img loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
         </div>
         <div class="avi-seasonal-body">
           <h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3>

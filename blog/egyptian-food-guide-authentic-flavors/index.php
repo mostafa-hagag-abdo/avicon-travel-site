@@ -255,7 +255,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <span><i class="fas fa-clock"></i> 6 min read</span>
     </div>
   </header>
-  <figure class="avp-figure"><img decoding="async" src="/assets/uploads/2026/07/Egyptian-food-guide-poster.png" alt="Egyptian Food Guide: Discover Authentic Flavors &amp; Iconic Dishes"></figure>
+  <figure class="avp-figure"><img decoding="async" src="/assets/uploads/2026/07/Egyptian-food-guide-poster.png.webp" alt="Egyptian Food Guide: Discover Authentic Flavors &amp; Iconic Dishes"></figure>
 <article class="avp-body">
 <p>If you are planning a trip to Egypt and crave an unforgettable culinary journey, this Egyptian food guide will take you straight to the heart of authentic flavors, local favorites, and iconic dishes. Egyptian cuisine stands out with its distinctive spices, unique blend of cultural influences, and warm hospitality woven into every meal. Whether you’re a seasoned foodie or visiting Egypt for the first time, prepare for a delicious adventure that extends from Cairo’s bustling food stalls to Aswan’s traditional Nubian feasts.</p>
 
@@ -513,21 +513,21 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     <p class="sub">More guides and tips for your Egypt trip</p>
     <div class="avp-rel-grid">
       <a class="avp-rel-card" href="/blog/aswan-egypt-guide-temples-nubian-villages-sunsets/">
-        <div class="avp-rel-img"><span>Destination Guides</span><img decoding="async" src="/assets/uploads/2026/06/Aswan-Egypt-guide.png" alt="Aswan Egypt Guide: Discover Temples, Nubian Culture &amp; Sunsets" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-img"><span>Destination Guides</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Aswan-Egypt-guide.png.webp" alt="Aswan Egypt Guide: Discover Temples, Nubian Culture &amp; Sunsets" onerror="this.style.display='none'"></div>
         <div class="avp-rel-body">
           <h3>Aswan Egypt Guide: Discover Temples, Nubian Culture &amp; Sunsets</h3>
           <div class="avp-rel-meta">Read Article <small>19 June 2026 · 6 min</small></div>
         </div>
       </a>
       <a class="avp-rel-card" href="/blog/cairo-travel-guide-pyramids-museums-bazaars/">
-        <div class="avp-rel-img"><span>Destination Guides</span><img decoding="async" src="/assets/uploads/2026/06/Cairo-travel-guide.png" alt="Cairo Travel Guide: Explore Pyramids, Bazaars &amp; Museums" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-img"><span>Destination Guides</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Cairo-travel-guide.png.webp" alt="Cairo Travel Guide: Explore Pyramids, Bazaars &amp; Museums" onerror="this.style.display='none'"></div>
         <div class="avp-rel-body">
           <h3>Cairo Travel Guide: Explore Pyramids, Bazaars &amp; Museums</h3>
           <div class="avp-rel-meta">Read Article <small>20 June 2026 · 6 min</small></div>
         </div>
       </a>
       <a class="avp-rel-card" href="/blog/egypt-packing-light-essential-guide/">
-        <div class="avp-rel-img"><span>Travel Tips &amp; Packing</span><img decoding="async" src="/assets/uploads/2026/06/Egypt-Packing-Light-Essential-Guide-for-Tourists.png" alt="Egypt Packing Light: Essential Guide for Tourists" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-img"><span>Travel Tips &amp; Packing</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Egypt-Packing-Light-Essential-Guide-for-Tourists.png.webp" alt="Egypt Packing Light: Essential Guide for Tourists" onerror="this.style.display='none'"></div>
         <div class="avp-rel-body">
           <h3>Egypt Packing Light: Essential Guide for Tourists</h3>
           <div class="avp-rel-meta">Read Article <small>25 June 2026 · 6 min</small></div>
@@ -1153,7 +1153,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/4-days-christmas-new-year-nile-cruise/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Christmas</span>
-          <img src="/assets/uploads/2026/05/New-Year-2026.png" alt="Christmas and New Year Nile Cruise Egypt">
+          <img loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
         </div>
         <div class="avi-seasonal-body">
           <h3>4 Days Christmas &amp; New Year Nile Cruise</h3>
@@ -1166,7 +1166,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/total-solar-eclipse-tour-2027/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Eclipse 2027</span>
-          <img src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
+          <img loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
         </div>
         <div class="avi-seasonal-body">
           <h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3>
@@ -1220,7 +1220,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
 <div id="cmplz-cookiebanner-container"><div id="cmplz-cookiebanner-1-optin" class="cmplz-cookiebanner cmplz-hidden banner-1 we-value-your-privacy optin cmplz-bottom-right cmplz-categories-type-view-preferences" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-1-optin" aria-describedby="cmplz-message-1-optin">
 	<div class="cmplz-header">
-		<div class="cmplz-logo"><a href="/" class="custom-logo-link" rel="home"><img fetchpriority="high" width="355" height="250" src="/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp" class="custom-logo" alt="Avicon Travel" decoding="async" srcset="/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp 355w, /assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png-300x211.webp 300w" sizes="(max-width: 355px) 100vw, 355px" /></a></div>
+		<div class="cmplz-logo"><a href="/" class="custom-logo-link" rel="home"><img loading="lazy" fetchpriority="high" width="355" height="250" src="/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp" class="custom-logo" alt="Avicon Travel" decoding="async" srcset="/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp 355w, /assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png-300x211.webp 300w" sizes="(max-width: 355px) 100vw, 355px" /></a></div>
 		<div class="cmplz-title" id="cmplz-header-1-optin">We Value Your Privacy</div>
 		<div class="cmplz-close" tabindex="0" role="button" aria-label="Close dialog">
 			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>

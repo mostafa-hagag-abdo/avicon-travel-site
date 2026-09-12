@@ -637,77 +637,77 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
       <div class="cards-grid">
         <a class="package-card" href="/packages/8-days-cairo-abu-simbel-luxor-hurghada/">
-          <div class="card-img"><span class="badge">Cultural Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo, Aswan, Luxor, Hurghada</span><img decoding="async" src="/assets/uploads/2026/05/Abu-simble.jpg" alt="8 Days Cairo Abu Simbel Luxor and Hurghada"></div>
+          <div class="card-img"><span class="badge">Cultural Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo, Aswan, Luxor, Hurghada</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Abu-simble.jpg" alt="8 Days Cairo Abu Simbel Luxor and Hurghada"></div>
           <div class="card-body"><h3>8 Days Cairo, Abu Simbel, Luxor & Hurghada</h3><p>A complete Egypt package with Cairo pyramids, Abu Simbel, Luxor temples, and Red Sea time in Hurghada.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>8 Days / 7 Nights</strong></div><div class="meta"><span>Style</span><strong>Cultural Tour</strong></div></div><div class="card-footer"><div class="price">$1,670.00</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/packages/7-days-cairo-hurghada-holiday/">
-          <div class="card-img"><span class="badge">Holiday</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo, Hurghada</span><img decoding="async" src="/assets/uploads/2026/05/Desert-monuments-meet-coastal-paradise-650x400.png" alt="7 Days Cairo and Hurghada Holiday"></div>
+          <div class="card-img"><span class="badge">Holiday</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo, Hurghada</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Desert-monuments-meet-coastal-paradise-650x400.png.webp" alt="7 Days Cairo and Hurghada Holiday"></div>
           <div class="card-body"><h3>7 Days Cairo & Hurghada Holiday</h3><p>Combine the Giza Pyramids, Cairo sightseeing, and Hurghada beach relaxation in one easy Egypt holiday.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>7 Days / 6 Nights</strong></div><div class="meta"><span>Style</span><strong>Cultural + Beach</strong></div></div><div class="card-footer"><div class="price">$1,360.00</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/packages/6-days-cairo-hurghada-package/">
-          <div class="card-img"><span class="badge sale">Sale On</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo, Hurghada</span><img decoding="async" src="/assets/uploads/2026/05/Giza-Pyramids-650x400.jpg" alt="6 Days Cairo and Hurghada Package"></div>
+          <div class="card-img"><span class="badge sale">Sale On</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo, Hurghada</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Giza-Pyramids-650x400.jpg" alt="6 Days Cairo and Hurghada Package"></div>
           <div class="card-body"><h3>6 Days Cairo & Hurghada Package</h3><p>A shorter Cairo and Hurghada package with pyramids, Egyptian history, and Red Sea downtime.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>6 Days / 5 Nights</strong></div><div class="meta"><span>Style</span><strong>Cultural + Beach</strong></div></div><div class="card-footer"><div class="price"><del>$1,600.00</del>$1,255.00</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/packages/4-days-christmas-new-year-nile-cruise/">
-          <div class="card-img"><span class="badge">Nile Cruise</span><span class="locations"><i class="fas fa-location-dot"></i> Aswan, Luxor</span><img decoding="async" src="/assets/uploads/2026/05/Holiday-evening-on-a-festive-riverboat-650x400.png" alt="4 Days Christmas and New Year Nile Cruise"></div>
+          <div class="card-img"><span class="badge">Nile Cruise</span><span class="locations"><i class="fas fa-location-dot"></i> Aswan, Luxor</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Holiday-evening-on-a-festive-riverboat-650x400.png.webp" alt="4 Days Christmas and New Year Nile Cruise"></div>
           <div class="card-body"><h3>4 Days Christmas & New Year Nile Cruise</h3><p>A festive Nile cruise package between Aswan and Luxor for Christmas and New Year travel dates.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>4 Days / 3 Nights</strong></div><div class="meta"><span>Style</span><strong>Nile Cruise</strong></div></div><div class="card-footer"><div class="price">$360.00</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/packages/private-4-days-cairo-tour-package/">
-          <div class="card-img"><span class="badge">Private Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo</span><img decoding="async" src="/assets/uploads/2026/05/Golden-hour-at-the-Giza-plateau-650x400.png" alt="Private 4 Days Cairo Tour Package"></div>
+          <div class="card-img"><span class="badge">Private Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Golden-hour-at-the-Giza-plateau-650x400.png.webp" alt="Private 4 Days Cairo Tour Package"></div>
           <div class="card-body"><h3>Private 4 Days Cairo Tour Package</h3><p>A private Cairo tour package focused on the pyramids, museums, Islamic Cairo, and classic city highlights.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>4 Days / 3 Nights</strong></div><div class="meta"><span>Style</span><strong>Private Cairo</strong></div></div><div class="card-footer"><div class="price">$480.00</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/packages/total-solar-eclipse-tour-2027/">
-          <div class="card-img"><span class="badge">2027 Event</span><span class="locations"><i class="fas fa-location-dot"></i> Aswan, Luxor</span><img decoding="async" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-650x400.png" alt="Total Solar Eclipse Tour 2027 Nile Cruise"></div>
+          <div class="card-img"><span class="badge">2027 Event</span><span class="locations"><i class="fas fa-location-dot"></i> Aswan, Luxor</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-650x400.png.webp" alt="Total Solar Eclipse Tour 2027 Nile Cruise"></div>
           <div class="card-body"><h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3><p>A special Egypt 2027 Nile cruise package designed around the total solar eclipse travel experience.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>4 Days / 3 Nights</strong></div><div class="meta"><span>Style</span><strong>Special Event</strong></div></div><div class="card-footer"><div class="price">$1,199.00</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/packages/12-days-egypt-tour-to-cairo/">
-          <div class="card-img"><span class="badge">Honeymoon</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo, Aswan, Luxor, Hurghada</span><img decoding="async" src="/assets/uploads/2026/05/7-Days-Cairo-650x400.png" alt="12 Days Egypt Tour to Cairo Nile Cruise and Hurghada"></div>
+          <div class="card-img"><span class="badge">Honeymoon</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo, Aswan, Luxor, Hurghada</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/05/7-Days-Cairo-650x400.png.webp" alt="12 Days Egypt Tour to Cairo Nile Cruise and Hurghada"></div>
           <div class="card-body"><h3>12 Days Egypt Tour to Cairo, Nile Cruise & Hurghada</h3><p>A longer Egypt itinerary with Cairo, Nile cruise sightseeing, and Hurghada relaxation for a balanced trip.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>12 Days / 11 Nights</strong></div><div class="meta"><span>Style</span><strong>Honeymoon</strong></div></div><div class="card-footer"><div class="price">$2,045.00</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/packages/experience-egypt-in-9-days/">
-          <div class="card-img"><span class="badge">Classic Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo, Luxor, Aswan, Alexandria</span><img decoding="async" src="/assets/uploads/2026/05/Experience-Egypt-in-9-Days-650x400.jpg" alt="Experience Egypt in 9 Days"></div>
+          <div class="card-img"><span class="badge">Classic Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo, Luxor, Aswan, Alexandria</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Experience-Egypt-in-9-Days-650x400.jpg.webp" alt="Experience Egypt in 9 Days"></div>
           <div class="card-body"><h3>Experience Egypt in 9 Days</h3><p>A complete Egypt journey through Cairo, Luxor, Aswan, Abu Simbel, and Alexandria with domestic flights and guided tours.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>9 Days / 8 Nights</strong></div><div class="meta"><span>Style</span><strong>Classic Tour</strong></div></div><div class="card-footer"><div class="price">$1,670.00</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/">
-          <div class="card-img"><span class="badge">Nile Cruise</span><span class="locations"><i class="fas fa-location-dot"></i> Aswan, Luxor</span><img decoding="async" src="/assets/uploads/2026/07/3-Nights-Nile-Cruise-from-Aswan-Include-Abu-Simbel-004.jpg" alt="3 Nights Nile River Cruise from Aswan Include Abu Simbel"></div>
+          <div class="card-img"><span class="badge">Nile Cruise</span><span class="locations"><i class="fas fa-location-dot"></i> Aswan, Luxor</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/07/3-Nights-Nile-Cruise-from-Aswan-Include-Abu-Simbel-004.jpg.webp" alt="3 Nights Nile River Cruise from Aswan Include Abu Simbel"></div>
           <div class="card-body"><h3>3 Nights Nile River Cruise from Aswan Include Abu Simbel</h3><p>Classic Aswan to Luxor Nile cruise package with Abu Simbel, Kom Ombo, Edfu, and Luxor highlights.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>4 Days / 3 Nights</strong></div><div class="meta"><span>Route</span><strong>Aswan to Luxor</strong></div></div><div class="card-footer"><div class="price">$415/person</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/nile-cruises/4-days-dahabiya-nile-cruise-from-aswan-to-luxor/">
-          <div class="card-img"><span class="badge">Dahabiya</span><span class="locations"><i class="fas fa-location-dot"></i> Aswan, Luxor</span><img decoding="async" src="/assets/uploads/2026/07/Aswan-Luxor-Nile-Cruises-002.jpg" alt="4 Days Dahabiya Nile River Cruise Aswan to Luxor"></div>
+          <div class="card-img"><span class="badge">Dahabiya</span><span class="locations"><i class="fas fa-location-dot"></i> Aswan, Luxor</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/07/Aswan-Luxor-Nile-Cruises-002.jpg.webp" alt="4 Days Dahabiya Nile River Cruise Aswan to Luxor"></div>
           <div class="card-body"><h3>4 Days Dahabiya Nile River Cruise Aswan to Luxor</h3><p>A private Dahabiya Nile cruise package with a quieter sailing style and essential temples along the route.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>4 Days / 3 Nights</strong></div><div class="meta"><span>Route</span><strong>Aswan to Luxor</strong></div></div><div class="card-footer"><div class="price">$945/person</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/nile-cruises/4-days-off-the-beaten-path-nile-river-cruise-for-repeat-visitors/">
-          <div class="card-img"><span class="badge">Repeaters</span><span class="locations"><i class="fas fa-location-dot"></i> Aswan, Luxor</span><img decoding="async" src="/assets/uploads/2026/07/Aswan-Luxor-Nile-Cruises-003.jpg" alt="4 Days off Beaten Path Nile River Cruise for Repeaters"></div>
+          <div class="card-img"><span class="badge">Repeaters</span><span class="locations"><i class="fas fa-location-dot"></i> Aswan, Luxor</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/07/Aswan-Luxor-Nile-Cruises-003.jpg.webp" alt="4 Days off Beaten Path Nile River Cruise for Repeaters"></div>
           <div class="card-body"><h3>4 Days off Beaten Path Nile River Cruise for Repeaters</h3><p>A Nile cruise package focused on less repeated stops for travelers returning to Upper Egypt.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>4 Days / 3 Nights</strong></div><div class="meta"><span>Route</span><strong>Aswan to Luxor</strong></div></div><div class="card-footer"><div class="price">$415/person</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/">
-          <div class="card-img"><span class="badge">Nile Cruise</span><span class="locations"><i class="fas fa-location-dot"></i> Luxor, Aswan</span><img decoding="async" src="/assets/uploads/2026/07/Egypt-Nile-Cruise-019.jpg" alt="4 Nights Nile River Cruise from Luxor Include Abu Simbel"></div>
+          <div class="card-img"><span class="badge">Nile Cruise</span><span class="locations"><i class="fas fa-location-dot"></i> Luxor, Aswan</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/07/Egypt-Nile-Cruise-019.jpg.webp" alt="4 Nights Nile River Cruise from Luxor Include Abu Simbel"></div>
           <div class="card-body"><h3>4 Nights Nile River Cruise from Luxor Include Abu Simbel</h3><p>Luxor to Aswan Nile cruise package with temples, West Bank sightseeing, and Abu Simbel included.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>5 Days / 4 Nights</strong></div><div class="meta"><span>Route</span><strong>Luxor to Aswan</strong></div></div><div class="card-footer"><div class="price">$560/person</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/nile-cruises/5-days-dahabiya-nile-cruise-from-luxor-to-aswan/">
-          <div class="card-img"><span class="badge">Dahabiya</span><span class="locations"><i class="fas fa-location-dot"></i> Luxor, Aswan</span><img decoding="async" src="/assets/uploads/2026/07/Aswan-Luxor-Nile-Cruises-009.jpg" alt="5 Days Dahabiya Nile River Cruise Luxor to Aswan"></div>
+          <div class="card-img"><span class="badge">Dahabiya</span><span class="locations"><i class="fas fa-location-dot"></i> Luxor, Aswan</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/07/Aswan-Luxor-Nile-Cruises-009.jpg.webp" alt="5 Days Dahabiya Nile River Cruise Luxor to Aswan"></div>
           <div class="card-body"><h3>5 Days Dahabiya Nile River Cruise Luxor to Aswan</h3><p>A longer Dahabiya Nile cruise package from Luxor with Edfu, Kom Ombo, Aswan, and relaxed sailing time.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>5 Days / 4 Nights</strong></div><div class="meta"><span>Route</span><strong>Luxor to Aswan</strong></div></div><div class="card-footer"><div class="price">$1050/person</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/nile-cruises/5-days-hidden-treasures-nile-cruise-for-returning-visitors/">
-          <div class="card-img"><span class="badge">Hidden Treasures</span><span class="locations"><i class="fas fa-location-dot"></i> Luxor, Aswan</span><img decoding="async" src="/assets/uploads/2026/07/Aswan-Luxor-Nile-Cruises-008.jpg" alt="5 Days Hidden Treasures Nile Cruise for Returning Visitors"></div>
+          <div class="card-img"><span class="badge">Hidden Treasures</span><span class="locations"><i class="fas fa-location-dot"></i> Luxor, Aswan</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/07/Aswan-Luxor-Nile-Cruises-008.jpg.webp" alt="5 Days Hidden Treasures Nile Cruise for Returning Visitors"></div>
           <div class="card-body"><h3>5 Days Hidden Treasures Nile Cruise for Returning Visitors</h3><p>A richer Nile cruise package for returning visitors, with Dendera, Abydos, and quieter Nile-side highlights.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>5 Days / 4 Nights</strong></div><div class="meta"><span>Route</span><strong>Luxor to Aswan</strong></div></div><div class="card-footer"><div class="price">$480/person</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/nile-cruises/5-days-nile-river-cruise-from-luxor-to-aswan/">
-          <div class="card-img"><span class="badge">Nile Cruise</span><span class="locations"><i class="fas fa-location-dot"></i> Luxor, Aswan</span><img decoding="async" src="/assets/uploads/2026/07/Sonesta-St.-George-I-Nile-Cruise-002.jpg" alt="5 Days Nile River Cruise from Luxor to Aswan"></div>
+          <div class="card-img"><span class="badge">Nile Cruise</span><span class="locations"><i class="fas fa-location-dot"></i> Luxor, Aswan</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/07/Sonesta-St.-George-I-Nile-Cruise-002.jpg.webp" alt="5 Days Nile River Cruise from Luxor to Aswan"></div>
           <div class="card-body"><h3>5 Days Nile River Cruise from Luxor to Aswan</h3><p>A classic Luxor to Aswan Nile cruise package covering temples, tombs, and Nile scenery.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>5 Days / 4 Nights</strong></div><div class="meta"><span>Route</span><strong>Luxor to Aswan</strong></div></div><div class="card-footer"><div class="price">$480/person</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
       </div>
@@ -1361,7 +1361,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/4-days-christmas-new-year-nile-cruise/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Christmas</span>
-          <img src="/assets/uploads/2026/05/New-Year-2026.png" alt="Christmas and New Year Nile Cruise Egypt">
+          <img loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
         </div>
         <div class="avi-seasonal-body">
           <h3>4 Days Christmas &amp; New Year Nile Cruise</h3>
@@ -1374,7 +1374,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/total-solar-eclipse-tour-2027/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Eclipse 2027</span>
-          <img src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
+          <img loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
         </div>
         <div class="avi-seasonal-body">
           <h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3>
@@ -1428,7 +1428,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
 <div id="cmplz-cookiebanner-container"><div id="cmplz-cookiebanner-1-optin" class="cmplz-cookiebanner cmplz-hidden banner-1 we-value-your-privacy optin cmplz-bottom-right cmplz-categories-type-view-preferences" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-1-optin" aria-describedby="cmplz-message-1-optin">
 	<div class="cmplz-header">
-		<div class="cmplz-logo"><a href="/" class="custom-logo-link" rel="home"><img width="355" height="250" src="/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp" class="custom-logo" alt="Avicon Travel" decoding="async" srcset="/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp 355w, /assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png-300x211.webp 300w" sizes="(max-width: 355px) 100vw, 355px" /></a></div>
+		<div class="cmplz-logo"><a href="/" class="custom-logo-link" rel="home"><img loading="lazy" width="355" height="250" src="/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp" class="custom-logo" alt="Avicon Travel" decoding="async" srcset="/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp 355w, /assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png-300x211.webp 300w" sizes="(max-width: 355px) 100vw, 355px" /></a></div>
 		<div class="cmplz-title" id="cmplz-header-1-optin">We Value Your Privacy</div>
 		<div class="cmplz-close" tabindex="0" role="button" aria-label="Close dialog">
 			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>

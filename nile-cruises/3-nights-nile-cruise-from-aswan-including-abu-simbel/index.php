@@ -967,9 +967,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     </div>
   </div>
   <div class="bk-gallery bk-container">
-    <div class="bk-main" data-bk-lb="1"><img decoding="async" src="/assets/uploads/2026/07/Aswan-Luxor-Nile-Cruises-002.jpg" alt="3 Nights Nile River Cruise from Aswan Include Abu Simbel"></div>
-      <div class="bk-tile" data-bk-lb="1"><img decoding="async" src="/assets/uploads/2026/07/3-Nights-Nile-Cruise-from-Aswan-Include-Abu-Simbel-004.jpg" alt="3 Nights Nile River Cruise from Aswan Include Abu Simbel – photo 2"></div>
-      <div class="bk-tile" data-bk-lb="1"><img decoding="async" src="/assets/uploads/3-Nights-Nile-Cruise-from-Aswan-Include-Abu-Simbel-003.jpg" alt="3 Nights Nile River Cruise from Aswan Include Abu Simbel – photo 3">
+    <div class="bk-main" data-bk-lb="1"><img decoding="async" src="/assets/uploads/2026/07/Aswan-Luxor-Nile-Cruises-002.jpg.webp" alt="3 Nights Nile River Cruise from Aswan Include Abu Simbel"></div>
+      <div class="bk-tile" data-bk-lb="1"><img loading="lazy" decoding="async" src="/assets/uploads/2026/07/3-Nights-Nile-Cruise-from-Aswan-Include-Abu-Simbel-004.jpg.webp" alt="3 Nights Nile River Cruise from Aswan Include Abu Simbel – photo 2"></div>
+      <div class="bk-tile" data-bk-lb="1"><img loading="lazy" decoding="async" src="/assets/uploads/3-Nights-Nile-Cruise-from-Aswan-Include-Abu-Simbel-003.jpg.webp" alt="3 Nights Nile River Cruise from Aswan Include Abu Simbel – photo 3">
       </div>
   </div>
 </section>
@@ -1024,7 +1024,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <div class="bk-lb" id="bkLb">
   <button class="bk-lb-close" aria-label="Close">✕</button>
   <button class="bk-lb-prev" aria-label="Previous">‹</button>
-  <img decoding="async" src="/assets/uploads/2026/07/3-Nights-Nile-Cruise-from-Aswan-Include-Abu-Simbel-004.jpg" alt="3 Nights Nile River Cruise from Aswan Include Abu Simbel">
+  <img loading="lazy" decoding="async" src="/assets/uploads/2026/07/3-Nights-Nile-Cruise-from-Aswan-Include-Abu-Simbel-004.jpg.webp" alt="3 Nights Nile River Cruise from Aswan Include Abu Simbel">
   <button class="bk-lb-next" aria-label="Next">›</button>
   <div class="bk-lb-count">1 / 3</div>
 </div>
@@ -1268,11 +1268,11 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
   </div>
 </div>
 
-<section class="related-section"><div class="container"><div class="related-header"><h2>You May Also Like</h2><p>Discover more Nile cruises and Egypt travel ideas.</p></div><div class="related-grid"><div class="related-card" onclick="window.location.href='/nile-cruises/4-days-dahabiya-nile-cruise-from-aswan-to-luxor/'"><div class="related-img"><span class="related-duration">4 Days</span><span class="related-cities"><i class="fas fa-map-marker-alt"></i> Aswan - Luxor</span><img decoding="async" src="/assets/uploads/2026/07/Aswan-Luxor-Nile-Cruises-002.jpg" alt="4 Days Dahabiya Nile River Cruise Aswan to Luxor" onerror="this.style.display='none'"></div><div class="related-body"><div class="related-title">4 Days Dahabiya Nile River Cruise Aswan to Luxor</div><div class="related-meta"><div class="related-price">$945<small>/person</small></div><a href="/nile-cruises/4-days-dahabiya-nile-cruise-from-aswan-to-luxor/" class="related-link">View Details <i class="fas fa-arrow-right"></i></a></div></div></div><div class="related-card" onclick="window.location.href='/nile-cruises/4-days-off-the-beaten-path-nile-river-cruise-for-repeat-visitors/'"><div class="related-img"><span class="related-duration">4 Days</span><span class="related-cities"><i class="fas fa-map-marker-alt"></i> Aswan - Luxor</span><img decoding="async" src="/assets/uploads/2026/07/Aswan-Luxor-Nile-Cruises-003.jpg" alt="4 Days off Beaten Path Nile River Cruise for Repeaters" onerror="this.style.display='none'"></div><div class="related-body"><div class="related-title">4 Days off Beaten Path Nile River Cruise for Repeaters</div><div class="related-meta"><div class="related-price">$415<small>/person</small></div><a href="/nile-cruises/4-days-off-the-beaten-path-nile-river-cruise-for-repeat-visitors/" class="related-link">View Details <i class="fas fa-arrow-right"></i></a></div></div></div><div class="related-card" onclick="window.location.href='/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/'">
+<section class="related-section"><div class="container"><div class="related-header"><h2>You May Also Like</h2><p>Discover more Nile cruises and Egypt travel ideas.</p></div><div class="related-grid"><div class="related-card" onclick="window.location.href='/nile-cruises/4-days-dahabiya-nile-cruise-from-aswan-to-luxor/'"><div class="related-img"><span class="related-duration">4 Days</span><span class="related-cities"><i class="fas fa-map-marker-alt"></i> Aswan - Luxor</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/07/Aswan-Luxor-Nile-Cruises-002.jpg.webp" alt="4 Days Dahabiya Nile River Cruise Aswan to Luxor" onerror="this.style.display='none'"></div><div class="related-body"><div class="related-title">4 Days Dahabiya Nile River Cruise Aswan to Luxor</div><div class="related-meta"><div class="related-price">$945<small>/person</small></div><a href="/nile-cruises/4-days-dahabiya-nile-cruise-from-aswan-to-luxor/" class="related-link">View Details <i class="fas fa-arrow-right"></i></a></div></div></div><div class="related-card" onclick="window.location.href='/nile-cruises/4-days-off-the-beaten-path-nile-river-cruise-for-repeat-visitors/'"><div class="related-img"><span class="related-duration">4 Days</span><span class="related-cities"><i class="fas fa-map-marker-alt"></i> Aswan - Luxor</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/07/Aswan-Luxor-Nile-Cruises-003.jpg.webp" alt="4 Days off Beaten Path Nile River Cruise for Repeaters" onerror="this.style.display='none'"></div><div class="related-body"><div class="related-title">4 Days off Beaten Path Nile River Cruise for Repeaters</div><div class="related-meta"><div class="related-price">$415<small>/person</small></div><a href="/nile-cruises/4-days-off-the-beaten-path-nile-river-cruise-for-repeat-visitors/" class="related-link">View Details <i class="fas fa-arrow-right"></i></a></div></div></div><div class="related-card" onclick="window.location.href='/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/'">
   <div class="related-img">
     <span class="related-duration">4 Nights</span>
     <span class="related-cities"><i class="fas fa-map-marker-alt"></i> Luxor · Aswan</span>
-    <img decoding="async" src="/assets/uploads/2026/07/Egypt-Nile-Cruise-019.jpg" alt="4 Nights Nile River Cruise from Luxor Include Abu Simbel" onerror="this.style.display='none'">
+    <img loading="lazy" decoding="async" src="/assets/uploads/2026/07/Egypt-Nile-Cruise-019.jpg.webp" alt="4 Nights Nile River Cruise from Luxor Include Abu Simbel" onerror="this.style.display='none'">
   </div>
   <div class="related-body">
     <div class="related-title">4 Nights Nile River Cruise from Luxor Include Abu Simbel</div>
@@ -2019,7 +2019,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/4-days-christmas-new-year-nile-cruise/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Christmas</span>
-          <img src="/assets/uploads/2026/05/New-Year-2026.png" alt="Christmas and New Year Nile Cruise Egypt">
+          <img loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
         </div>
         <div class="avi-seasonal-body">
           <h3>4 Days Christmas &amp; New Year Nile Cruise</h3>
@@ -2032,7 +2032,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/total-solar-eclipse-tour-2027/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Eclipse 2027</span>
-          <img src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
+          <img loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
         </div>
         <div class="avi-seasonal-body">
           <h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3>
@@ -2086,7 +2086,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
 <div id="cmplz-cookiebanner-container"><div id="cmplz-cookiebanner-1-optin" class="cmplz-cookiebanner cmplz-hidden banner-1 we-value-your-privacy optin cmplz-bottom-right cmplz-categories-type-view-preferences" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-1-optin" aria-describedby="cmplz-message-1-optin">
 	<div class="cmplz-header">
-		<div class="cmplz-logo"><a href="/" class="custom-logo-link" rel="home"><img width="355" height="250" src="/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp" class="custom-logo" alt="Avicon Travel" decoding="async" srcset="/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp 355w, /assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png-300x211.webp 300w" sizes="(max-width: 355px) 100vw, 355px" /></a></div>
+		<div class="cmplz-logo"><a href="/" class="custom-logo-link" rel="home"><img loading="lazy" width="355" height="250" src="/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp" class="custom-logo" alt="Avicon Travel" decoding="async" srcset="/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp 355w, /assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png-300x211.webp 300w" sizes="(max-width: 355px) 100vw, 355px" /></a></div>
 		<div class="cmplz-title" id="cmplz-header-1-optin">We Value Your Privacy</div>
 		<div class="cmplz-close" tabindex="0" role="button" aria-label="Close dialog">
 			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>

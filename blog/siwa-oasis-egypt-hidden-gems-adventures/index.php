@@ -255,7 +255,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <span><i class="fas fa-clock"></i> 6 min read</span>
     </div>
   </header>
-  <figure class="avp-figure"><img decoding="async" src="/assets/uploads/2026/06/Siwa-Oasis-at-golden-hour.png" alt="Siwa Oasis Egypt: Hidden Gems &amp; Adventures Await"></figure>
+  <figure class="avp-figure"><img decoding="async" src="/assets/uploads/2026/06/Siwa-Oasis-at-golden-hour.png.webp" alt="Siwa Oasis Egypt: Hidden Gems &amp; Adventures Await"></figure>
 <article class="avp-body">
 <p><br>When most travelers think of Egypt, the majestic Pyramids of Giza, the enigmatic Sphinx, and bustling Cairo come to mind. But a journey to <strong>Siwa Oasis Egypt</strong> unveils a mesmerizing side to the country that remains blissfully untouched by mass tourism. Nestled deep in the Western Desert, Siwa—along with the fascinating Bahariya and Fayoum oases—offers intrepid explorers a world of lush palm groves, crystalline springs, surreal landscapes, and ancient traditions. If you’re searching for authentic experiences and once-in-a-lifetime adventures, Egypt’s hidden oases are yours to discover.</p>
 
@@ -583,21 +583,21 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     <p class="sub">More guides and tips for your Egypt trip</p>
     <div class="avp-rel-grid">
       <a class="avp-rel-card" href="/blog/aswan-egypt-guide-temples-nubian-villages-sunsets/">
-        <div class="avp-rel-img"><span>Destination Guides</span><img decoding="async" src="/assets/uploads/2026/06/Aswan-Egypt-guide.png" alt="Aswan Egypt Guide: Discover Temples, Nubian Culture &amp; Sunsets" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-img"><span>Destination Guides</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Aswan-Egypt-guide.png.webp" alt="Aswan Egypt Guide: Discover Temples, Nubian Culture &amp; Sunsets" onerror="this.style.display='none'"></div>
         <div class="avp-rel-body">
           <h3>Aswan Egypt Guide: Discover Temples, Nubian Culture &amp; Sunsets</h3>
           <div class="avp-rel-meta">Read Article <small>19 June 2026 · 6 min</small></div>
         </div>
       </a>
       <a class="avp-rel-card" href="/blog/cairo-travel-guide-pyramids-museums-bazaars/">
-        <div class="avp-rel-img"><span>Destination Guides</span><img decoding="async" src="/assets/uploads/2026/06/Cairo-travel-guide.png" alt="Cairo Travel Guide: Explore Pyramids, Bazaars &amp; Museums" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-img"><span>Destination Guides</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Cairo-travel-guide.png.webp" alt="Cairo Travel Guide: Explore Pyramids, Bazaars &amp; Museums" onerror="this.style.display='none'"></div>
         <div class="avp-rel-body">
           <h3>Cairo Travel Guide: Explore Pyramids, Bazaars &amp; Museums</h3>
           <div class="avp-rel-meta">Read Article <small>20 June 2026 · 6 min</small></div>
         </div>
       </a>
       <a class="avp-rel-card" href="/blog/luxor-egypt-travel-guide-temples-balloon/">
-        <div class="avp-rel-img"><span>Destination Guides</span><img decoding="async" src="/assets/uploads/2026/06/Luxor-Egypt-travel-guide.png" alt="Luxor Egypt Travel Guide: Temples, Tombs &amp; Balloon Rides" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-img"><span>Destination Guides</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Luxor-Egypt-travel-guide.png.webp" alt="Luxor Egypt Travel Guide: Temples, Tombs &amp; Balloon Rides" onerror="this.style.display='none'"></div>
         <div class="avp-rel-body">
           <h3>Luxor Egypt Travel Guide: Temples, Tombs &amp; Balloon Rides</h3>
           <div class="avp-rel-meta">Read Article <small>18 June 2026 · 6 min</small></div>
@@ -1223,7 +1223,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/4-days-christmas-new-year-nile-cruise/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Christmas</span>
-          <img src="/assets/uploads/2026/05/New-Year-2026.png" alt="Christmas and New Year Nile Cruise Egypt">
+          <img loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
         </div>
         <div class="avi-seasonal-body">
           <h3>4 Days Christmas &amp; New Year Nile Cruise</h3>
@@ -1236,7 +1236,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/total-solar-eclipse-tour-2027/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Eclipse 2027</span>
-          <img src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
+          <img loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
         </div>
         <div class="avi-seasonal-body">
           <h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3>

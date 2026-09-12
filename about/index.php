@@ -153,7 +153,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 .about-page{font-family:'Poppins',sans-serif;background:var(--bg-soft);color:var(--text-dark);line-height:1.7;font-size:14px}
 .about-page{overflow:hidden}
 .about-page .container{max-width:1240px;margin:0 auto;padding:0 20px}
-.about-page .about-hero{position:relative;min-height:430px;overflow:hidden;background:linear-gradient(135deg,rgba(26,58,110,.84) 0%,rgba(21,101,192,.70) 100%),url('/assets/uploads/2026/05/Private-Tour-To-Giza-Pyramids-Saqqara.jpg') center/cover no-repeat;background-color:var(--primary)}
+.about-page .about-hero{position:relative;min-height:430px;overflow:hidden;background:linear-gradient(135deg,rgba(26,58,110,.84) 0%,rgba(21,101,192,.70) 100%),url('/assets/uploads/2026/05/Private-Tour-To-Giza-Pyramids-Saqqara.jpg.webp') center/cover no-repeat;background-color:var(--primary)}
 .about-page .about-hero::after{content:'';position:absolute;bottom:0;left:0;right:0;height:90px;background:linear-gradient(to top,var(--bg-soft),transparent)}
 .about-page .hero-content{position:relative;z-index:2;min-height:430px;display:flex;flex-direction:column;justify-content:center;color:#fff;max-width:850px}
 .about-page .hero-badge{display:inline-flex;align-items:center;gap:8px;background:rgba(255,255,255,.18);backdrop-filter:blur(10px);padding:7px 16px;border-radius:20px;font-size:12px;font-weight:500;width:fit-content;margin-bottom:16px;border:1px solid rgba(255,255,255,.25)}
@@ -208,7 +208,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 .about-page .contact-btn.whatsapp{background:#25D366;color:#fff}
 .about-page .contact-btn.email{background:var(--bg-soft);color:var(--text-dark);border:1px solid var(--border)}
 .about-page .contact-btn:hover{transform:translateY(-2px)}
-.about-page .cta-section{margin-top:28px;background:linear-gradient(135deg,rgba(26,58,110,.94),rgba(21,101,192,.88)),url('/assets/uploads/2026/07/Aswan-Luxor-Nile-Cruises-003.jpg') center/cover no-repeat;border-radius:16px;padding:34px 28px;text-align:center;color:#fff;box-shadow:var(--shadow-lg)}
+.about-page .cta-section{margin-top:28px;background:linear-gradient(135deg,rgba(26,58,110,.94),rgba(21,101,192,.88)),url('/assets/uploads/2026/07/Aswan-Luxor-Nile-Cruises-003.jpg.webp') center/cover no-repeat;border-radius:16px;padding:34px 28px;text-align:center;color:#fff;box-shadow:var(--shadow-lg)}
 .about-page .cta-section h2{font-family:'Playfair Display',serif;font-size:30px;margin-bottom:10px}
 .about-page .cta-section p{max-width:640px;margin:0 auto 20px;color:rgba(255,255,255,.9);font-size:14px}
 @media(max-width:992px){.about-page .about-grid{grid-template-columns:1fr}
@@ -869,7 +869,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/4-days-christmas-new-year-nile-cruise/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Christmas</span>
-          <img src="/assets/uploads/2026/05/New-Year-2026.png" alt="Christmas and New Year Nile Cruise Egypt">
+          <img loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
         </div>
         <div class="avi-seasonal-body">
           <h3>4 Days Christmas &amp; New Year Nile Cruise</h3>
@@ -882,7 +882,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/total-solar-eclipse-tour-2027/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Eclipse 2027</span>
-          <img src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
+          <img loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
         </div>
         <div class="avi-seasonal-body">
           <h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3>

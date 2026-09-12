@@ -635,47 +635,47 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
       <div class="cards-grid">
         <a class="package-card" href="/tours/saqqara-memphis-dahshur-day-trip-from-cairo/">
-          <div class="card-img"><span class="badge">Adventure Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo</span><img decoding="async" src="/assets/uploads/2026/06/Avicon-Customer-Reviews-Pyramids-Giza-650x400.png" alt="Saqqara Memphis and Dahshur Day Trip from Cairo"></div>
+          <div class="card-img"><span class="badge">Adventure Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/06/Avicon-Customer-Reviews-Pyramids-Giza-650x400.png.webp" alt="Saqqara Memphis and Dahshur Day Trip from Cairo"></div>
           <div class="card-body"><h3>Saqqara, Memphis &amp; Dahshur Day Trip from Cairo</h3><p>Explore ancient Memphis, the Step Pyramid of Saqqara, and Dahshur's famous pyramids on a private Cairo day tour.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>6 to 8 hours</strong></div><div class="meta"><span>Style</span><strong>Private Day Tour</strong></div></div><div class="card-footer"><div class="price">$99.00</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/tours/abu-simbel-temples-private-tour/">
-          <div class="card-img"><span class="badge">Adventure Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Aswan</span><img decoding="async" src="/assets/uploads/2026/05/Abu-Simbel-Temples-Day-Tour-650x400.jpg" alt="Abu Simbel Temples Private Tour"></div>
+          <div class="card-img"><span class="badge">Adventure Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Aswan</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Abu-Simbel-Temples-Day-Tour-650x400.jpg" alt="Abu Simbel Temples Private Tour"></div>
           <div class="card-body"><h3>Abu Simbel Temples Private Tour</h3><p>Visit the monumental temples of Ramses II and Queen Nefertari on a focused Abu Simbel private day trip.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>8 To 10 Hours</strong></div><div class="meta"><span>Style</span><strong>Private Day Tour</strong></div></div><div class="card-footer"><div class="price">$100.00</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/tours/grand-egyptian-museum-pyramids-tour/">
-          <div class="card-img"><span class="badge">Adventure Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo</span><img decoding="async" src="/assets/uploads/2026/05/Egyptian-Museum-Tour.jpg" alt="Grand Egyptian Museum and Pyramids Tour In Cairo"></div>
+          <div class="card-img"><span class="badge">Adventure Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Egyptian-Museum-Tour.jpg" alt="Grand Egyptian Museum and Pyramids Tour In Cairo"></div>
           <div class="card-body"><h3>Grand Egyptian Museum &amp; Pyramids Tour In Cairo</h3><p>Combine the Grand Egyptian Museum with the Giza Pyramids in one efficient Cairo sightseeing day tour.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>6 To 8 Hours</strong></div><div class="meta"><span>Style</span><strong>Cairo Day Tour</strong></div></div><div class="card-footer"><div class="price">$90.00</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/tours/luxor-day-trip-from-hurghada/">
-          <div class="card-img"><span class="badge">Adventure Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Hurghada, Luxor</span><img decoding="async" src="/assets/uploads/2026/05/Luxor-Temple-Visit.jpg" alt="Luxor Day Trip From Hurghada Private Tour"></div>
+          <div class="card-img"><span class="badge">Adventure Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Hurghada, Luxor</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Luxor-Temple-Visit.jpg" alt="Luxor Day Trip From Hurghada Private Tour"></div>
           <div class="card-body"><h3>Luxor Day Trip From Hurghada Private Tour</h3><p>Travel from Hurghada to Luxor for a full-day private tour of temples, tombs, and ancient Thebes highlights.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>14 To 16 Hours</strong></div><div class="meta"><span>Style</span><strong>Private Day Tour</strong></div></div><div class="card-footer"><div class="price">$110.00</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/tours/orange-bay-island-snorkeling/">
-          <div class="card-img"><span class="badge">Adventure Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Hurghada</span><img decoding="async" src="/assets/uploads/2026/05/Orange-Bay-Snorkeling-Excursion-In-Hurghada-650x400.jpg" alt="Orange Bay Island Snorkeling"></div>
+          <div class="card-img"><span class="badge">Adventure Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Hurghada</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Orange-Bay-Snorkeling-Excursion-In-Hurghada-650x400.jpg" alt="Orange Bay Island Snorkeling"></div>
           <div class="card-body"><h3>Orange Bay Island Snorkeling</h3><p>Spend a Red Sea day around Orange Bay with swimming, snorkeling, boat time, and island relaxation.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>7 To 9 Hours</strong></div><div class="meta"><span>Style</span><strong>Snorkeling Trip</strong></div></div><div class="card-footer"><div class="price">$60.00</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/tours/ras-mohammed-snorkeling/">
-          <div class="card-img"><span class="badge">Adventure Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Sharm El Sheikh</span><img decoding="async" src="/assets/uploads/2026/05/Explore-Ras-Mohammed-Reef-Snorkeling-Tour.jpg" alt="Ras Mohammed Snorkeling"></div>
+          <div class="card-img"><span class="badge">Adventure Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Sharm El Sheikh</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Explore-Ras-Mohammed-Reef-Snorkeling-Tour.jpg" alt="Ras Mohammed Snorkeling"></div>
           <div class="card-body"><h3>Ras Mohammed Snorkeling</h3><p>Explore Ras Mohammed reefs on a snorkeling day trip with clear water, coral gardens, and Red Sea scenery.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>7 To 9 Hours</strong></div><div class="meta"><span>Style</span><strong>Snorkeling Trip</strong></div></div><div class="card-footer"><div class="price">$65.00</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/tours/giza-pyramids-saqqara-tour/">
-          <div class="card-img"><span class="badge">Adventure Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo</span><img decoding="async" src="/assets/uploads/2026/05/Ancient-Wonders-Of-Giza-Saqqara-650x400.jpg" alt="Giza Pyramids and Saqqara Tour"></div>
+          <div class="card-img"><span class="badge">Adventure Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Ancient-Wonders-Of-Giza-Saqqara-650x400.jpg" alt="Giza Pyramids and Saqqara Tour"></div>
           <div class="card-body"><h3>Giza Pyramids &amp; Saqqara Tour</h3><p>See the Giza Pyramids and Saqqara in one compact Cairo day tour focused on ancient Egyptian history.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>6 To 8 Hours</strong></div><div class="meta"><span>Style</span><strong>Cairo Day Tour</strong></div></div><div class="card-footer"><div class="price">$50.00</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/tours/luxor-hot-air-balloon/">
-          <div class="card-img"><span class="badge">Adventure Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Luxor</span><img decoding="async" src="/assets/uploads/2026/05/Luxor-Hot-Air-Balloon-Sunrise-Flight-650x400.jpg" alt="Luxor Hot Air Balloon"></div>
+          <div class="card-img"><span class="badge">Adventure Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Luxor</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Luxor-Hot-Air-Balloon-Sunrise-Flight-650x400.jpg" alt="Luxor Hot Air Balloon"></div>
           <div class="card-body"><h3>Luxor Hot Air Balloon</h3><p>Float above Luxor's West Bank at sunrise for panoramic views of temples, fields, and the Nile landscape.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>2.5 To 4 Hours</strong></div><div class="meta"><span>Style</span><strong>Balloon Ride</strong></div></div><div class="card-footer"><div class="price">$95.00</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="package-card" href="/tours/cairo-dinner-nile-cruise/">
-          <div class="card-img"><span class="badge featured">Family Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo</span><img decoding="async" src="/assets/uploads/2026/05/Cairo-Nile-Dinner-Cruise-Live-Entertainment-650x400.jpg" alt="Luxury Cairo Dinner Nile Cruise With Entertainment Show"></div>
+          <div class="card-img"><span class="badge featured">Family Tour</span><span class="locations"><i class="fas fa-location-dot"></i> Cairo</span><img loading="lazy" decoding="async" src="/assets/uploads/2026/05/Cairo-Nile-Dinner-Cruise-Live-Entertainment-650x400.jpg" alt="Luxury Cairo Dinner Nile Cruise With Entertainment Show"></div>
           <div class="card-body"><h3>Luxury Cairo Dinner Nile Cruise With Entertainment Show</h3><p>Enjoy an evening Cairo dinner cruise on the Nile with live entertainment, city views, and relaxed dining.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>3 To 4 Hours</strong></div><div class="meta"><span>Style</span><strong>Evening Tour</strong></div></div><div class="card-footer"><div class="price">On Request</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
       </div>
@@ -1329,7 +1329,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/4-days-christmas-new-year-nile-cruise/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Christmas</span>
-          <img src="/assets/uploads/2026/05/New-Year-2026.png" alt="Christmas and New Year Nile Cruise Egypt">
+          <img loading="lazy" src="/assets/uploads/2026/05/New-Year-2026.png.webp" alt="Christmas and New Year Nile Cruise Egypt">
         </div>
         <div class="avi-seasonal-body">
           <h3>4 Days Christmas &amp; New Year Nile Cruise</h3>
@@ -1342,7 +1342,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <a class="avi-seasonal-card" href="/packages/total-solar-eclipse-tour-2027/">
         <div class="avi-seasonal-media">
           <span class="avi-seasonal-tag">Eclipse 2027</span>
-          <img src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
+          <img loading="lazy" src="/assets/uploads/2026/06/Total-Solar-Eclipse-Tour-2027-scaled.png.webp" alt="Total Solar Eclipse Tour 2027 Egypt Nile Cruise">
         </div>
         <div class="avi-seasonal-body">
           <h3>Total Solar Eclipse Tour 2027 Nile Cruise</h3>
@@ -1396,7 +1396,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
 <div id="cmplz-cookiebanner-container"><div id="cmplz-cookiebanner-1-optin" class="cmplz-cookiebanner cmplz-hidden banner-1 we-value-your-privacy optin cmplz-bottom-right cmplz-categories-type-view-preferences" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-1-optin" aria-describedby="cmplz-message-1-optin">
 	<div class="cmplz-header">
-		<div class="cmplz-logo"><a href="/" class="custom-logo-link" rel="home"><img width="355" height="250" src="/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp" class="custom-logo" alt="Avicon Travel" decoding="async" srcset="/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp 355w, /assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png-300x211.webp 300w" sizes="(max-width: 355px) 100vw, 355px" /></a></div>
+		<div class="cmplz-logo"><a href="/" class="custom-logo-link" rel="home"><img loading="lazy" width="355" height="250" src="/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp" class="custom-logo" alt="Avicon Travel" decoding="async" srcset="/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp 355w, /assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png-300x211.webp 300w" sizes="(max-width: 355px) 100vw, 355px" /></a></div>
 		<div class="cmplz-title" id="cmplz-header-1-optin">We Value Your Privacy</div>
 		<div class="cmplz-close" tabindex="0" role="button" aria-label="Close dialog">
 			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>
