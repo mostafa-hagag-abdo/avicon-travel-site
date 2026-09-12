@@ -1,0 +1,126 @@
+{
+ "/packages/12-days-egypt-tour-to-cairo/": {
+  "title": "12-Day Egypt Tour with Nile Cruise & Hurghada | From {price}",
+  "description": "12 days: Giza Pyramids and the Grand Egyptian Museum, a Nile cruise with Abu Simbel, Edfu and Luxor, then Red Sea time in Hurghada. From {price} per person."
+ },
+ "/packages/4-days-christmas-new-year-nile-cruise/": {
+  "title": "4-Day Christmas & New Year Nile Cruise, Aswan to Luxor",
+  "description": "Celebrate Christmas or New Year on a 4-day Nile cruise from Aswan to Luxor, with Kom Ombo, Edfu, Luxor's West Bank, Karnak and Luxor Temple."
+ },
+ "/packages/6-days-cairo-hurghada-package/": {
+  "title": "6-Day Cairo & Hurghada Tour Package | From {price}",
+  "description": "6 days in Cairo and Hurghada: Giza Pyramids, Saqqara, the Grand Egyptian Museum and Old Cairo, then Red Sea snorkeling. From {price} per person."
+ },
+ "/packages/7-days-cairo-hurghada-holiday/": {
+  "title": "7-Day Cairo & Hurghada Holiday Package | From {price}",
+  "description": "Giza Pyramids, Saqqara and Old Cairo, then Hurghada snorkeling and a desert quad safari, starting with a Nile dinner cruise. From {price} per person."
+ },
+ "/packages/8-days-cairo-abu-simbel-luxor-hurghada/": {
+  "title": "8-Day Cairo, Abu Simbel, Luxor & Hurghada Tour | From {price}",
+  "description": "The Giza Pyramids, Abu Simbel and Luxor's West Bank, then Red Sea snorkeling and a desert quad safari in Hurghada over 8 days. From {price} per person."
+ },
+ "/packages/experience-egypt-in-9-days/": {
+  "title": "Experience Egypt in 9 Days: Cairo to Luxor | From {price}",
+  "description": "9 days through Cairo, Alexandria, Aswan, Abu Simbel and Luxor, with the Giza Pyramids, a Nile dinner cruise and Luxor's West Bank. From {price} per person."
+ },
+ "/packages/private-4-days-cairo-tour-package/": {
+  "title": "Private 4-Day Cairo & Giza Tour Package | From {price}",
+  "description": "Four private days in Cairo and Giza with an Egyptologist: the Pyramids, Saqqara, Old Cairo and a Nile dinner cruise. From {price} per person."
+ },
+ "/packages/total-solar-eclipse-tour-2027/": {
+  "title": "Total Solar Eclipse 2027 Egypt Nile Cruise | From {price}",
+  "description": "See the 2 August 2027 total solar eclipse in Luxor at the end of a 4-day Nile cruise from Aswan, with guided sightseeing on the way. From {price} per person."
+ },
+ "/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/": {
+  "title": "3-Night Nile Cruise from Aswan with Abu Simbel | From {price}",
+  "description": "A 3-night Nile cruise from Aswan to Luxor with Aswan sightseeing, the rock-cut temples of Abu Simbel, Kom Ombo, Edfu and Luxor. From {price} per person."
+ },
+ "/nile-cruises/4-days-dahabiya-nile-cruise-from-aswan-to-luxor/": {
+  "title": "4-Day Dahabiya Nile Cruise, Aswan to Luxor | From {price}",
+  "description": "A private 3-night Dahabiya from Aswan to Luxor, full board, with a quieter sailing style and guided stops at Kom Ombo, Edfu and Esna. From {price} per person."
+ },
+ "/nile-cruises/4-days-nile-cruise-aswan-to-luxor/": {
+  "title": "4-Day Nile Cruise Aswan to Luxor, Full Board",
+  "description": "A 4-day, 3-night full-board Nile cruise from Aswan to Luxor: Philae Temple, the High Dam, Kom Ombo, Edfu and Luxor's temples with an Egyptologist."
+ },
+ "/nile-cruises/4-days-off-the-beaten-path-nile-river-cruise-for-repeat-visitors/": {
+  "title": "4-Day Off-the-Beaten-Path Nile Cruise | From {price}",
+  "description": "A quieter 3-night Nile cruise from Aswan to Luxor for repeat visitors, with Edfu, the Mummification Museum and lesser-known Theban sites. From {price} per person."
+ },
+ "/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/": {
+  "title": "4-Night Nile Cruise from Luxor with Abu Simbel | From {price}",
+  "description": "Sail from Luxor to Aswan over 5 days: Luxor's East and West Banks, Edfu, Kom Ombo, the temples of Abu Simbel and Aswan's sights. From {price} per person."
+ },
+ "/nile-cruises/5-days-dahabiya-nile-cruise-from-luxor-to-aswan/": {
+  "title": "5-Day Dahabiya Nile Cruise, Luxor to Aswan | From {price}",
+  "description": "A private 4-night Dahabiya from Luxor to Aswan with calm sailing and guided visits to Luxor, Edfu, Gebel El Silsila, Kom Ombo and Aswan. From {price} per person."
+ },
+ "/nile-cruises/5-days-hidden-treasures-nile-cruise-for-returning-visitors/": {
+  "title": "5-Day Hidden Treasures Nile Cruise | From {price}",
+  "description": "A 4-night Luxor to Aswan cruise for returning visitors: Dendera, Abydos, hidden Luxor sites, Edfu by horse carriage and Kom Ombo. From {price} per person."
+ },
+ "/nile-cruises/5-days-nile-river-cruise-from-luxor-to-aswan/": {
+  "title": "5-Day Nile River Cruise, Luxor to Aswan | From {price}",
+  "description": "Sail from Luxor to Aswan on a 5-day Nile cruise with Luxor's East and West Banks, Edfu, Kom Ombo and Aswan's highlights. From {price} per person."
+ },
+ "/nile-cruises/movenpick-ms-royal-lily-nile-cruise/": {
+  "title": "Mövenpick MS Royal Lily Nile Cruise | From {price}",
+  "description": "Sail the Nile on the Mövenpick MS Royal Lily: 4 days from Aswan or 5 days from Luxor, visiting Luxor, Edfu, Kom Ombo and Aswan. From {price} per person."
+ },
+ "/nile-cruises/ms-acamar-nile-cruise/": {
+  "title": "MS Acamar Nile Cruise, Luxor & Aswan | From {price}",
+  "description": "Cruise the Nile on the 5-star MS Acamar: 4 days from Aswan or 5 days from Luxor, with Luxor, Edfu, Kom Ombo and Aswan sightseeing. From {price} per person."
+ },
+ "/nile-cruises/ms-farah-nile-cruise/": {
+  "title": "MS Farah Nile Cruise: Itineraries & Prices",
+  "description": "Sail on MS Farah, 4 days from Aswan or 5 from Luxor, with elegant cabins, fine dining, expert guides, Karnak, Luxor Temple and the Valley of the Kings."
+ },
+ "/nile-cruises/ms-mayfair-nile-cruise/": {
+  "title": "MS Mayfair 5-Star Nile Cruise, Luxor & Aswan | From {price}",
+  "description": "The five-star MS Mayfair between Luxor and Aswan: full board, expert guiding and private transfers, 4 days from Aswan or 5 from Luxor. From {price} per person."
+ },
+ "/nile-cruises/ms-tulip-nile-cruise/": {
+  "title": "MS Tulip Nile Cruise, Luxor & Aswan | From {price}",
+  "description": "MS Tulip between Luxor and Aswan: full board, guided visits to Upper Egypt's temples and royal tombs, 4 days from Aswan or 5 from Luxor. From {price} per person."
+ },
+ "/nile-cruises/sanctuary-sun-boat-iii-nile-cruise/": {
+  "title": "Sanctuary Sun Boat III Luxury Nile Cruise | From {price}",
+  "description": "Sanctuary Sun Boat III between Luxor and Aswan: refined five-star cabins, Egyptologist guiding and private transfers on a 5-day cruise. From {price} per person."
+ },
+ "/tours/abu-simbel-temples-private-tour/": {
+  "title": "Abu Simbel Private Day Tour from Aswan | From {price}",
+  "description": "Private day trip from Aswan to Abu Simbel: the Great Temple of Ramses II and the Temple of Nefertari, with hotel pickup and return. From {price} per person."
+ },
+ "/tours/cairo-dinner-nile-cruise/": {
+  "title": "Cairo Dinner Nile Cruise with Live Show",
+  "description": "An evening Nile dinner cruise in Cairo with an open buffet, live entertainment and Cairo by night views, including hotel pickup and return."
+ },
+ "/tours/giza-pyramids-saqqara-tour/": {
+  "title": "Giza Pyramids & Saqqara Private Day Tour | From {price}",
+  "description": "Private day tour from Cairo to the Giza Pyramids, the Great Sphinx and Saqqara's Step Pyramid, with hotel pickup and an optional lunch. From {price} per person."
+ },
+ "/tours/grand-egyptian-museum-pyramids-tour/": {
+  "title": "Grand Egyptian Museum & Pyramids Private Tour | From {price}",
+  "description": "Grand Egyptian Museum & Giza Pyramids private day tour from Cairo with an expert Egyptologist guide, lunch break, and hotel pickup. From {price} per person."
+ },
+ "/tours/luxor-day-trip-from-hurghada/": {
+  "title": "Luxor Day Trip from Hurghada, Private Tour | From {price}",
+  "description": "Private day trip from Hurghada to Luxor: Karnak Temple, lunch at a local restaurant and the Valley of the Kings, with hotel transfers. From {price} per person."
+ },
+ "/tours/luxor-hot-air-balloon/": {
+  "title": "Luxor Hot Air Balloon Ride at Sunrise | From {price}",
+  "description": "Sunrise hot air balloon flight over Luxor's West Bank and the Nile, with hotel pickup, a safety briefing and a flight certificate. From {price} per person."
+ },
+ "/tours/orange-bay-island-snorkeling/": {
+  "title": "Orange Bay Island Snorkeling Trip, Hurghada | From {price}",
+  "description": "Orange Bay Island snorkeling day trip from Hurghada: Red Sea cruise, white sandbank beach time, snorkeling stops, and lunch on board. From {price} per person."
+ },
+ "/tours/ras-mohammed-snorkeling/": {
+  "title": "Ras Mohammed Snorkeling from Sharm El Sheikh | From {price}",
+  "description": "Ras Mohammed National Park snorkeling trip from Sharm El Sheikh with two reef stops, lunch on board, and hotel transfer. From {price} per person."
+ },
+ "/tours/saqqara-memphis-dahshur-day-trip-from-cairo/": {
+  "title": "Saqqara, Memphis & Dahshur Day Trip from Cairo | From {price}",
+  "description": "Private day trip from Cairo to Saqqara's Step Pyramid, the ancient capital Memphis and the Bent and Red Pyramids of Dahshur. From {price} per person."
+ }
+}
