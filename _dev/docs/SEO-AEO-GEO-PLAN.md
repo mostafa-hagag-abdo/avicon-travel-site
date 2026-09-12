@@ -51,7 +51,8 @@
   - [x] `/tours/best-grand-egyptian-museum/` → `/tours/grand-egyptian-museum-pyramids-tour/`
 - [x] كل روابط WordPress القديمة اتجربت (من الداتابيز + `extracted/live/*_urls.txt`): 189 رابط، 117 بيوصلوا لصفحتهم في تحويل واحد بالكتير، و72 صفحة demo/متجر (`/visa/` و`/hotel/` و`/experience/` و`/product/` و`/shop/` و`/cart/`…) بترجع 410، وصفر 404
 - [x] مفتاح IndexNow (`244c35815a6e31d9e4deb593f5df7fa1.txt` في جذر الموقع) + `_dev/indexnow_ping.py`، ويتشغل بعد الإطلاق
-- [ ] توثيق GSC وBing Webmaster ← محتاج حسابات العميل (DNS أو ملف التحقق). مفيش كود تحقق قديم في داتابيز WordPress، يعني هنعمل property جديدة. (2026-09-12: بدأنا مع العميل خطوة بخطوة)
+- [x] Google Search Console: property `https://avicontravel.com/` (URL prefix) اتوثقت بـ meta tag في `<head>` بتاع الرئيسية (2026-09-12). **ماتشيلش التاج**، جوجل بيراجعه كل فترة
+- [ ] Bing Webmaster ← استيراد من GSC
 - [x] ملف `/llms.txt`: 31 منتج و12 دليل. بيتولد بـ `_dev/convert/make_llms.py`، شغّله تاني بعد أي تغيير في الأسعار
 - [ ] تسجيل لوحة الـ 12 سؤال كنقطة بداية ← القالب جاهز في `_dev/docs/geo-prompt-panel.md`، ومحتاج حد من الفريق يسأل بنفسه
 
@@ -60,6 +61,9 @@
 ## مرحلة 1 — الأساس (أسابيع 1–4 بعد الإطلاق)
 
 - [ ] رفع الـ sitemap (GSC + Bing) + ping لـ IndexNow، ومتابعة الفهرسة و404 كل يوم لمدة أسبوعين
+  - [x] GSC: `sitemap.xml` اترفع وحالته Success (2026-09-12). 60 صفحة، ومفيش صفحات بحث (`/search/` عليها noindex)
+  - [x] IndexNow: اتبعت الرئيسية والـ 31 منتج (2026-09-12)
+  - [ ] Bing + المتابعة اليومية لمدة أسبوعين
 - [ ] الأداء: شيل WooCommerce وslick وleaflet وjquery-ui وdaterangepicker وdropzone، وFont Awesome نسخة واحدة
 - [ ] الـ CSS المتكرر جوه الصفحات → ملف واحد في الكاش
 - [ ] الصور → WebP/AVIF + `srcset` + `preload` لصورة الهيرو + تحميل الباقي وقت ما يظهر
