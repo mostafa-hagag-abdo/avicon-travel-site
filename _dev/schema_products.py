@@ -1,11 +1,12 @@
 """Structured data for the product pages (packages, Nile cruises, day tours).
 
 One JSON-LD graph per product page, built only from what the page itself shows:
-Organization + WebSite + WebPage + BreadcrumbList + TouristTrip (itinerary + Offer).
-The Offer takes the visible "Starting Price" of the booking box, so the markup never
-disagrees with the page; "on request" products get no Offer.
+Organization + WebSite + WebPage + BreadcrumbList + TouristTrip (itinerary + Offer)
++ FAQPage when the page has an FAQ tab. The Offer takes the visible "Starting Price"
+of the booking box, so the markup never disagrees with the page; "on request"
+products get no Offer.
 
-Idempotent - re-run after any price / itinerary edit:
+Idempotent - re-run after any price / itinerary / FAQ edit:
     python _dev/schema_products.py            # write
     python _dev/schema_products.py --check    # report only, also flags price mismatches
 """
@@ -39,6 +40,27 @@ def amount(s):
     return int(m.group(1).replace(",", "")) if m else None
 
 
+def end_of_div(s, start):
+    """Index just past the </div> that closes the <div> starting at `start`."""
+    depth = 0
+    for m in re.finditer(r"<div\b|</div>", s[start:]):
+        depth += 1 if m.group(0) == "<div" else -1
+        if depth == 0:
+            return start + m.end()
+    raise ValueError("unbalanced <div>")
+
+
+def faq_pairs(s):
+    """Question/answer pairs from the page's FAQ tab (id="faq"), as shown to visitors."""
+    i = s.find('id="faq"')
+    if i < 0:
+        return []
+    start = s.rfind("<div", 0, i)
+    block = s[start:end_of_div(s, start)]
+    return [(text(q), text(a)) for q, a in
+            re.findall(r'<div class="day-title"[^>]*>(.*?)</div>.*?<div class="day-content">(.*?)</div>', block, re.S)]
+
+
 def product(url, s):
     head = s[:s.find("</head>")]
     visible = grab(r'summary-row total"><span>[^<]*</span><span>(.*?)</span>', s)
@@ -54,6 +76,7 @@ def product(url, s):
         "price_text": visible or hidden,
         "hidden_price": amount(hidden),
         "itinerary": [text(d) for d in re.findall(r'<div class="day-title">(.*?)</div>', s, re.S)],
+        "faq": faq_pairs(s),
     }
 
 
@@ -90,6 +113,10 @@ def graph(p):
             {"@type": "ListItem", "position": 3, "name": p["name"] or p["title"], "item": canon}]},
         trip,
     ]
+    if p["faq"]:
+        nodes.append({"@type": "FAQPage", "@id": canon + "#faq", "isPartOf": {"@id": canon + "#webpage"},
+                      "mainEntity": [{"@type": "Question", "name": q,
+                                      "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in p["faq"]]})
     prune = lambda d: {k: prune(v) if isinstance(v, dict) else v for k, v in d.items() if v not in (None, "", [])}
     return {"@context": "https://schema.org", "@graph": [prune(n) for n in nodes]}
 
@@ -97,7 +124,7 @@ def graph(p):
 def main(check):
     if not (ROOT / LOGO.lstrip("/")).exists():
         sys.exit(f"logo not found: {LOGO}")
-    done, issues = 0, []
+    done, issues, faqs = 0, [], 0
     for section in HUBS:
         for f in sorted((ROOT / section).glob("*/index.php")):
             s = open(f, encoding="utf-8", newline="").read()
@@ -111,7 +138,8 @@ def main(check):
                 issues.append(f"{url}: no og:image")
             if p["price"] and p["hidden_price"] and p["price"] != p["hidden_price"]:
                 issues.append(f"{url}: visible ${p['price']} but booking form sends ${p['hidden_price']}")
-            print(f"{url[:64]:64} {('$' + str(p['price'])) if p['price'] else 'on request':>10}  itinerary:{len(p['itinerary'])}")
+            faqs += bool(p["faq"])
+            print(f"{url[:64]:64} {('$' + str(p['price'])) if p['price'] else 'on request':>10}  itinerary:{len(p['itinerary'])}  faq:{len(p['faq'])}")
             nl = "\r\n" if "\r\n" in s else "\n"
             tag = ('<script type="application/ld+json" id="avicon-schema">'
                    + json.dumps(graph(p), ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
@@ -120,7 +148,7 @@ def main(check):
             if not check and new != s:
                 open(f, "w", encoding="utf-8", newline="").write(new)
             done += 1
-    print(f"\n{done} product pages {'checked' if check else 'written'}")
+    print(f"\n{done} product pages {'checked' if check else 'written'}; with FAQPage: {faqs}")
     for i in issues:
         print("  !", i)
 

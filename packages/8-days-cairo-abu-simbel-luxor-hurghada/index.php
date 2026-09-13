@@ -7,14 +7,14 @@
 	
 	
 <!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
-<title>8-Day Cairo, Abu Simbel, Luxor &amp; Hurghada Tour | From $1,670</title>
-<meta name="description" content="The Giza Pyramids, Abu Simbel and Luxor's West Bank, then Red Sea snorkeling and a desert quad safari in Hurghada over 8 days. From $1,670 per person."/>
+<title>8-Day Cairo, Abu Simbel, Luxor &amp; Hurghada Tour | From $1,740</title>
+<meta name="description" content="The Giza Pyramids, Abu Simbel and Luxor's West Bank, then Red Sea snorkeling and a desert quad safari in Hurghada over 8 days. From $1,740 per person."/>
 <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
 <link rel="canonical" href="https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="8-Day Cairo, Abu Simbel, Luxor &amp; Hurghada Tour | From $1,670" />
-<meta property="og:description" content="The Giza Pyramids, Abu Simbel and Luxor's West Bank, then Red Sea snorkeling and a desert quad safari in Hurghada over 8 days. From $1,670 per person." />
+<meta property="og:title" content="8-Day Cairo, Abu Simbel, Luxor &amp; Hurghada Tour | From $1,740" />
+<meta property="og:description" content="The Giza Pyramids, Abu Simbel and Luxor's West Bank, then Red Sea snorkeling and a desert quad safari in Hurghada over 8 days. From $1,740 per person." />
 <meta property="og:url" content="https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/" />
 <meta property="og:site_name" content="Avicon Travel" />
 <meta property="og:updated_time" content="2026-06-10T18:00:21+00:00" />
@@ -25,8 +25,8 @@
 <meta property="og:image:alt" content="8 Days Cairo, Abu Simbel, Luxor &amp; Hurghada" />
 <meta property="og:image:type" content="image/jpeg" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="8-Day Cairo, Abu Simbel, Luxor &amp; Hurghada Tour | From $1,670" />
-<meta name="twitter:description" content="The Giza Pyramids, Abu Simbel and Luxor's West Bank, then Red Sea snorkeling and a desert quad safari in Hurghada over 8 days. From $1,670 per person." />
+<meta name="twitter:title" content="8-Day Cairo, Abu Simbel, Luxor &amp; Hurghada Tour | From $1,740" />
+<meta name="twitter:description" content="The Giza Pyramids, Abu Simbel and Luxor's West Bank, then Red Sea snorkeling and a desert quad safari in Hurghada over 8 days. From $1,740 per person." />
 <meta name="twitter:image" content="https://avicontravel.com/assets/uploads/2026/05/Abu-simble.jpg" />
 <!-- /Rank Math WordPress SEO plugin -->
 
@@ -154,8 +154,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <meta name="msapplication-TileImage" content="/assets/uploads/2026/05/cropped-Avicon-Travel-1-1.png.webp" />
 <script type="text/javascript" src="/assets/core/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="/assets/core/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<script type="application/ld+json" id="avicon-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://avicontravel.com/#organization","name":"Avicon Travel","url":"https://avicontravel.com/","logo":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp"},"email":"info@avicontravel.com","telephone":"+201200555600","sameAs":["https://www.instagram.com/avicontravel/","https://www.facebook.com/profile.php?id=61589341120733","https://www.tripadvisor.com/Attraction_Review-g294204-d27707479-Reviews-Avicon_Travel-Aswan_Aswan_Governorate_Nile_River_Valley.html"]},{"@type":"WebSite","@id":"https://avicontravel.com/#website","url":"https://avicontravel.com/","name":"Avicon Travel","publisher":{"@id":"https://avicontravel.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/#webpage","url":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/","name":"8-Day Cairo, Abu Simbel, Luxor & Hurghada Tour | From $1,670","description":"The Giza Pyramids, Abu Simbel and Luxor's West Bank, then Red Sea snorkeling and a desert quad safari in Hurghada over 8 days. From $1,670 per person.","isPartOf":{"@id":"https://avicontravel.com/#website"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/Abu-simble.jpg"},"breadcrumb":{"@id":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/#breadcrumb"},"mainEntity":{"@id":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/#trip"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://avicontravel.com/"},{"@type":"ListItem","position":2,"name":"Egypt Packages","item":"https://avicontravel.com/packages/"},{"@type":"ListItem","position":3,"name":"8 Days Cairo, Abu Simbel, Luxor & Hurghada Tour","item":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/"}]},{"@type":"TouristTrip","@id":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/#trip","name":"8 Days Cairo, Abu Simbel, Luxor & Hurghada Tour","description":"The Giza Pyramids, Abu Simbel and Luxor's West Bank, then Red Sea snorkeling and a desert quad safari in Hurghada over 8 days. From $1,670 per person.","url":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/","image":"https://avicontravel.com/assets/uploads/2026/05/Abu-simble.jpg","provider":{"@id":"https://avicontravel.com/#organization"},"itinerary":{"@type":"ItemList","numberOfItems":8,"itemListElement":[{"@type":"ListItem","position":1,"name":"Day 1 Arrival in Cairo"},{"@type":"ListItem","position":2,"name":"Day 2 Giza Pyramids & Cairo Attractions"},{"@type":"ListItem","position":3,"name":"Day 3 Flight to Aswan & Abu Simbel"},{"@type":"ListItem","position":4,"name":"Day 4 Transfer to Luxor"},{"@type":"ListItem","position":5,"name":"Day 5 Luxor West Bank & Hurghada Transfer"},{"@type":"ListItem","position":6,"name":"Day 6 Hurghada Snorkeling Adventure"},{"@type":"ListItem","position":7,"name":"Day 7 Desert Safari & Quad Biking"},{"@type":"ListItem","position":8,"name":"Day 8 Return to Cairo & Final Departure"}]},"offers":{"@type":"Offer","price":"1670","priceCurrency":"USD","availability":"https://schema.org/InStock","url":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/","description":"Starting price per person","seller":{"@id":"https://avicontravel.com/#organization"}}}]}</script>
 <style id="avicon-img-ratio">:where(img[width][height]){height:auto}</style>
+<script type="application/ld+json" id="avicon-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://avicontravel.com/#organization","name":"Avicon Travel","url":"https://avicontravel.com/","logo":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp"},"email":"info@avicontravel.com","telephone":"+201200555600","sameAs":["https://www.instagram.com/avicontravel/","https://www.facebook.com/profile.php?id=61589341120733","https://www.tripadvisor.com/Attraction_Review-g294204-d27707479-Reviews-Avicon_Travel-Aswan_Aswan_Governorate_Nile_River_Valley.html"]},{"@type":"WebSite","@id":"https://avicontravel.com/#website","url":"https://avicontravel.com/","name":"Avicon Travel","publisher":{"@id":"https://avicontravel.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/#webpage","url":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/","name":"8-Day Cairo, Abu Simbel, Luxor & Hurghada Tour | From $1,740","description":"The Giza Pyramids, Abu Simbel and Luxor's West Bank, then Red Sea snorkeling and a desert quad safari in Hurghada over 8 days. From $1,740 per person.","isPartOf":{"@id":"https://avicontravel.com/#website"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/Abu-simble.jpg"},"breadcrumb":{"@id":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/#breadcrumb"},"mainEntity":{"@id":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/#trip"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://avicontravel.com/"},{"@type":"ListItem","position":2,"name":"Egypt Packages","item":"https://avicontravel.com/packages/"},{"@type":"ListItem","position":3,"name":"8 Days Cairo, Abu Simbel, Luxor & Hurghada Tour","item":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/"}]},{"@type":"TouristTrip","@id":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/#trip","name":"8 Days Cairo, Abu Simbel, Luxor & Hurghada Tour","description":"The Giza Pyramids, Abu Simbel and Luxor's West Bank, then Red Sea snorkeling and a desert quad safari in Hurghada over 8 days. From $1,740 per person.","url":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/","image":"https://avicontravel.com/assets/uploads/2026/05/Abu-simble.jpg","provider":{"@id":"https://avicontravel.com/#organization"},"itinerary":{"@type":"ItemList","numberOfItems":8,"itemListElement":[{"@type":"ListItem","position":1,"name":"Day 1 Arrival in Cairo"},{"@type":"ListItem","position":2,"name":"Day 2 Giza Pyramids & Cairo Attractions"},{"@type":"ListItem","position":3,"name":"Day 3 Flight to Aswan & Abu Simbel"},{"@type":"ListItem","position":4,"name":"Day 4 Transfer to Luxor"},{"@type":"ListItem","position":5,"name":"Day 5 Luxor West Bank & Hurghada Transfer"},{"@type":"ListItem","position":6,"name":"Day 6 Hurghada Snorkeling Adventure"},{"@type":"ListItem","position":7,"name":"Day 7 Desert Safari & Quad Biking"},{"@type":"ListItem","position":8,"name":"Day 8 Return to Cairo & Final Departure"}]},"offers":{"@type":"Offer","price":"1740","priceCurrency":"USD","availability":"https://schema.org/InStock","url":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/","description":"Starting price per person","seller":{"@id":"https://avicontravel.com/#organization"}}},{"@type":"FAQPage","@id":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/#faq","isPartOf":{"@id":"https://avicontravel.com/packages/8-days-cairo-abu-simbel-luxor-hurghada/#webpage"},"mainEntity":[{"@type":"Question","name":"What does the 8-day tour include?","acceptedAnswer":{"@type":"Answer","text":"Seven nights in 5-star hotels (2 in Cairo, 1 in Aswan, 1 in Luxor, 3 in Hurghada), flights Cairo-Aswan and Hurghada-Cairo, a first-class train from Aswan to Luxor, private transport, an Egyptologist guide, entrance fees, a snorkeling trip and a quad bike safari. International airfare, the visa and tips are extra."}},{"@type":"Question","name":"Is this tour a Nile cruise?","acceptedAnswer":{"@type":"Answer","text":"No. You stay in hotels in Aswan and Luxor and travel between them by first-class train. If you would like to sail the Nile, the 12-day tour includes a 3-night cruise."}},{"@type":"Question","name":"When do we visit Abu Simbel?","acceptedAnswer":{"@type":"Answer","text":"On day 3, right after the flight to Aswan: the temples of Ramses II and Queen Nefertari, plus Aswan's landmarks."}},{"@type":"Question","name":"How do we get from Luxor to Hurghada?","acceptedAnswer":{"@type":"Answer","text":"By private air-conditioned vehicle on day 5, after the Valley of the Kings, Hatshepsut Temple and the Colossi of Memnon."}},{"@type":"Question","name":"Which meals are included?","acceptedAnswer":{"@type":"Answer","text":"Breakfast daily from day 2, lunch on the sightseeing and snorkeling days, and dinner on the desert safari day. No meals are included on arrival day."}}]}]}</script>
 </head>
 <body data-rsssl=1 data-cmplz=1 class="wp-singular tour-template tour-template-elementor_header_footer single single-tour postid-11256 wp-custom-logo wp-theme-gofly-main tt-magic-cursor  theme-gofly-main woocommerce-no-js elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-11256">
 <?php include $_SERVER['DOCUMENT_ROOT'].'/includes/header.php'; ?>
@@ -1174,7 +1174,7 @@ textarea.form-input{resize:vertical;min-height:60px}
         <div class="tabs">
           <div class="tab active" data-tab="overview"><i class="fas fa-info-circle"></i> Overview</div>
           <div class="tab" data-tab="itinerary"><i class="fas fa-route"></i> Itinerary</div>
-          <div class="tab" data-tab="inclusions"><i class="fas fa-check-double"></i> Inclusions</div>
+          <div class="tab" data-tab="inclusions"><i class="fas fa-check-double"></i> Inclusions</div><div class="tab" data-tab="faq"><i class="fas fa-circle-question"></i> FAQ</div>
         </div>
 
         <div class="tab-panel active" id="overview">
@@ -1478,6 +1478,17 @@ textarea.form-input{resize:vertical;min-height:60px}
             </div>
           </div>
         </div>
+        <div class="tab-panel" id="faq">
+          <h2 class="section-title">Frequently Asked Questions</h2>
+          <p class="section-sub">Quick answers about this trip. For anything else, message us on WhatsApp — we reply fast.</p>
+          <div class="timeline">
+            <div class="day-item open"><div class="day-header" style="cursor:pointer"><div class="day-title" style="font-size:14px">What does the 8-day tour include?</div><i class="fas fa-chevron-down day-toggle"></i></div><div class="day-content"><p>Seven nights in 5-star hotels (2 in Cairo, 1 in Aswan, 1 in Luxor, 3 in Hurghada), flights Cairo-Aswan and Hurghada-Cairo, a first-class train from Aswan to Luxor, private transport, an Egyptologist guide, entrance fees, a snorkeling trip and a quad bike safari. International airfare, the visa and tips are extra.</p></div></div>
+            <div class="day-item"><div class="day-header" style="cursor:pointer"><div class="day-title" style="font-size:14px">Is this tour a Nile cruise?</div><i class="fas fa-chevron-down day-toggle"></i></div><div class="day-content"><p>No. You stay in hotels in Aswan and Luxor and travel between them by first-class train. If you would like to sail the Nile, the 12-day tour includes a 3-night cruise.</p></div></div>
+            <div class="day-item"><div class="day-header" style="cursor:pointer"><div class="day-title" style="font-size:14px">When do we visit Abu Simbel?</div><i class="fas fa-chevron-down day-toggle"></i></div><div class="day-content"><p>On day 3, right after the flight to Aswan: the temples of Ramses II and Queen Nefertari, plus Aswan's landmarks.</p></div></div>
+            <div class="day-item"><div class="day-header" style="cursor:pointer"><div class="day-title" style="font-size:14px">How do we get from Luxor to Hurghada?</div><i class="fas fa-chevron-down day-toggle"></i></div><div class="day-content"><p>By private air-conditioned vehicle on day 5, after the Valley of the Kings, Hatshepsut Temple and the Colossi of Memnon.</p></div></div>
+            <div class="day-item"><div class="day-header" style="cursor:pointer"><div class="day-title" style="font-size:14px">Which meals are included?</div><i class="fas fa-chevron-down day-toggle"></i></div><div class="day-content"><p>Breakfast daily from day 2, lunch on the sightseeing and snorkeling days, and dinner on the desert safari day. No meals are included on arrival day.</p></div></div>
+          </div>
+        </div>
 
       </div>
 
@@ -1485,7 +1496,7 @@ textarea.form-input{resize:vertical;min-height:60px}
         <div class="price-card">
           <div class="price-header">
             <div class="price-label">Starting From</div>
-            <div class="price-amount"><small>$</small>1,670<small>/person</small></div>
+            <div class="price-amount"><small>$</small>1,740<small>/person</small></div>
             <div class="price-per">Starting price per person</div>
           </div>
 
@@ -1548,9 +1559,9 @@ textarea.form-input{resize:vertical;min-height:60px}
               </div>
 
               <div class="summary">
-                <div class="summary-row total"><span>Starting Price</span><span>From $1,670 / person</span></div>
+                <div class="summary-row total"><span>Starting Price</span><span>From $1,740 / person</span></div>
               </div>
-              <input type="hidden" name="estimated_total" id="totalInput" value="Starting From $1,670 Per Person">
+              <input type="hidden" name="estimated_total" id="totalInput" value="Starting From $1,740 Per Person">
 
               <button type="submit" class="btn-book" id="submitBtn">
                 <i class="fas fa-paper-plane"></i> <span>Send Booking Request</span>
@@ -1679,7 +1690,7 @@ textarea.form-input{resize:vertical;min-height:60px}
     // COUNTERS - WordPress-safe
     // ============================================================
     // ✅ سعر ثابت
-    var BASE_PRICE = 1670;
+    var BASE_PRICE = 1740;
 
     function getNum(id, fallback){
       var el = document.getElementById(id);
@@ -1727,7 +1738,7 @@ textarea.form-input{resize:vertical;min-height:60px}
       if (sap) sap.textContent = adultTotal.toLocaleString();
       if (scp) scp.textContent = childTotal.toLocaleString();
       if (st) st.textContent = total.toLocaleString();
-      if (ti) ti.value = 'Starting From $1,670 Per Person';
+      if (ti) ti.value = 'Starting From $1,740 Per Person';
     }
 
     var counterBtns = document.querySelectorAll('.counter-btn');

@@ -7,14 +7,14 @@
 	
 	
 <!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
-<title>Experience Egypt in 9 Days: Cairo to Luxor | From $1,670</title>
-<meta name="description" content="9 days through Cairo, Alexandria, Aswan, Abu Simbel and Luxor, with the Giza Pyramids, a Nile dinner cruise and Luxor's West Bank. From $1,670 per person."/>
+<title>Experience Egypt in 9 Days: Cairo to Luxor | From $1,780</title>
+<meta name="description" content="9 days through Cairo, Alexandria, Aswan, Abu Simbel and Luxor, with the Giza Pyramids, a Nile dinner cruise and Luxor's West Bank. From $1,780 per person."/>
 <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
 <link rel="canonical" href="https://avicontravel.com/packages/experience-egypt-in-9-days/" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Experience Egypt in 9 Days: Cairo to Luxor | From $1,670" />
-<meta property="og:description" content="9 days through Cairo, Alexandria, Aswan, Abu Simbel and Luxor, with the Giza Pyramids, a Nile dinner cruise and Luxor's West Bank. From $1,670 per person." />
+<meta property="og:title" content="Experience Egypt in 9 Days: Cairo to Luxor | From $1,780" />
+<meta property="og:description" content="9 days through Cairo, Alexandria, Aswan, Abu Simbel and Luxor, with the Giza Pyramids, a Nile dinner cruise and Luxor's West Bank. From $1,780 per person." />
 <meta property="og:url" content="https://avicontravel.com/packages/experience-egypt-in-9-days/" />
 <meta property="og:site_name" content="Avicon Travel" />
 <meta property="og:updated_time" content="2026-05-22T13:37:30+00:00" />
@@ -24,8 +24,8 @@
 <meta property="article:published_time" content="2026-05-07T21:01:01+00:00" />
 <meta property="article:modified_time" content="2026-05-22T13:37:30+00:00" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Experience Egypt in 9 Days: Cairo to Luxor | From $1,670" />
-<meta name="twitter:description" content="9 days through Cairo, Alexandria, Aswan, Abu Simbel and Luxor, with the Giza Pyramids, a Nile dinner cruise and Luxor's West Bank. From $1,670 per person." />
+<meta name="twitter:title" content="Experience Egypt in 9 Days: Cairo to Luxor | From $1,780" />
+<meta name="twitter:description" content="9 days through Cairo, Alexandria, Aswan, Abu Simbel and Luxor, with the Giza Pyramids, a Nile dinner cruise and Luxor's West Bank. From $1,780 per person." />
 <meta name="twitter:image" content="https://avicontravel.com/assets/uploads/2026/05/Experience-Egypt-in-9-Days.png" />
 <meta name="twitter:label1" content="Time to read" />
 <meta name="twitter:data1" content="3 minutes" />
@@ -156,8 +156,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <meta name="msapplication-TileImage" content="/assets/uploads/2026/05/cropped-Avicon-Travel-1-1.png.webp" />
 <script type="text/javascript" src="/assets/core/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="/assets/core/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<script type="application/ld+json" id="avicon-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://avicontravel.com/#organization","name":"Avicon Travel","url":"https://avicontravel.com/","logo":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp"},"email":"info@avicontravel.com","telephone":"+201200555600","sameAs":["https://www.instagram.com/avicontravel/","https://www.facebook.com/profile.php?id=61589341120733","https://www.tripadvisor.com/Attraction_Review-g294204-d27707479-Reviews-Avicon_Travel-Aswan_Aswan_Governorate_Nile_River_Valley.html"]},{"@type":"WebSite","@id":"https://avicontravel.com/#website","url":"https://avicontravel.com/","name":"Avicon Travel","publisher":{"@id":"https://avicontravel.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://avicontravel.com/packages/experience-egypt-in-9-days/#webpage","url":"https://avicontravel.com/packages/experience-egypt-in-9-days/","name":"Experience Egypt in 9 Days: Cairo to Luxor | From $1,670","description":"9 days through Cairo, Alexandria, Aswan, Abu Simbel and Luxor, with the Giza Pyramids, a Nile dinner cruise and Luxor's West Bank. From $1,670 per person.","isPartOf":{"@id":"https://avicontravel.com/#website"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/Experience-Egypt-in-9-Days.png"},"breadcrumb":{"@id":"https://avicontravel.com/packages/experience-egypt-in-9-days/#breadcrumb"},"mainEntity":{"@id":"https://avicontravel.com/packages/experience-egypt-in-9-days/#trip"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://avicontravel.com/packages/experience-egypt-in-9-days/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://avicontravel.com/"},{"@type":"ListItem","position":2,"name":"Egypt Packages","item":"https://avicontravel.com/packages/"},{"@type":"ListItem","position":3,"name":"Experience Egypt in 9 Days","item":"https://avicontravel.com/packages/experience-egypt-in-9-days/"}]},{"@type":"TouristTrip","@id":"https://avicontravel.com/packages/experience-egypt-in-9-days/#trip","name":"Experience Egypt in 9 Days","description":"9 days through Cairo, Alexandria, Aswan, Abu Simbel and Luxor, with the Giza Pyramids, a Nile dinner cruise and Luxor's West Bank. From $1,670 per person.","url":"https://avicontravel.com/packages/experience-egypt-in-9-days/","image":"https://avicontravel.com/assets/uploads/2026/05/Experience-Egypt-in-9-Days.png","provider":{"@id":"https://avicontravel.com/#organization"},"itinerary":{"@type":"ItemList","numberOfItems":9,"itemListElement":[{"@type":"ListItem","position":1,"name":"Day 1 Arrival in Cairo & Dinner Cruise"},{"@type":"ListItem","position":2,"name":"Day 2 Giza Pyramids Tour"},{"@type":"ListItem","position":3,"name":"Day 3 Alexandria Day Tour"},{"@type":"ListItem","position":4,"name":"Day 4 Flight to Aswan"},{"@type":"ListItem","position":5,"name":"Day 5 Abu Simbel Temples"},{"@type":"ListItem","position":6,"name":"Day 6 Transfer to Luxor"},{"@type":"ListItem","position":7,"name":"Day 7 Luxor West Bank Tour"},{"@type":"ListItem","position":8,"name":"Day 8 Old Cairo Sightseeing"},{"@type":"ListItem","position":9,"name":"Day 9 Final Departure"}]},"offers":{"@type":"Offer","price":"1670","priceCurrency":"USD","availability":"https://schema.org/InStock","url":"https://avicontravel.com/packages/experience-egypt-in-9-days/","description":"Starting price per person","seller":{"@id":"https://avicontravel.com/#organization"}}}]}</script>
 <style id="avicon-img-ratio">:where(img[width][height]){height:auto}</style>
+<script type="application/ld+json" id="avicon-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://avicontravel.com/#organization","name":"Avicon Travel","url":"https://avicontravel.com/","logo":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp"},"email":"info@avicontravel.com","telephone":"+201200555600","sameAs":["https://www.instagram.com/avicontravel/","https://www.facebook.com/profile.php?id=61589341120733","https://www.tripadvisor.com/Attraction_Review-g294204-d27707479-Reviews-Avicon_Travel-Aswan_Aswan_Governorate_Nile_River_Valley.html"]},{"@type":"WebSite","@id":"https://avicontravel.com/#website","url":"https://avicontravel.com/","name":"Avicon Travel","publisher":{"@id":"https://avicontravel.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://avicontravel.com/packages/experience-egypt-in-9-days/#webpage","url":"https://avicontravel.com/packages/experience-egypt-in-9-days/","name":"Experience Egypt in 9 Days: Cairo to Luxor | From $1,780","description":"9 days through Cairo, Alexandria, Aswan, Abu Simbel and Luxor, with the Giza Pyramids, a Nile dinner cruise and Luxor's West Bank. From $1,780 per person.","isPartOf":{"@id":"https://avicontravel.com/#website"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/Experience-Egypt-in-9-Days.png"},"breadcrumb":{"@id":"https://avicontravel.com/packages/experience-egypt-in-9-days/#breadcrumb"},"mainEntity":{"@id":"https://avicontravel.com/packages/experience-egypt-in-9-days/#trip"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://avicontravel.com/packages/experience-egypt-in-9-days/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://avicontravel.com/"},{"@type":"ListItem","position":2,"name":"Egypt Packages","item":"https://avicontravel.com/packages/"},{"@type":"ListItem","position":3,"name":"Experience Egypt in 9 Days","item":"https://avicontravel.com/packages/experience-egypt-in-9-days/"}]},{"@type":"TouristTrip","@id":"https://avicontravel.com/packages/experience-egypt-in-9-days/#trip","name":"Experience Egypt in 9 Days","description":"9 days through Cairo, Alexandria, Aswan, Abu Simbel and Luxor, with the Giza Pyramids, a Nile dinner cruise and Luxor's West Bank. From $1,780 per person.","url":"https://avicontravel.com/packages/experience-egypt-in-9-days/","image":"https://avicontravel.com/assets/uploads/2026/05/Experience-Egypt-in-9-Days.png","provider":{"@id":"https://avicontravel.com/#organization"},"itinerary":{"@type":"ItemList","numberOfItems":9,"itemListElement":[{"@type":"ListItem","position":1,"name":"Day 1 Arrival in Cairo & Dinner Cruise"},{"@type":"ListItem","position":2,"name":"Day 2 Giza Pyramids Tour"},{"@type":"ListItem","position":3,"name":"Day 3 Alexandria Day Tour"},{"@type":"ListItem","position":4,"name":"Day 4 Flight to Aswan"},{"@type":"ListItem","position":5,"name":"Day 5 Abu Simbel Temples"},{"@type":"ListItem","position":6,"name":"Day 6 Transfer to Luxor"},{"@type":"ListItem","position":7,"name":"Day 7 Luxor West Bank Tour"},{"@type":"ListItem","position":8,"name":"Day 8 Old Cairo Sightseeing"},{"@type":"ListItem","position":9,"name":"Day 9 Final Departure"}]},"offers":{"@type":"Offer","price":"1780","priceCurrency":"USD","availability":"https://schema.org/InStock","url":"https://avicontravel.com/packages/experience-egypt-in-9-days/","description":"Starting price per person","seller":{"@id":"https://avicontravel.com/#organization"}}},{"@type":"FAQPage","@id":"https://avicontravel.com/packages/experience-egypt-in-9-days/#faq","isPartOf":{"@id":"https://avicontravel.com/packages/experience-egypt-in-9-days/#webpage"},"mainEntity":[{"@type":"Question","name":"Which cities does the 9-day tour cover?","acceptedAnswer":{"@type":"Answer","text":"Cairo, Alexandria, Aswan, Abu Simbel and Luxor, with domestic flights between Cairo, Aswan and Luxor and nights in 5-star hotels."}},{"@type":"Question","name":"Is Alexandria a day trip?","acceptedAnswer":{"@type":"Answer","text":"Yes. On day 3 you travel from Cairo to Alexandria for the Catacombs of Kom El Shoqafa, Pompey's Pillar, Qaitbay Citadel and the Bibliotheca Alexandrina, and return to Cairo in the evening."}},{"@type":"Question","name":"What is included in the price?","acceptedAnswer":{"@type":"Answer","text":"Meet-and-assist at Cairo Airport, domestic flights, 5-star hotels, private air-conditioned transport, an Egyptologist guide, entrance fees to the listed sites and the meals in the itinerary. International airfare, the visa and tips are extra."}},{"@type":"Question","name":"Does the tour include a Nile cruise?","acceptedAnswer":{"@type":"Answer","text":"Not a multi-day cruise — you stay in hotels in Aswan and Luxor — but day 1 ends with a Nile dinner cruise in Cairo with a belly dance and Tanoura show."}},{"@type":"Question","name":"What will we see on the last day in Cairo?","acceptedAnswer":{"@type":"Answer","text":"The Egyptian Museum, the Hanging Church, Ben Ezra Synagogue, Amr Ibn Al Aas Mosque, the National Museum of Egyptian Civilization, El Muizz Street and Khan El Khalili Bazaar."}}]}]}</script>
 </head>
 <body data-rsssl=1 data-cmplz=1 class="wp-singular page-template page-template-elementor_header_footer page page-id-10613 wp-custom-logo wp-theme-gofly-main tt-magic-cursor  theme-gofly-main woocommerce-no-js elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-10613">
 <?php include $_SERVER['DOCUMENT_ROOT'].'/includes/header.php'; ?>
@@ -1066,7 +1066,7 @@ textarea.form-input{resize:vertical;min-height:60px}
         <div class="tabs">
           <div class="tab active" data-tab="overview"><i class="fas fa-info-circle"></i> Overview</div>
           <div class="tab" data-tab="itinerary"><i class="fas fa-route"></i> Itinerary</div>
-          <div class="tab" data-tab="inclusions"><i class="fas fa-check-double"></i> Inclusions</div>
+          <div class="tab" data-tab="inclusions"><i class="fas fa-check-double"></i> Inclusions</div><div class="tab" data-tab="faq"><i class="fas fa-circle-question"></i> FAQ</div>
         </div>
 
         <div class="tab-panel active" id="overview">
@@ -1386,6 +1386,17 @@ textarea.form-input{resize:vertical;min-height:60px}
             </div>
           </div>
         </div>
+        <div class="tab-panel" id="faq">
+          <h2 class="section-title">Frequently Asked Questions</h2>
+          <p class="section-sub">Quick answers about this trip. For anything else, message us on WhatsApp — we reply fast.</p>
+          <div class="timeline">
+            <div class="day-item open"><div class="day-header" style="cursor:pointer"><div class="day-title" style="font-size:14px">Which cities does the 9-day tour cover?</div><i class="fas fa-chevron-down day-toggle"></i></div><div class="day-content"><p>Cairo, Alexandria, Aswan, Abu Simbel and Luxor, with domestic flights between Cairo, Aswan and Luxor and nights in 5-star hotels.</p></div></div>
+            <div class="day-item"><div class="day-header" style="cursor:pointer"><div class="day-title" style="font-size:14px">Is Alexandria a day trip?</div><i class="fas fa-chevron-down day-toggle"></i></div><div class="day-content"><p>Yes. On day 3 you travel from Cairo to Alexandria for the Catacombs of Kom El Shoqafa, Pompey's Pillar, Qaitbay Citadel and the Bibliotheca Alexandrina, and return to Cairo in the evening.</p></div></div>
+            <div class="day-item"><div class="day-header" style="cursor:pointer"><div class="day-title" style="font-size:14px">What is included in the price?</div><i class="fas fa-chevron-down day-toggle"></i></div><div class="day-content"><p>Meet-and-assist at Cairo Airport, domestic flights, 5-star hotels, private air-conditioned transport, an Egyptologist guide, entrance fees to the listed sites and the meals in the itinerary. International airfare, the visa and tips are extra.</p></div></div>
+            <div class="day-item"><div class="day-header" style="cursor:pointer"><div class="day-title" style="font-size:14px">Does the tour include a Nile cruise?</div><i class="fas fa-chevron-down day-toggle"></i></div><div class="day-content"><p>Not a multi-day cruise — you stay in hotels in Aswan and Luxor — but day 1 ends with a Nile dinner cruise in Cairo with a belly dance and Tanoura show.</p></div></div>
+            <div class="day-item"><div class="day-header" style="cursor:pointer"><div class="day-title" style="font-size:14px">What will we see on the last day in Cairo?</div><i class="fas fa-chevron-down day-toggle"></i></div><div class="day-content"><p>The Egyptian Museum, the Hanging Church, Ben Ezra Synagogue, Amr Ibn Al Aas Mosque, the National Museum of Egyptian Civilization, El Muizz Street and Khan El Khalili Bazaar.</p></div></div>
+          </div>
+        </div>
 
       </div>
 
@@ -1393,7 +1404,7 @@ textarea.form-input{resize:vertical;min-height:60px}
         <div class="price-card">
           <div class="price-header">
             <div class="price-label">Starting From</div>
-            <div class="price-amount"><small>$</small>1,670<small>/person</small></div>
+            <div class="price-amount"><small>$</small>1,780<small>/person</small></div>
             <div class="price-per">Starting price per person</div>
           </div>
 
@@ -1456,9 +1467,9 @@ textarea.form-input{resize:vertical;min-height:60px}
               </div>
 
               <div class="summary">
-                <div class="summary-row total"><span>Starting Price</span><span>From $1,670 / person</span></div>
+                <div class="summary-row total"><span>Starting Price</span><span>From $1,780 / person</span></div>
               </div>
-              <input type="hidden" name="estimated_total" id="totalInput" value="Starting From $1,670 Per Person">
+              <input type="hidden" name="estimated_total" id="totalInput" value="Starting From $1,780 Per Person">
 
               <button type="submit" class="btn-book" id="submitBtn">
                 <i class="fas fa-paper-plane"></i> <span>Send Booking Request</span>
@@ -1536,7 +1547,7 @@ textarea.form-input{resize:vertical;min-height:60px}
         <div class="related-body">
           <div class="related-title">8 Days Cairo, Abu Simbel, Luxor &amp; Hurghada</div>
           <div class="related-meta">
-            <div class="related-price">$1,670<small>/person</small></div>
+            <div class="related-price">$1,740<small>/person</small></div>
             <a href="/packages/8-days-cairo-abu-simbel-luxor-hurghada/" class="related-link">View Details <i class="fas fa-arrow-right"></i></a>
           </div>
         </div>
@@ -1585,7 +1596,7 @@ textarea.form-input{resize:vertical;min-height:60px}
     // COUNTERS - WordPress-safe
     // ============================================================
     // ✅ سعر ثابت بدون فئة فندق
-    var BASE_PRICE = 1670;
+    var BASE_PRICE = 1780;
 
     function getNum(id, fallback){
       var el = document.getElementById(id);
@@ -1633,7 +1644,7 @@ textarea.form-input{resize:vertical;min-height:60px}
       if (sap) sap.textContent = adultTotal.toLocaleString();
       if (scp) scp.textContent = childTotal.toLocaleString();
       if (st) st.textContent = total.toLocaleString();
-      if (ti) ti.value = 'Starting From $1,670 Per Person';
+      if (ti) ti.value = 'Starting From $1,780 Per Person';
     }
 
     var counterBtns = document.querySelectorAll('.counter-btn');
