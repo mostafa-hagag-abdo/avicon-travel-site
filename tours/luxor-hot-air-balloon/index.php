@@ -318,6 +318,32 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
               </div>
             </div>
           </div>
+          <div class="av-longform">
+            <h3 class="section-title" style="font-size:17px;margin-top:32px">Why Fly Over Luxor at Sunrise</h3>
+            <p class="section-sub">Luxor is one of the few places in the world where a balloon flight passes over 3,000-year-old temples and royal tombs. Flights leave the West Bank at dawn, when the air is cool and calm, so you rise into the sky just as the sun comes up over the Nile and the desert hills turn from gray to gold.</p>
+            <p class="section-sub">From above, the layout of ancient Thebes finally makes sense: the green strip of farmland along the river, where people lived and worked, and the dry cliffs beyond it, where the pharaohs chose to be buried. No ground tour gives you this view, and many travelers remember it as the highlight of their trip to Egypt.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">What You Can See From the Basket</h3>
+            <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 18px;">
+              <li><strong>Valley of the Kings:</strong> the desert valley where New Kingdom pharaohs, Tutankhamun among them, were buried in rock-cut tombs.</li>
+              <li><strong>Temple of Hatshepsut:</strong> the terraced temple of Egypt's best-known female pharaoh, set against the cliffs of Deir el-Bahari.</li>
+              <li><strong>Colossi of Memnon:</strong> two giant seated statues of Amenhotep III that have stood on the West Bank for about 3,400 years.</li>
+              <li><strong>The Nile and the West Bank villages:</strong> sugar-cane fields, palm groves and mud-brick houses, with the city of Luxor across the river.</li>
+            </ul>
+            <p class="section-sub">The exact flight path depends on the wind that morning, so the pilot cannot promise to pass over a particular monument — but the whole West Bank is spread out below you.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Shared Basket or VIP Private Basket</h3>
+            <p class="section-sub">The standard option is a shared balloon. Shared baskets are large and divided into compartments, so every passenger stands at the edge with a clear view. For a honeymoon, an anniversary or a proposal, the VIP private basket keeps the balloon for your group alone; its price depends on the date and the number of people, so send us a request and we will quote it. Both options include hotel pickup, the Nile crossing, the safety briefing and your flight certificate.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Weather, Safety and What to Wear</h3>
+            <p class="section-sub">Balloon flights in Luxor are licensed and supervised by the Egyptian Civil Aviation Authority, and every flight is flown by a certified pilot. Each morning the wind is checked before take-off is allowed. If flights are cancelled because of the weather, which happens on some mornings, we help you rebook another day during your stay or arrange a refund under our <a href="/refund_returns-2/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">refund policy</a>.</p>
+            <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 18px;">
+              <li>Dress in layers: desert mornings can be cold before sunrise, especially from November to February, and warm up quickly afterwards.</li>
+              <li>Wear flat, closed shoes to climb in and out of the basket safely.</li>
+              <li>Keep your phone or camera on a strap — you will want photos from take-off to landing. Our <a href="/blog/egypt-photography-tips-travel-camera-gear/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Egypt photography tips</a> help you get them right.</li>
+              <li>Tell us in advance about pregnancy, young children, or back or heart conditions, so we can check with the operator before you book.</li>
+              <li>At landing, follow the pilot's instructions and take the landing position you practiced in the briefing.</li>
+            </ul>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Make the Most of Your Morning in Luxor</h3>
+            <p class="section-sub">The flight is over by breakfast time, so it combines easily with sightseeing the same day — many guests go straight on to the West Bank monuments they have just seen from the air. On a Nile cruise, the balloon is an optional extra on the Luxor day of our <a href="/nile-cruises/4-days-nile-cruise-aswan-to-luxor/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">4-day cruise from Aswan to Luxor</a>. Staying on the Red Sea? A dawn flight needs a night in Luxor, so ask us to add an overnight stay to the <a href="/tours/luxor-day-trip-from-hurghada/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Luxor day trip from Hurghada</a>. Our <a href="/blog/luxor-egypt-travel-guide-temples-balloon/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Luxor travel guide</a> has more ideas for your visit.</p>
+          </div>
         </div>
 
         <div class="tab-panel" id="itinerary">
@@ -383,7 +409,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                 <i class="fas fa-chevron-down day-toggle"></i>
               </div>
               <div class="day-content">
-                <p>After a smooth landing, receive your flight certificate and capture memorable photos with the balloon crew. Package Features List Include Features Hotel Pickup &amp; Drop Off &lt;path fill="#1781FE" d="M15 8C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C</p>
+                <p>Cross back over the Nile by motorboat and transfer to your hotel or Nile cruise in Luxor, usually in time for breakfast.</p>
               </div>
             </div>
 

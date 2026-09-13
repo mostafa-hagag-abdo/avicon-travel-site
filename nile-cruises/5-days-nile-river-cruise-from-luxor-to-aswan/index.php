@@ -1092,11 +1092,38 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
               </div>
             </div>
           </div>
+          <div class="av-longform">
+            <h3 class="section-title" style="font-size:17px;margin-top:32px">The Classic Nile Cruise, at an Easy Pace</h3>
+            <p class="section-sub">Sailing from Luxor to Aswan means sailing upstream, against the current, so this route takes four nights instead of three. The extra time is spent on the water: long, quiet hours on the sun deck watching the Nile Valley go by, between guided visits to the greatest temples of Upper Egypt. It is the best choice if you want the cruise itself to be part of the holiday, not just a way of getting between sites.</p>
+            <p class="section-sub">Departures run on Saturdays and Mondays, and the package covers four nights on a 5-star cruise ship with full board, excursions with an Egyptologist guide, and entrance fees to all the sights between Luxor and Aswan.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Luxor: Two Days in Ancient Thebes</h3>
+            <p class="section-sub">The cruise starts where ancient Egypt's greatest temples stand. On day one you visit Karnak, a complex built and expanded over some 2,000 years, then return in the evening to see Luxor Temple lit up at night. The two temples were once linked by the Avenue of Sphinxes, a processional road nearly three kilometers long that has been restored and reopened. On day two you cross to the West Bank for the royal tombs of the Valley of the Kings, the terraced Temple of Hatshepsut and the Colossi of Memnon.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Edfu, Kom Ombo and Aswan</h3>
+            <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 18px;">
+              <li><strong>The Esna lock:</strong> on the way south the ship passes through the lock at Esna — a fun moment to watch from the deck.</li>
+              <li><strong>Edfu:</strong> the Temple of Horus, the best-preserved temple in Egypt, with its roof and massive gateway still standing.</li>
+              <li><strong>Kom Ombo:</strong> a double temple shared by the crocodile god Sobek and Horus the Elder, set right on the riverbank.</li>
+              <li><strong>Aswan:</strong> the High Dam and Lake Nasser, the Unfinished Obelisk in its granite quarry, and Philae Temple, the island sanctuary of Isis, reached by motorboat.</li>
+              <li><strong>A felucca in Aswan:</strong> on your last evening, an optional sunset sail on a traditional felucca around Elephantine Island is a lovely way to end the trip.</li>
+            </ul>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">How Pricing Works</h3>
+            <p class="section-sub">Cruise prices depend on the season and on how many people travel together. The lowest price is for groups of 9 to 16 travelers between May and September; couples and small groups of 2 to 4 pay more per person, and solo travelers pay the single price. Autumn, winter and the Christmas–New Year period are the busiest seasons and cost more. Every season and group size is listed in the price table above, or send us your dates for an exact quote. The price covers the cruise, meals on board, excursions and entrance fees, so the main extras to budget for are drinks, tips and any optional activities.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">What to Pack</h3>
+            <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 18px;">
+              <li>Light, breathable clothes for the day, and a warm layer for evenings on deck from November to February.</li>
+              <li>A hat, sunglasses and sunscreen for the open temple sites.</li>
+              <li>Comfortable walking shoes, plus swimwear for the sun deck.</li>
+              <li>Some small notes in Egyptian pounds for tips, which are not included.</li>
+            </ul>
+            <p class="section-sub">For the full list, see our <a href="/blog/egypt-packing-list-essential-items/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Egypt packing list</a>.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Extend Your Trip</h3>
+            <p class="section-sub">The cruise ends in Aswan, which makes it easy to add Abu Simbel afterwards on our <a href="/tours/abu-simbel-temples-private-tour/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">private day tour</a>. If you want Abu Simbel included in the cruise, choose the <a href="/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">4-night cruise from Luxor including Abu Simbel</a>. Short on time? The <a href="/nile-cruises/4-days-nile-cruise-aswan-to-luxor/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">4-day cruise from Aswan to Luxor</a> covers the same temples in three nights. In Luxor, book a sunrise <a href="/tours/luxor-hot-air-balloon/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">hot air balloon flight</a> before you board, and in Aswan, spend an evening in a <a href="/blog/nubian-village-tour-aswan-nightlife-music-hospitality/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Nubian village</a>.</p>
+          </div>
         </div>
 
         <div class="tab-panel" id="itinerary">
           <h2 class="section-title">Cruise Itinerary</h2>
-          <p class="section-sub">A compact 4-day Nile program from Aswan to Luxor with guided temple visits, onboard meals, and cruise accommodation.</p>
+          <p class="section-sub">A 5-day Nile program from Luxor to Aswan with guided temple visits, onboard meals, and cruise accommodation.</p>
 
           <div class="timeline">
             <div class="day-item open">

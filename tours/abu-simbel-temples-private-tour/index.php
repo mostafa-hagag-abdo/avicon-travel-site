@@ -321,6 +321,24 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
               </div>
             </div>
           </div>
+          <div class="av-longform">
+            <h3 class="section-title" style="font-size:17px;margin-top:32px">The Story of Abu Simbel</h3>
+            <p class="section-sub">Ramses II had the two temples of Abu Simbel cut into a sandstone cliff above the Nile in the 13th century BC, near the southern edge of his empire. The Great Temple honors the gods Amun, Ra-Horakhty and Ptah — and Ramses himself — behind four seated statues of the king, each about 20 meters tall. The smaller temple is dedicated to the goddess Hathor and to Nefertari, his favorite queen, and it is one of the few temples in Egypt where a queen's statues stand as tall as the king's.</p>
+            <p class="section-sub">In the 1960s, the building of the Aswan High Dam threatened to drown both temples under Lake Nasser. In one of the greatest rescue projects in the history of archaeology, an international campaign led by UNESCO cut the temples into more than a thousand blocks and rebuilt them on higher ground between 1964 and 1968. Today they are part of the Nubian Monuments UNESCO World Heritage Site.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">The Sun Festival</h3>
+            <p class="section-sub">The Great Temple was aligned so that twice a year, around 22 February and 22 October, the first rays of the rising sun travel deep inside and light up the statues in the inner sanctuary. Only the statue of Ptah, a god often linked with the underworld, stays in shadow. Thousands of visitors come for these mornings, so if you want to see the Sun Festival, contact us early and we will plan a very early departure from Aswan.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Planning Your Day Trip From Aswan</h3>
+            <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 18px;">
+              <li><strong>Timing:</strong> private tours usually leave Aswan at around 4:00 am, so you reach the temples before the midday heat and the biggest crowds. Because the tour is private, the departure time can be adjusted.</li>
+              <li><strong>The drive:</strong> about 280 km each way, or three to three and a half hours through the desert, on a well-maintained road with tourist police checkpoints.</li>
+              <li><strong>Private car or minivan:</strong> a private car suits couples and small families, while the private minivan gives larger groups more space at a lower price per person.</li>
+              <li><strong>Food:</strong> lunch is not included, but you can add a lunch box when booking. Bring snacks and water for the road.</li>
+              <li><strong>At the temples:</strong> guides explain the history outside, then you explore the interiors at your own pace. Allow about two hours on site.</li>
+              <li><strong>What to bring:</strong> a hat, sunscreen, sunglasses and comfortable shoes — the site is open and sunny, with a short walk from the entrance along the shore of Lake Nasser.</li>
+            </ul>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Combine Abu Simbel With Your Nile Trip</h3>
+            <p class="section-sub">Abu Simbel is usually visited from Aswan, either as a day trip before or after a Nile cruise or as part of a longer holiday. Our <a href="/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">3-night cruise from Aswan</a> and <a href="/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">4-night cruise from Luxor</a> both include the visit, and the <a href="/packages/8-days-cairo-abu-simbel-luxor-hurghada/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">8-day Cairo, Abu Simbel, Luxor and Hurghada package</a> builds it into a full holiday. For more time in the south, read our <a href="/blog/aswan-egypt-guide-temples-nubian-villages-sunsets/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Aswan guide</a> and our tips for <a href="/blog/nubian-village-tour-aswan-nightlife-music-hospitality/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">visiting a Nubian village</a>.</p>
+          </div>
         </div>
 
         <div class="tab-panel" id="itinerary">
@@ -408,7 +426,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                 <div class="ticket-stub">
                   <div class="stub-icon"><i class="fas fa-check"></i></div>
                   <div class="stub-label">Included</div>
-                  <div class="stub-count">6 ITEMS</div>
+                  <div class="stub-count">5 ITEMS</div>
                 </div>
                 <div class="ticket-perf"><div class="dots"></div></div>
                 <div class="ticket-body">
@@ -424,7 +442,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Hotel Pickup &amp; Drop Off</div></div>
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Professional Egyptologist Guide</div></div>
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">All Service Charges &amp; Taxes</div></div>
-                    <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Air-Conditioned Private Vehicle</div></div>
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Air-Conditioned Private Vehicle</div></div>
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Entrance Fees</div></div>
                   </div>

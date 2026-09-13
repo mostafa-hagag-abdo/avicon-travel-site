@@ -310,6 +310,33 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
               </div>
             </div>
           </div>
+          <div class="av-longform">
+            <h3 class="section-title" style="font-size:17px;margin-top:32px">Why Sail From Aswan to Luxor</h3>
+            <p class="section-sub">The Nile flows north, so a cruise from Aswan to Luxor sails with the current. That makes this the shorter version of the classic route: three nights instead of four, visiting the same key temples as the longer cruise from Luxor. It suits travelers who want the full Nile experience without giving it a whole week, and it is easy to combine with a few days in Cairo or on the Red Sea.</p>
+            <p class="section-sub">Life on board is part of the appeal. Between visits you can relax on the sun deck, watch fishermen, villages and palm groves drift past, and enjoy all your meals on board on a full-board basis. The galabeya party on the second evening, when guests dress up in traditional Egyptian robes, is a fun highlight.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">The Temples Along the Way</h3>
+            <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 18px;">
+              <li><strong>Philae Temple:</strong> the island temple of the goddess Isis, moved stone by stone to Agilkia Island in a UNESCO rescue project completed in 1980.</li>
+              <li><strong>The Unfinished Obelisk:</strong> still lying in its ancient granite quarry, it would have been the largest obelisk ever raised had it not cracked during carving.</li>
+              <li><strong>The High Dam:</strong> completed in 1970, it created Lake Nasser and changed life along the Nile for good.</li>
+              <li><strong>Kom Ombo:</strong> a rare double temple, with one half for the crocodile god Sobek and the other for Horus the Elder. A small museum next to it displays mummified crocodiles.</li>
+              <li><strong>Edfu:</strong> the Temple of Horus, completed in the Ptolemaic period and the best-preserved temple in Egypt, with its roof, walls and towering gateway still intact.</li>
+              <li><strong>Luxor:</strong> the Valley of the Kings, the Temple of Hatshepsut and the Colossi of Memnon on the West Bank, then the vast temples of Karnak and Luxor on the East Bank.</li>
+            </ul>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Sailing Through the Esna Lock</h3>
+            <p class="section-sub">Between Edfu and Luxor, the ship passes through the lock at Esna, where boats wait their turn to move between two levels of the river. Watching the huge gates open and close from the deck is an unexpected highlight for many passengers, and local traders often row up alongside the ships to sell tablecloths and galabeyas.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Tips for Your Cruise</h3>
+            <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 18px;">
+              <li><strong>Best time to go:</strong> October to April brings pleasant temperatures for sightseeing; summer is hot but quieter, and often better value.</li>
+              <li><strong>Entrance fees:</strong> they are not included in the base price — add them when you book and your guide handles the tickets at every site.</li>
+              <li><strong>Abu Simbel:</strong> add a day trip from Aswan before you embark, or choose our <a href="/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">3-night cruise from Aswan including Abu Simbel</a>.</li>
+              <li><strong>Sunrise balloon:</strong> book the optional <a href="/tours/luxor-hot-air-balloon/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Luxor hot air balloon</a> for the morning of day 3.</li>
+              <li><strong>Staying connected:</strong> Wi-Fi on board is often limited, so a local SIM card is useful — see our <a href="/blog/egypt-sim-card-tourist-guide-nile-cruise/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Egypt SIM card guide</a>.</li>
+              <li><strong>Packing:</strong> bring light layers — winter evenings on deck can be cool, while days at the temples are warm and sunny.</li>
+            </ul>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Prefer a Longer or Slower Cruise?</h3>
+            <p class="section-sub">If you have an extra day, the <a href="/nile-cruises/5-days-nile-river-cruise-from-luxor-to-aswan/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">5-day cruise from Luxor to Aswan</a> sails the same route upstream with more time on board. For a smaller, more intimate boat, look at our <a href="/nile-cruises/4-days-dahabiya-nile-cruise-from-aswan-to-luxor/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">4-day dahabiya cruise</a>, and read why travelers love <a href="/blog/nile-cruise-egypt-slow-travel-aswan-to-luxor/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">slow travel on the Nile</a>.</p>
+          </div>
         </div>
 
         <div class="tab-panel" id="itinerary">

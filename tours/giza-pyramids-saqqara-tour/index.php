@@ -319,6 +319,30 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
               </div>
             </div>
           </div>
+          <div class="av-longform">
+            <h3 class="section-title" style="font-size:17px;margin-top:32px">Two Chapters of the Pyramid Story in One Day</h3>
+            <p class="section-sub">This tour visits the two sites that best tell the story of the pyramids. At Saqqara you see where it began: the Step Pyramid of King Djoser, designed by his architect Imhotep around 2670 BC as a stack of six stone steps. At Giza you see where it peaked, roughly a century later, with the smooth-sided pyramids of Khufu, Khafre and Menkaure. Visiting both on the same day, with an Egyptologist explaining what changed in between, turns a list of famous monuments into one story.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">What You Will See at Giza</h3>
+            <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 18px;">
+              <li><strong>The Great Pyramid of Khufu:</strong> built from an estimated 2.3 million stone blocks and originally about 146 meters tall, it remained the tallest human-made structure on Earth for more than 3,800 years.</li>
+              <li><strong>The Pyramid of Khafre:</strong> it looks taller than the Great Pyramid because it stands on higher ground, and it still keeps some of its original smooth casing stones near the top.</li>
+              <li><strong>The Pyramid of Menkaure:</strong> the smallest of the three main pyramids, with the small pyramids of its queens beside it.</li>
+              <li><strong>The Great Sphinx and the Valley Temple:</strong> the lion with a king's head, carved from the bedrock of the plateau, and the granite temple beside it where the funeral rites of King Khafre are thought to have begun.</li>
+              <li><strong>The panoramic viewpoint:</strong> the classic photo spot where all the pyramids line up against the desert.</li>
+            </ul>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Saqqara: Beyond the Crowds</h3>
+            <p class="section-sub">Saqqara lies less than an hour's drive south of Giza and served as the burial ground of Memphis, Egypt's first capital, for about 3,000 years. The Step Pyramid is the oldest pyramid in Egypt, and the complex around it — with its entrance colonnade and ceremonial courtyards — shows how Egypt's architects first learned to build in stone. Saqqara is far quieter than Giza, so you have time to take in the site with your guide and take photographs without the crowds.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Good to Know Before You Go</h3>
+            <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 18px;">
+              <li>Start early if you can: the plateau is cooler and less crowded in the morning.</li>
+              <li>Going inside one of the pyramids needs its own ticket. The passages are steep, narrow and warm, so skip it if you dislike tight spaces.</li>
+              <li>Camel and horse rides at Giza are optional and not included. Your guide can help you choose a reliable ride and agree on the price first.</li>
+              <li>Wear comfortable shoes and bring a hat, sunscreen and sunglasses. Bottled water is provided during the tour.</li>
+              <li>The optional lunch stop is at a local restaurant serving Egyptian dishes — a good chance to try the <a href="/blog/egyptian-food-guide-authentic-flavors/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">local food</a>.</li>
+            </ul>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Continue Exploring Cairo</h3>
+            <p class="section-sub">To go deeper into the pyramid story, the <a href="/tours/saqqara-memphis-dahshur-day-trip-from-cairo/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Saqqara, Memphis and Dahshur day trip</a> adds the Bent and Red Pyramids and the ancient capital, Memphis. For the treasures found inside the tombs, book the <a href="/tours/grand-egyptian-museum-pyramids-tour/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Grand Egyptian Museum and Pyramids tour</a>, and end a day of sightseeing with a <a href="/tours/cairo-dinner-nile-cruise/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Nile dinner cruise</a>. Our <a href="/blog/cairo-travel-guide-pyramids-museums-bazaars/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Cairo travel guide</a> covers the rest of the city.</p>
+          </div>
         </div>
 
         <div class="tab-panel" id="itinerary">
@@ -384,7 +408,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                 <i class="fas fa-chevron-down day-toggle"></i>
               </div>
               <div class="day-content">
-                <p>After completing your unforgettable ancient Egypt experience, transfer back comfortably to your hotel in Cairo or Giza. Transport: Hotel Drop Off, Private Transfer, Comfortable Return Package Features List Include Features Hotel Pickup &amp; Drop Off</p>
+                <p>After completing your unforgettable ancient Egypt experience, transfer back comfortably to your hotel in Cairo or Giza. Transport: Hotel Drop Off, Private Transfer, Comfortable Return</p>
               </div>
             </div>
 

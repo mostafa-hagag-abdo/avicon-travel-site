@@ -262,7 +262,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
           <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 24px;">
             <li>Begin your Cairo adventure by exploring the legendary Giza Pyramids Complex , recognized as one of the most iconic archaeological sites in the world.</li>
             <li>Get up close to the magnificent Great Sphinx and uncover the ancient mysteries of the Valley Temple</li>
-            <li>Travel to the necropolis of Saqqara to discover the famous Step Pyramid of King Djoser , celebrated as the oldest stone pyramid in history</li>
+            <li>Explore the <strong>Grand Egyptian Museum</strong>, home to the complete treasures of Tutankhamun and thousands of artifacts from every era of ancient Egypt</li>
             <li>Enjoy a seamless and enriching journey accompanied by a professional Egyptologist tour guide who brings ancient history to life while ensuring your complete comfort and safety.</li>
           </ul>
           <h3 class="section-title" style="font-size:17px;margin-top:20px">Tour Route</h3>
@@ -318,6 +318,30 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                 </div>
               </div>
             </div>
+          </div>
+          <div class="av-longform">
+            <h3 class="section-title" style="font-size:17px;margin-top:32px">Why See the Grand Egyptian Museum and the Pyramids Together</h3>
+            <p class="section-sub">The Grand Egyptian Museum (GEM) stands on the edge of the Giza plateau, about two kilometers from the pyramids, so both visits fit into one day with very little time lost in Cairo traffic. Starting at the museum gives the pyramids their context: by the time you reach the plateau you have already seen the statues, tools and burial treasures of the people who built them, and your Egyptologist guide can link what you saw indoors to the monuments outside.</p>
+            <p class="section-sub">The museum opened fully to visitors in November 2025 and is the largest museum in the world devoted to a single civilization. It is huge, so a guide who knows the layout makes a real difference: instead of wandering, you follow a route through the galleries that interest you most and still have energy left for the afternoon.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Highlights Inside the GEM</h3>
+            <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 18px;">
+              <li><strong>The Grand Hall:</strong> the colossal red-granite statue of Ramses II, which stood in Cairo's Ramses Square for half a century, now welcomes visitors at the entrance.</li>
+              <li><strong>The Grand Staircase:</strong> a monumental staircase lined with statues of kings and gods, rising to a window with a view of the pyramids.</li>
+              <li><strong>The Tutankhamun galleries:</strong> the complete contents of the boy king's tomb, found by Howard Carter in 1922, displayed together for the first time — more than 5,000 objects.</li>
+              <li><strong>The Khufu boat:</strong> a 4,500-year-old cedar boat discovered beside the Great Pyramid, now shown in its own hall.</li>
+              <li><strong>The main galleries:</strong> thousands of objects arranged by theme and era, from prehistoric Egypt to the Greek and Roman period.</li>
+            </ul>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">The Giza Pyramids and the Great Sphinx</h3>
+            <p class="section-sub">After an optional lunch break, the tour continues to the Giza plateau. The Great Pyramid of Khufu, built around 2560 BC, is the only one of the Seven Wonders of the Ancient World still standing. Beside it rise the pyramids of his son Khafre — which looks taller only because it stands on higher ground — and of Menkaure, the smallest of the three. Your guide explains how they were built and what they meant to the kings buried inside. The day ends at the Great Sphinx, carved from the bedrock of the plateau, with time for photographs from the best viewpoints.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Tips for Your Day</h3>
+            <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 18px;">
+              <li>Wear comfortable shoes: expect around two hours of walking inside the museum and about the same on the plateau.</li>
+              <li>Bring sunglasses, a hat and sunscreen. There is little shade around the pyramids, even in winter.</li>
+              <li>Camel and horse rides at the pyramids are optional and not included. If you would like one, ask your guide to help you agree on the price before you ride.</li>
+              <li>Pickup and drop-off are included from any hotel in Cairo or Giza, and the tour is private, so the pace follows your group.</li>
+            </ul>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Make More of Your Time in Cairo</h3>
+            <p class="section-sub">With one more day, add the <a href="/tours/saqqara-memphis-dahshur-day-trip-from-cairo/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Saqqara, Memphis and Dahshur day trip</a> to see where pyramid building began, or spend an evening on a <a href="/tours/cairo-dinner-nile-cruise/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Nile dinner cruise</a>. If you have already visited the GEM, the <a href="/tours/giza-pyramids-saqqara-tour/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Giza Pyramids and Saqqara tour</a> pairs the plateau with the Step Pyramid instead. For the rest of the city — the Citadel, Khan El Khalili and Islamic Cairo — read our <a href="/blog/cairo-travel-guide-pyramids-museums-bazaars/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Cairo travel guide</a>.</p>
           </div>
         </div>
 
@@ -406,7 +430,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                 <div class="ticket-stub">
                   <div class="stub-icon"><i class="fas fa-check"></i></div>
                   <div class="stub-label">Included</div>
-                  <div class="stub-count">6 ITEMS</div>
+                  <div class="stub-count">5 ITEMS</div>
                 </div>
                 <div class="ticket-perf"><div class="dots"></div></div>
                 <div class="ticket-body">
@@ -424,7 +448,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">All Service Charges &amp; Taxes</div></div>
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Air-Conditioned Private Vehicle</div></div>
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Bottled Water</div></div>
-                    <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Entrance Fees</div></div>
                   </div>
 
                   <div class="ticket-footer">
@@ -441,7 +464,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                 <div class="ticket-stub">
                   <div class="stub-icon"><i class="fas fa-xmark"></i></div>
                   <div class="stub-label">Excluded</div>
-                  <div class="stub-count">4 ITEMS</div>
+                  <div class="stub-count">5 ITEMS</div>
                 </div>
                 <div class="ticket-perf"><div class="dots"></div></div>
                 <div class="ticket-body">
@@ -455,6 +478,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
                   <div class="ticket-items">
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-xmark"></i></div><div class="ticket-item-text">Personal Expenses</div></div>
+                    <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-xmark"></i></div><div class="ticket-item-text">Entrance Tickets (Optional, Added When Booking)</div></div>
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-xmark"></i></div><div class="ticket-item-text">Optional Excursions &amp; Activities</div></div>
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-xmark"></i></div><div class="ticket-item-text">Camel Ride (Optional)</div></div>
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-xmark"></i></div><div class="ticket-item-text">Tipping</div></div>

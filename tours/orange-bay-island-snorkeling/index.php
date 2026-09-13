@@ -324,6 +324,38 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
               </div>
             </div>
           </div>
+          <div class="av-longform">
+            <h3 class="section-title" style="font-size:17px;margin-top:32px">Why Orange Bay Is Hurghada's Favorite Island Trip</h3>
+            <p class="section-sub">Orange Bay sits on Giftun Island, a short boat ride from Hurghada Marina, inside the protected Giftun Islands area of the Red Sea. It is known for its soft white sand, shallow turquoise lagoon and clear water, which is why it appears in so many photos of Hurghada. Because the sea around the island is calm and shallow, it is one of the easiest places on the coast to try snorkeling for the first time.</p>
+            <p class="section-sub">The day combines a relaxing cruise, a snorkeling stop over coral reefs and free time on the beach, with lunch and soft drinks served on board. There is no rush and nothing to organize: hotel pickup, the boat, the equipment and your meal are all arranged for you.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">What You Might See Underwater</h3>
+            <p class="section-sub">The Red Sea is one of the world's great snorkeling destinations, home to more than 1,000 species of fish and warm water all year.</p>
+            <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 18px;">
+              <li>Colorful parrotfish, butterflyfish and angelfish around the coral heads</li>
+              <li>Clownfish living among sea anemones</li>
+              <li>Hard and soft corals in shallow water, easy to see from the surface</li>
+              <li>With luck, a sea turtle or a pod of dolphins along the way</li>
+            </ul>
+            <p class="section-sub">Sightings are never guaranteed, but even beginners floating near the boat see plenty of marine life.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Who the Trip Suits</h3>
+            <p class="section-sub">Orange Bay is a good choice for families, couples and groups of friends with mixed experience in the water. No snorkeling experience is needed: the crew provides snorkeling equipment and life jackets, and non-swimmers can stay in the shallows or relax on the beach. Children aged 5 to 11 pay the child price, and infants usually join free of charge.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">How the Day Unfolds</h3>
+            <p class="section-sub">After hotel pickup, a short cruise from Hurghada Marina brings you to the reefs around Giftun Island. The crew chooses the snorkeling spot on the day, depending on the wind and the sea, and gives everyone a quick briefing before you get in the water. Afterwards you head to Orange Bay for a few relaxed hours of swimming and sunbathing, with lunch served on board before the cruise back to the marina in the afternoon.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Tips for a Great Day at Sea</h3>
+            <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 18px;">
+              <li>Bring a swimsuit, a towel, sunglasses, a hat and a change of clothes.</li>
+              <li>Use reef-safe sunscreen and put it on before boarding. The sun is strong on the water even when the breeze feels cool.</li>
+              <li>Never touch or stand on the coral, and do not feed the fish; the reefs are protected and very fragile.</li>
+              <li>If you get seasick, take a tablet before the boat leaves and stay on the open deck.</li>
+              <li>Bring an underwater camera or a waterproof phone case for the reef.</li>
+              <li>Leave valuables at your hotel and bring a small waterproof bag for your phone and cash.</li>
+              <li>Pickup is usually around 8:00 am, and we confirm the exact time the day before.</li>
+            </ul>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Best Time to Go</h3>
+            <p class="section-sub">The trip runs all year. From about May to October the sea is at its warmest, while winter days are milder and sometimes windier, with the water typically in the low 20s °C — still pleasant for most swimmers.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">More to Do on the Red Sea</h3>
+            <p class="section-sub">Staying longer in Hurghada? Take a <a href="/tours/luxor-day-trip-from-hurghada/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Luxor day trip from Hurghada</a> to see Karnak and the Valley of the Kings, or build your beach time into the <a href="/packages/7-days-cairo-hurghada-holiday/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">7-day Cairo and Hurghada holiday</a>. Heading to Sharm El Sheikh instead? The <a href="/tours/ras-mohammed-snorkeling/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Ras Mohammed snorkeling trip</a> visits one of the Red Sea's most famous marine parks. Compare the two resorts in our <a href="/blog/red-sea-egypt-resorts-hurghada-vs-sharm-guide/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Hurghada vs Sharm El Sheikh guide</a>, and check our <a href="/blog/egypt-packing-list-essential-items/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Egypt packing list</a> before you go.</p>
+          </div>
         </div>
 
         <div class="tab-panel" id="itinerary">

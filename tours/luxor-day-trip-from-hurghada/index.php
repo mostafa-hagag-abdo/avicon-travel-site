@@ -314,6 +314,30 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
               </div>
             </div>
           </div>
+          <div class="av-longform">
+            <h3 class="section-title" style="font-size:17px;margin-top:32px">Is a Day Trip From Hurghada to Luxor Worth It?</h3>
+            <p class="section-sub">Yes, if you are based on the Red Sea and have only one day for ancient Egypt. Luxor, the ancient city of Thebes, was the religious capital of Egypt for much of the New Kingdom, and it holds more great monuments than almost anywhere else in the country. It is a long day — about four hours' drive each way — but a private car, an Egyptologist guide and a well-planned route mean you see the major sites of both the East and West Banks and still sleep in your own hotel that night.</p>
+            <p class="section-sub">The trip suits guests staying in Hurghada, Makadi Bay, El Gouna, Soma Bay and Safaga, and the private format lets you set the pace, spend longer at the sites you enjoy most and stop whenever you need to.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">The Highlights of Your Day</h3>
+            <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 18px;">
+              <li><strong>Karnak Temple:</strong> a vast complex built and expanded over some 2,000 years. Its Great Hypostyle Hall holds 134 giant columns, many still covered in carvings and traces of their original paint.</li>
+              <li><strong>Valley of the Kings:</strong> the royal burial ground of the New Kingdom, where more than 60 tombs have been found. Your ticket covers several of the open tombs, with their painted walls and ceilings; Tutankhamun's tomb needs an extra ticket.</li>
+              <li><strong>Temple of Hatshepsut:</strong> the terraced temple of Egypt's most famous female pharaoh, built against the cliffs of Deir el-Bahari.</li>
+              <li><strong>Colossi of Memnon:</strong> a photo stop at the two giant statues of Amenhotep III on the West Bank.</li>
+              <li><strong>Lunch in Luxor:</strong> a meal at a local restaurant is included before you cross to the West Bank.</li>
+            </ul>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">How the Day Works</h3>
+            <p class="section-sub">Pickup is early in the morning, usually before sunrise, so that you reach Luxor while the temples are still cool. The road from the coast crosses the Eastern Desert via Safaga and Qena, with rest stops along the way and regular police checkpoints. You visit the East Bank first, have lunch, then cross the Nile to the West Bank before starting the drive home in the late afternoon. Expect to be back at your hotel in the evening, 14 to 16 hours after you left.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Tips for a Long Day Out</h3>
+            <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 18px;">
+              <li>Go to bed early the night before and use the drive to rest; the car is air-conditioned and bottled water is provided.</li>
+              <li>Bring a hat, sunglasses and sunscreen. Luxor is much hotter and drier than the coast, especially from May to September.</li>
+              <li>Wear comfortable shoes: there is plenty of walking at Karnak and in the Valley of the Kings.</li>
+              <li>Carry some Egyptian pounds for tips, drinks and optional extras such as the Tutankhamun tomb ticket.</li>
+            </ul>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Want More Time in Luxor?</h3>
+            <p class="section-sub">If one day feels too rushed, ask us to add a night in Luxor. You could then take the sunrise <a href="/tours/luxor-hot-air-balloon/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Luxor hot air balloon</a> flight the next morning and see more of the West Bank. For the full picture of ancient Egypt, a <a href="/nile-cruises/4-days-nile-cruise-aswan-to-luxor/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">4-day Nile cruise from Aswan to Luxor</a> covers the temples of the Nile Valley at a slower pace. Planning the rest of your Red Sea stay? Try the <a href="/tours/orange-bay-island-snorkeling/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Orange Bay snorkeling trip</a> and read our <a href="/blog/red-sea-egypt-resorts-hurghada-vs-sharm-guide/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Hurghada vs Sharm El Sheikh guide</a>.</p>
+          </div>
         </div>
 
         <div class="tab-panel" id="itinerary">

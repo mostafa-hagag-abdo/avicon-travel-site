@@ -341,6 +341,25 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
             </div>
           </div>
 
+          <div class="av-longform">
+            <h3 class="section-title" style="font-size:17px;margin-top:32px">The Best of Both Worlds in One Week</h3>
+            <p class="section-sub">This holiday is built for travelers who want to see ancient Egypt and still have time to relax. The first three days are spent in Cairo, with the pyramids, the Grand Egyptian Museum and the historic heart of the city. Then a short domestic flight takes you to Hurghada for three nights on the Red Sea, with a snorkeling trip, a desert quad-bike safari and time on the beach. Flying instead of driving saves you a road trip of five to six hours each way.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Your Days in Cairo</h3>
+            <p class="section-sub">Your first evening starts on the water with a Nile dinner cruise, complete with a belly dance performance and a Tanoura show. Day two is the big sightseeing day: the Giza Pyramids, the Great Sphinx and the Valley Temple, the Step Pyramid at Saqqara, and the Grand Egyptian Museum, with lunch included. On day three you explore the city's history: the treasures of the Egyptian Museum in Tahrir Square, the Citadel of Salah El Din with the Mosque of Muhammad Ali on its hilltop, and the lanes of Khan El Khalili, a bazaar that has been trading since the 14th century.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Your Days in Hurghada</h3>
+            <p class="section-sub">In Hurghada you stay at a 5-star resort by the sea. After you arrive on day four, the rest of the day is free to settle in and enjoy the beach. Day five is a snorkeling trip over the coral reefs of the Red Sea, with lunch included. Day six takes you into the desert behind the coast on a quad-bike safari, with a Bedouin-style atmosphere and dinner included. On day seven you fly back to Cairo for your international departure.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">When to Go and What It Costs</h3>
+            <p class="section-sub">The package runs all year. The lowest prices are from May to September, when Cairo is hot but the Red Sea is at its warmest. October to April is the most comfortable time for sightseeing in Cairo, while the Christmas and New Year period is the busiest and most expensive. The price per person also depends on group size, from groups of 9 to 16 down to solo travelers; every combination is in the price table above.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">What Is Included and What to Plan</h3>
+            <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 18px;">
+              <li><strong>Included:</strong> six nights in 5-star hotels, domestic flights, private air-conditioned transport, an Egyptologist guide, entrance fees to all listed sights, the snorkeling trip and the quad-bike safari.</li>
+              <li><strong>Not included:</strong> international flights, your Egypt entry visa, tips and personal expenses.</li>
+              <li><strong>Visa:</strong> many nationalities can get a visa on arrival or apply online through Egypt's official e-visa portal. Check the rules for your passport before you travel.</li>
+              <li><strong>Changes:</strong> ask us if you would like to swap an activity — for example the quad-bike safari for a <a href="/tours/luxor-day-trip-from-hurghada/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Luxor day trip from Hurghada</a> or an <a href="/tours/orange-bay-island-snorkeling/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Orange Bay island trip</a>.</li>
+            </ul>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Compare With Other Packages</h3>
+            <p class="section-sub">Prefer one night less in Hurghada? The <a href="/packages/6-days-cairo-hurghada-package/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">6-day Cairo and Hurghada package</a> keeps the same Cairo program. To add the temples of Upper Egypt, the <a href="/packages/8-days-cairo-abu-simbel-luxor-hurghada/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">8-day Cairo, Abu Simbel, Luxor and Hurghada package</a> includes Abu Simbel and Luxor. Our <a href="/blog/cairo-travel-guide-pyramids-museums-bazaars/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Cairo travel guide</a> and <a href="/blog/red-sea-egypt-resorts-hurghada-vs-sharm-guide/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Hurghada vs Sharm El Sheikh guide</a> help you plan the details.</p>
+          </div>
         </div>
 
         <div class="tab-panel" id="itinerary">

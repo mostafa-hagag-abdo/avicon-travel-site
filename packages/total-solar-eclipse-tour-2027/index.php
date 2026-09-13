@@ -1414,6 +1414,33 @@ textarea.form-input{resize:vertical;min-height:60px}
 
             </div>
           </div>
+          <div class="av-longform">
+            <h3 class="section-title" style="font-size:17px;margin-top:32px">Why Watch the 2027 Eclipse From Luxor</h3>
+            <p class="section-sub">On Monday 2 August 2027, the Moon will pass directly in front of the Sun and turn day into night along a narrow path across North Africa and the Middle East. Luxor lies close to the point of greatest eclipse, where totality lasts about 6 minutes 23 seconds — one of the longest total solar eclipses of the 21st century. Most total eclipses last less than four minutes.</p>
+            <p class="section-sub">Weather matters as much as location, and here Luxor is hard to beat: August skies over Upper Egypt are almost always clear, giving some of the best viewing odds anywhere on the eclipse path. The eclipse also happens around midday, with the Sun high in the sky above the Nile.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">How the Tour Works</h3>
+            <p class="section-sub">The trip is built around the eclipse date. You arrive in Aswan on Friday 30 July 2027, visit the High Dam, Philae Temple and the Unfinished Obelisk, take a felucca ride and board the 5-star Sonesta Nile Goddess. The next days are spent sailing north on a full-board basis, with guided visits along the way depending on the final sailing schedule. On Monday 2 August you are taken to a prime viewing location in Luxor for the eclipse itself. Transfers between the cruise and the airports of Aswan and Luxor, entrance fees in Aswan and Luxor, and the support of our team throughout are included.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Eclipse Day: What to Expect</h3>
+            <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 18px;">
+              <li><strong>The partial phases:</strong> the Moon takes more than an hour to cover the Sun, and about as long to uncover it. Wear certified eclipse glasses (ISO 12312-2) whenever you look at the Sun during these phases.</li>
+              <li><strong>Totality:</strong> for just over six minutes the sky darkens, the air cools, bright planets and stars appear and the Sun's glowing corona comes into view. Only during totality is it safe to look without glasses.</li>
+              <li><strong>Cameras and binoculars:</strong> never point them at the partly eclipsed Sun without a proper solar filter on the front of the lens.</li>
+              <li><strong>The moments before totality:</strong> watch for faint shadow bands rippling across the ground and the ‘diamond ring’ as the last bead of sunlight disappears behind the Moon.</li>
+              <li><strong>No logistics to worry about:</strong> our team takes you to the viewing location, so you can concentrate on the sky.</li>
+            </ul>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Preparing for August in Upper Egypt</h3>
+            <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 18px;">
+              <li>Expect daytime temperatures often above 40°C. Wear light, loose clothing, a wide-brimmed hat and sunscreen, and drink water all day.</li>
+              <li>Do your sightseeing early or late in the day where you can, and rest on the air-conditioned ship during the afternoon heat.</li>
+              <li>Bring your own certified eclipse glasses, plus a spare pair in case one gets lost or damaged.</li>
+              <li>Plan your onward flight for after the eclipse: the tour ends in Luxor on 2 August, and you will not want to miss totality for a check-in queue.</li>
+              <li>Keep your kit simple on the day: a hat, water, eclipse glasses and your camera are all you need at the viewing site.</li>
+            </ul>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Book Early</h3>
+            <p class="section-sub">Luxor will be one of the main destinations for eclipse travelers, and hotel rooms and Nile cruise cabins are expected to sell out well before the date. The prices in the table above are fixed per person for the whole trip, and your cabin is secured once your booking is confirmed. Send us your details through the booking form or on WhatsApp to reserve your place.</p>
+            <h3 class="section-title" style="font-size:17px;margin-top:24px">Explore More of Egypt</h3>
+            <p class="section-sub">Want more time before or after the eclipse? Add Abu Simbel from Aswan with our <a href="/tours/abu-simbel-temples-private-tour/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">private day tour</a>, or stay on in Luxor and see the West Bank from the air on a <a href="/tours/luxor-hot-air-balloon/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">sunrise balloon flight</a>. Our <a href="/blog/luxor-egypt-travel-guide-temples-balloon/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Luxor travel guide</a> and <a href="/blog/aswan-egypt-guide-temples-nubian-villages-sunsets/" style="color:var(--primary-light);font-weight:600;text-decoration:underline;text-underline-offset:3px">Aswan guide</a> will help you plan extra days.</p>
+          </div>
         </div>
 
         <!-- Itinerary -->
