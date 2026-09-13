@@ -443,7 +443,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                 <div class="ticket-stub">
                   <div class="stub-icon"><i class="fas fa-check"></i></div>
                   <div class="stub-label">Included</div>
-                  <div class="stub-count">6 ITEMS</div>
+                  <div class="stub-count">9 ITEMS</div>
                 </div>
                 <div class="ticket-perf"><div class="dots"></div></div>
                 <div class="ticket-body">
@@ -456,12 +456,15 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                   </div>
 
                   <div class="ticket-items">
-                    <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Hotel Pickup &amp; Drop Off</div></div>
-                    <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Professional Egyptologist Guide</div></div>
+                    <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Hotel Pickup &amp; Drop Off In Hurghada</div></div>
+                    <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Air-Conditioned Transfer To The Marina</div></div>
+                    <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Boat Trip To Orange Bay Island</div></div>
+                    <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Snorkeling Equipment &amp; Life Jackets</div></div>
+                    <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Crew Assistance &amp; Snorkeling Guidance</div></div>
+                    <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Lunch On Board</div></div>
+                    <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Soft Drinks &amp; Bottled Water</div></div>
+                    <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Island Entrance Fees</div></div>
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">All Service Charges &amp; Taxes</div></div>
-                    <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Air-Conditioned Private Vehicle</div></div>
-                    <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Bottled Water</div></div>
-                    <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Entrance Fees</div></div>
                   </div>
 
                   <div class="ticket-footer">
@@ -478,7 +481,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                 <div class="ticket-stub">
                   <div class="stub-icon"><i class="fas fa-xmark"></i></div>
                   <div class="stub-label">Excluded</div>
-                  <div class="stub-count">4 ITEMS</div>
+                  <div class="stub-count">3 ITEMS</div>
                 </div>
                 <div class="ticket-perf"><div class="dots"></div></div>
                 <div class="ticket-body">
@@ -493,7 +496,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                   <div class="ticket-items">
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-xmark"></i></div><div class="ticket-item-text">Personal Expenses</div></div>
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-xmark"></i></div><div class="ticket-item-text">Optional Excursions &amp; Activities</div></div>
-                    <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-xmark"></i></div><div class="ticket-item-text">Camel Ride (Optional)</div></div>
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-xmark"></i></div><div class="ticket-item-text">Tipping</div></div>
                   </div>
 
