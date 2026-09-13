@@ -187,6 +187,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <p>
         If you want memories that last a lifetime, this tour promises more than photographs—it promises friendship, laughter, and soul-stirring moments.
     </p>
+<p class="avp-links">A village visit fits easily into a Nile cruise: our <a href="/nile-cruises/5-days-nile-river-cruise-from-luxor-to-aswan/">5-day cruise from Luxor to Aswan</a> ends in Aswan, and the <a href="/nile-cruises/4-days-nile-cruise-aswan-to-luxor/">4-day cruise from Aswan to Luxor</a> starts there.</p>
+
+
+
 <h2>What Is a Nubian Village Like?</h2>
 
 
@@ -232,6 +236,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <p>
         Highlight your <strong>nubian village tour aswan</strong> with a scenic boat ride. Glide across the sparkling Nile in a traditional felucca or motorized boat, accompanied by friendly guides eager to share their stories. As the sky transforms with dazzling colors, you’ll see the sprawling River and ancient sand dunes, hear the distant drumming, and feel a peace only the Nile can offer. Don’t forget your camera—sunset photos here are stunning!
     </p>
+<p class="avp-links">Visiting <a href="/tours/abu-simbel-temples-private-tour/">Abu Simbel</a> the same day? The early-morning trip is back in Aswan by the afternoon, in time for a sunset boat ride to the villages.</p>
+
+
+
 <h2>What Food Do Nubian Families Serve?</h2>
 
 

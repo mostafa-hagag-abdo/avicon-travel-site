@@ -255,6 +255,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 
 
+<p class="avp-links">Booked the <a href="/tours/luxor-hot-air-balloon/">Luxor hot air balloon</a>? Add a warm layer and flat, closed shoes: the flight starts before sunrise, when desert mornings can be cold, especially from November to February.</p>
+
+
+
 <h3 class="wp-block-heading">Tech Essentials for Your Egypt Packing List</h3>
 
 
@@ -376,6 +380,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 <li><strong>Small First Aid Kit:</strong> Plasters, painkillers, and antiseptic come in handy for minor scrapes.</li>
 </ul>
+
+
+
+<p class="avp-links">Your own snorkel set is optional on organized boat trips: the <a href="/tours/orange-bay-island-snorkeling/">Orange Bay snorkeling trip</a> from Hurghada and the <a href="/tours/ras-mohammed-snorkeling/">Ras Mohammed snorkeling trip</a> from Sharm El Sheikh both provide equipment and life jackets on board.</p>
 
 
 

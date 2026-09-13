@@ -243,6 +243,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 
 
+<p class="avp-links">Since most Siwa trips start and end in Cairo, it is worth adding a few days in the capital, for example with our <a href="/packages/private-4-days-cairo-tour-package/">private 4-day Cairo tour package</a>, which covers the Giza pyramids, Saqqara and Old Cairo.</p>
+
+
+
 <h2 class="wp-block-heading">What Are the Must-See Sights in Siwa Oasis?</h2>
 
 
@@ -398,6 +402,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 <li><strong>Tunis Village:</strong> Renowned for pottery workshops, art galleries, and a charming community feel.</li>
 </ul>
+
+
+
+<p class="avp-links">Fayoum's Meidum Pyramid, one of Egypt's early attempts at a true pyramid, pairs well with our <a href="/tours/saqqara-memphis-dahshur-day-trip-from-cairo/">Saqqara, Memphis and Dahshur day trip</a>, where the Bent and Red Pyramids show how the builders finally succeeded.</p>
 
 
 

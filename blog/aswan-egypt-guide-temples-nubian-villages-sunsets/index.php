@@ -417,6 +417,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 
 
+<p class="avp-links">The most scenic way to arrive is by river: our <a href="/nile-cruises/5-days-nile-river-cruise-from-luxor-to-aswan/">5-day Nile cruise from Luxor to Aswan</a> visits Edfu and Kom Ombo on the way and ends with Aswan's High Dam, Unfinished Obelisk and Philae Temple.</p>
+
+
+
 <h2 class="wp-block-heading">What Should First-Time Visitors to Aswan Know?</h2>
 
 

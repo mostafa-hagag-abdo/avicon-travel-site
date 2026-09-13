@@ -221,6 +221,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 
 
+<p class="avp-links">Mobile data also makes long days easier, letting you stay in touch with your driver and guide on WhatsApp during trips such as the <a href="/tours/luxor-day-trip-from-hurghada/">Luxor day trip from Hurghada</a>.</p>
+
+
+
 <h2 class="wp-block-heading">Which SIM Card Is Best for Tourists in Egypt?</h2>
 
 
@@ -356,6 +360,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 
 <p>Always check with your cruise company in advance for onboard WiFi details. Having your own SIM or eSIM gives you peace of mind and lets you upload those stunning photos in real time!</p>
+
+
+
+<p class="avp-links">If you are sailing with us on the <a href="/nile-cruises/4-days-nile-cruise-aswan-to-luxor/">4-day cruise from Aswan to Luxor</a> or the <a href="/nile-cruises/5-days-nile-river-cruise-from-luxor-to-aswan/">5-day cruise from Luxor to Aswan</a>, a local SIM keeps you connected on sailing days, when onboard Wi-Fi tends to be weakest.</p>
 
 
 

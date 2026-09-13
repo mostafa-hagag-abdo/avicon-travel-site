@@ -311,6 +311,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 
 
+<p class="avp-links">Because our <a href="/tours/giza-pyramids-saqqara-tour/">Giza Pyramids and Saqqara tour</a> is private, you can plan the timing with your guide to catch softer light on the plateau and quieter moments at the Step Pyramid.</p>
+
+
+
 <h3 class="wp-block-heading">Temple Photography: Luxor, Karnak, and Abu Simbel</h3>
 
 
@@ -326,6 +330,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 <li><strong>Respect Restrictions:</strong> Some interiors prohibit cameras—always ask before clicking.</li>
 </ul>
+
+
+
+<p class="avp-links">At <a href="/tours/abu-simbel-temples-private-tour/">Abu Simbel</a>, the temples face east toward the rising sun, so early-morning light is best for the colossal statues of Ramses II.</p>
 
 
 
@@ -432,6 +440,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 <li><strong>Find the Unseen:</strong> Explore side streets, hidden courtyards, and quiet desert spots for unique perspectives and authentic moments.</li>
 </ul>
+
+
+
+<p class="avp-links">For aerial shots, nothing beats a sunrise <a href="/tours/luxor-hot-air-balloon/">Luxor hot air balloon</a> flight over the Valley of the Kings, the Temple of Hatshepsut and the green fields along the Nile.</p>
 
 
 

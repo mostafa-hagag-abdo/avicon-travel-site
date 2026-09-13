@@ -289,6 +289,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 
 
+<p class="avp-links">You can taste many of these dishes on our tours: the <a href="/tours/luxor-day-trip-from-hurghada/">Luxor day trip from Hurghada</a> includes lunch at a local restaurant, and the <a href="/tours/giza-pyramids-saqqara-tour/">Giza Pyramids and Saqqara tour</a> has an optional lunch stop serving Egyptian food.</p>
+
+
+
 <h2 class="wp-block-heading">What Are the Best Egyptian Desserts?</h2>
 
 

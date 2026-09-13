@@ -213,6 +213,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 
 
+<p class="avp-links">Packages such as our <a href="/packages/7-days-cairo-hurghada-holiday/">7-day Cairo and Hurghada holiday</a> include a domestic flight, so check the baggage allowance on your ticket before you pack.</p>
+
+
+
 <h2 class="wp-block-heading">What Should You Pack for Egypt When Traveling Light?</h2>
 
 
@@ -393,6 +397,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 
 
+<p class="avp-links">Staying in Hurghada? The <a href="/tours/orange-bay-island-snorkeling/">Orange Bay island snorkeling trip</a> provides masks, snorkels, life jackets and lunch on board, so a swimsuit, towel and reef-safe sunscreen are all you need to bring.</p>
+
+
+
 <h2 class="wp-block-heading">What Should You Leave at Home When Packing for Egypt?</h2>
 
 
@@ -450,6 +458,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 <li><strong>Leave space for souvenirs:</strong> Egyptian markets are perfect for finding treasures like spices, scarves, and jewelry.</li>
 </ul>
+
+
+
+<p class="avp-links">A Nile cruise makes light packing even easier: on our <a href="/nile-cruises/4-days-nile-cruise-aswan-to-luxor/">4-day cruise from Aswan to Luxor</a>, your cabin travels with you, so you unpack once for all three nights.</p>
 
 
 

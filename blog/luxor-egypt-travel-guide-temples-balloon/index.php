@@ -321,6 +321,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 
 
+<p class="avp-links">Short on time? Our <a href="/tours/luxor-day-trip-from-hurghada/">Luxor day trip from Hurghada</a> covers Karnak, the Valley of the Kings, the Temple of Hatshepsut and the Colossi of Memnon in one day, while the <a href="/nile-cruises/4-days-nile-cruise-aswan-to-luxor/">4-day Nile cruise from Aswan to Luxor</a> ends with guided visits to both banks of Luxor.</p>
+
+
+
 <h3 class="wp-block-heading">Medinet Habu: The Mortuary Temple of Ramses III</h3>
 
 
