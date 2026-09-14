@@ -245,6 +245,26 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
               <div class="fact-label">Meals</div>
               <div class="fact-value">Full Board</div>
             </div>
+            <div class="fact-card qf-extra">
+              <div class="fact-icon"><i class="fas fa-tag"></i></div>
+              <div class="fact-label">Price</div>
+              <div class="fact-value">On request</div>
+            </div>
+            <div class="fact-card qf-extra">
+              <div class="fact-icon"><i class="fas fa-location-dot"></i></div>
+              <div class="fact-label">Pickup</div>
+              <div class="fact-value">Aswan (ends in Luxor)</div>
+            </div>
+            <div class="fact-card qf-extra">
+              <div class="fact-icon"><i class="fas fa-circle-check"></i></div>
+              <div class="fact-label">Included</div>
+              <div class="fact-value">Full board, guided visits</div>
+            </div>
+            <div class="fact-card qf-extra">
+              <div class="fact-icon"><i class="fas fa-sun"></i></div>
+              <div class="fact-label">Best Time</div>
+              <div class="fact-value">Oct–Apr; summer is cheaper</div>
+            </div>
           </div>
           <h3 class="section-title" style="font-size:17px;margin-top:24px">Tour Highlights</h3>
           <ul style="padding-left: 20px; color: var(--text-muted); font-size: 13px; line-height: 1.7; margin-bottom: 24px;">

@@ -1339,6 +1339,26 @@ textarea.form-input{resize:vertical;min-height:60px}
               <div class="fact-label">Meals</div>
               <div class="fact-value">Hotels + Cruise</div>
             </div>
+            <div class="fact-card qf-extra">
+              <div class="fact-icon"><i class="fas fa-tag"></i></div>
+              <div class="fact-label">Price</div>
+              <div class="fact-value">From $2,100 / person</div>
+            </div>
+            <div class="fact-card qf-extra">
+              <div class="fact-icon"><i class="fas fa-location-dot"></i></div>
+              <div class="fact-label">Pickup</div>
+              <div class="fact-value">Cairo airport</div>
+            </div>
+            <div class="fact-card qf-extra">
+              <div class="fact-icon"><i class="fas fa-circle-check"></i></div>
+              <div class="fact-label">Included</div>
+              <div class="fact-value">Hotels, cruise, flights, guide</div>
+            </div>
+            <div class="fact-card qf-extra">
+              <div class="fact-icon"><i class="fas fa-sun"></i></div>
+              <div class="fact-label">Best Time</div>
+              <div class="fact-value">Oct–Apr</div>
+            </div>
           </div>
 
           <h3 class="section-title" style="font-size:17px;margin-top:20px">Tour Route</h3>

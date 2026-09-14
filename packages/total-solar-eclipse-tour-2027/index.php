@@ -1346,6 +1346,26 @@ textarea.form-input{resize:vertical;min-height:60px}
               <div class="fact-label">Meals</div>
               <div class="fact-value">Full Board Cruise</div>
             </div>
+            <div class="fact-card qf-extra">
+              <div class="fact-icon"><i class="fas fa-tag"></i></div>
+              <div class="fact-label">Price</div>
+              <div class="fact-value">From $1,199 / person</div>
+            </div>
+            <div class="fact-card qf-extra">
+              <div class="fact-icon"><i class="fas fa-location-dot"></i></div>
+              <div class="fact-label">Pickup</div>
+              <div class="fact-value">Aswan airport</div>
+            </div>
+            <div class="fact-card qf-extra">
+              <div class="fact-icon"><i class="fas fa-circle-check"></i></div>
+              <div class="fact-label">Included</div>
+              <div class="fact-value">Cruise, viewing spot, transfers</div>
+            </div>
+            <div class="fact-card qf-extra">
+              <div class="fact-icon"><i class="fas fa-sun"></i></div>
+              <div class="fact-label">Best Time</div>
+              <div class="fact-value">2 August 2027</div>
+            </div>
           </div>
           <h3 class="section-title" style="font-size:17px;margin-top:20px">Tour Route</h3>
           <div class="route-section">

@@ -256,6 +256,26 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
               <div class="fact-label">Meals</div>
               <div class="fact-value">Breakfast & Selected</div>
             </div>
+            <div class="fact-card qf-extra">
+              <div class="fact-icon"><i class="fas fa-tag"></i></div>
+              <div class="fact-label">Price</div>
+              <div class="fact-value">From $1,255 / person</div>
+            </div>
+            <div class="fact-card qf-extra">
+              <div class="fact-icon"><i class="fas fa-location-dot"></i></div>
+              <div class="fact-label">Pickup</div>
+              <div class="fact-value">Cairo airport</div>
+            </div>
+            <div class="fact-card qf-extra">
+              <div class="fact-icon"><i class="fas fa-circle-check"></i></div>
+              <div class="fact-label">Included</div>
+              <div class="fact-value">Hotels, flights, guide, tours</div>
+            </div>
+            <div class="fact-card qf-extra">
+              <div class="fact-icon"><i class="fas fa-sun"></i></div>
+              <div class="fact-label">Best Time</div>
+              <div class="fact-value">Year-round; Oct–Apr coolest</div>
+            </div>
           </div>
           
           

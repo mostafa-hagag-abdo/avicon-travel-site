@@ -232,6 +232,26 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <div class="fact-card"><div class="fact-icon"><i class="fas fa-star"></i></div><div class="fact-label">Style</div><div class="fact-value">Returning Visitors</div></div>
         <div class="fact-card"><div class="fact-icon"><i class="fas fa-map-pin"></i></div><div class="fact-label">Route</div><div class="fact-value">Luxor to Aswan</div></div>
         <div class="fact-card"><div class="fact-icon"><i class="fas fa-utensils"></i></div><div class="fact-label">Meals</div><div class="fact-value">Full Board Cruise</div></div>
+        <div class="fact-card qf-extra">
+          <div class="fact-icon"><i class="fas fa-tag"></i></div>
+          <div class="fact-label">Price</div>
+          <div class="fact-value">From $480 / person</div>
+        </div>
+        <div class="fact-card qf-extra">
+          <div class="fact-icon"><i class="fas fa-location-dot"></i></div>
+          <div class="fact-label">Pickup</div>
+          <div class="fact-value">Luxor (ends in Aswan)</div>
+        </div>
+        <div class="fact-card qf-extra">
+          <div class="fact-icon"><i class="fas fa-circle-check"></i></div>
+          <div class="fact-label">Included</div>
+          <div class="fact-value">Full board, guide, entry fees</div>
+        </div>
+        <div class="fact-card qf-extra">
+          <div class="fact-icon"><i class="fas fa-sun"></i></div>
+          <div class="fact-label">Best Time</div>
+          <div class="fact-value">Oct–Apr; summer is cheaper</div>
+        </div>
       </div>
 
       <h3 class="section-title" style="font-size:17px;margin-top:20px">Cruise Route</h3>
