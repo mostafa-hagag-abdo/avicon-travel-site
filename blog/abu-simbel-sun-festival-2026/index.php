@@ -5,39 +5,44 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
 	
 	
-	
+	                
+
 <!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
-<title>Blog - Avicon Travel</title>
-<meta name="description" content="A curated list of inspiration the most tour &amp; travel based on different destinations."/>
+<title>Abu Simbel Sun Festival 2026: Dates &amp; How to See It</title>
+<meta name="description" content="The Abu Simbel Sun Festival lights the temple&#x27;s inner sanctuary on October 22, 2026. Here&#x27;s how it works and how to plan the trip from Aswan."/>
 <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
-<link rel="canonical" href="https://avicontravel.com/blog/" />
+<link rel="canonical" href="https://avicontravel.com/blog/abu-simbel-sun-festival-2026/" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Blog - Avicon Travel" />
-<meta property="og:description" content="A curated list of inspiration the most tour &amp; travel based on different destinations." />
-<meta property="og:url" content="https://avicontravel.com/blog/" />
+<meta property="og:title" content="Abu Simbel Sun Festival 2026: Dates &amp; How to See It" />
+<meta property="og:description" content="The Abu Simbel Sun Festival lights the temple&#x27;s inner sanctuary on October 22, 2026. Here&#x27;s how it works and how to plan the trip from Aswan." />
+<meta property="og:url" content="https://avicontravel.com/blog/abu-simbel-sun-festival-2026/" />
 <meta property="og:site_name" content="Avicon Travel" />
-<meta property="og:updated_time" content="2026-06-22T14:42:31+00:00" />
-<meta property="og:image" content="https://avicontravel.com/assets/uploads/2026/06/Red-Sea-Egypt-resorts.png" />
-<meta property="og:image:secure_url" content="https://avicontravel.com/assets/uploads/2026/06/Red-Sea-Egypt-resorts.png" />
-<meta property="og:image:width" content="1448" />
-<meta property="og:image:height" content="1086" />
-<meta property="og:image:alt" content="Red Sea Egypt resorts" />
+<meta property="article:section" content="Destination Guides" />
+<meta property="og:updated_time" content="2026-09-16T12:00:00+00:00" />
+<meta property="og:image" content="https://avicontravel.com/assets/uploads/2026/05/Discover-The-Great-Abu-Simbel-Temples.jpg" />
+<meta property="og:image:secure_url" content="https://avicontravel.com/assets/uploads/2026/05/Discover-The-Great-Abu-Simbel-Temples.jpg" />
+<meta property="og:image:width" content="2048" />
+<meta property="og:image:height" content="1536" />
+<meta property="og:image:alt" content="Sunrise lighting the facade of the Great Temple at Abu Simbel" />
 <meta property="og:image:type" content="image/png" />
-<meta property="article:published_time" content="2025-09-15T06:43:58+00:00" />
-<meta property="article:modified_time" content="2026-06-22T14:42:31+00:00" />
+<meta property="article:published_time" content="2026-09-16T12:00:00+00:00" />
+<meta property="article:modified_time" content="2026-09-16T12:00:00+00:00" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Blog - Avicon Travel" />
-<meta name="twitter:description" content="A curated list of inspiration the most tour &amp; travel based on different destinations." />
-<meta name="twitter:image" content="https://avicontravel.com/assets/uploads/2026/06/Red-Sea-Egypt-resorts.png" />
-<meta name="twitter:label1" content="Time to read" />
-<meta name="twitter:data1" content="Less than a minute" />
+<meta name="twitter:title" content="Abu Simbel Sun Festival 2026: Dates &amp; How to See It" />
+<meta name="twitter:description" content="The Abu Simbel Sun Festival lights the temple&#x27;s inner sanctuary on October 22, 2026. Here&#x27;s how it works and how to plan the trip from Aswan." />
+<meta name="twitter:image" content="https://avicontravel.com/assets/uploads/2026/05/Discover-The-Great-Abu-Simbel-Temples.jpg" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="avicontravel@gmail.com" />
+<meta name="twitter:label2" content="Time to read" />
+<meta name="twitter:data2" content="6 minutes" />
 
 <!-- /Rank Math WordPress SEO plugin -->
 
 <link rel='dns-prefetch' href='//ajax.googleapis.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+
 
 
 
@@ -62,6 +67,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 	}
 /*# sourceURL=wp-emoji-styles-inline-css */
 </style>
+<link rel='stylesheet' id='wp-block-library-css' href='/assets/core/css/dist/block-library/style.min.css?ver=6.9.7' type='text/css' media='all' />
+<link rel='stylesheet' href='/assets/css/shared/wp-block-library.f77683e9de.css' type='text/css' media='all' />
 <style id='classic-theme-styles-inline-css' type='text/css'>
 /*! This file is auto-generated */
 .wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
@@ -98,22 +105,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel='stylesheet' id='bootstrap-css' href='/assets/themes/gofly-main/assets/css/bootstrap.min.css?ver=1778267218' type='text/css' media='all' />
 <link rel='stylesheet' id='blog-page-css' href='/assets/themes/gofly-main/assets/css/blog-and-pages.css?ver=1778267218' type='text/css' media='all' />
 <link rel='stylesheet' id='egns-style-css' href='/assets/themes/gofly-main/assets/css/style.css?ver=1778267218' type='text/css' media='all' />
-<link rel='stylesheet' id='egns-theme-css' href='/assets/themes/gofly-main/style.css?ver=33' type='text/css' media='all' />
+<link rel='stylesheet' id='egns-theme-css' href='/assets/themes/gofly-main/style.css?ver=40' type='text/css' media='all' />
 <link rel='stylesheet' id='fa6-css' href='https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-blocks-library-css' href='/assets/core/css/dist/block-library/style.min.css?ver=6.9.7' type='text/css' media='all' />
-<link rel='stylesheet' id='gofly-widgets-css' href='/assets/themes/gofly-main/assets/css/el-widgets.css?ver=1778267218' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-frontend-css' href='/assets/plugins/elementor/assets/css/frontend.min.css?ver=4.1.4' type='text/css' media='all' />
-<style id='elementor-frontend-inline-css' type='text/css'>
-.e-heading-base a, .e-paragraph-base a { all: unset; cursor: pointer; }form[data-element_type="e-form"].form-state-success [data-element_type="e-form-success-message"],form[data-element_type="e-form"].form-state-error [data-element_type="e-form-error-message"]{ display: block; }
-.e-form-textarea-base:not([data-resizable]) { resize: none; } .e-form-submit-button-base { cursor: pointer; box-sizing: border-box; }
-/*# sourceURL=elementor-frontend-inline-css */
-</style>
-<link rel='stylesheet' id='elementor-post-7-css' href='/assets/uploads/elementor/css/post-7.css?ver=1788475172' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-2819-css' href='/assets/uploads/elementor/css/post-2819.css?ver=1788480091' type='text/css' media='all' />
-<link rel='stylesheet' id='base-desktop-css' href='/assets/uploads/elementor/css/base-desktop.css?ver=6a99f724c5e58' type='text/css' media='all' />
 <link rel='stylesheet' id='cmplz-banner-1-optin-css' href='/assets/uploads/complianz/css/banner-1-optin.css?ver=1785795917' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-gf-roboto-css' href='https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-gf-robotoslab-css' href='https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap' type='text/css' media='all' />
 
 
 
@@ -159,275 +153,176 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <meta name="msapplication-TileImage" content="/assets/uploads/2026/05/cropped-Avicon-Travel-1-1.png.webp" />
 <script type="text/javascript" src="/assets/core/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="/assets/core/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<style id="blog-h1-css">
-.section-title h1{color:var(--title-color);font-family:var(--font-poppins);font-size:40px;font-weight:600;line-height:1.1;margin-bottom:0}
-@media (max-width:991px){.section-title h1{font-size:37px;line-height:1.2}}
-@media (max-width:767px){.section-title h1{font-size:36px}}
-@media (max-width:576px){.section-title h1{font-size:28px;line-height:1.3}}
-</style>
-<script type="application/ld+json" id="avicon-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://avicontravel.com/#organization","name":"Avicon Travel","url":"https://avicontravel.com/","logo":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/cropped-Avicon-Travel-1-1.png.webp"},"email":"info@avicontravel.com","telephone":"+201200555600","sameAs":["https://www.instagram.com/avicontravel/","https://www.facebook.com/profile.php?id=61589341120733","https://www.tripadvisor.com/Attraction_Review-g294204-d27707479-Reviews-Avicon_Travel-Aswan_Aswan_Governorate_Nile_River_Valley.html"]},{"@type":"WebSite","@id":"https://avicontravel.com/#website","url":"https://avicontravel.com/","name":"Avicon Travel","publisher":{"@id":"https://avicontravel.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://avicontravel.com/blog/#webpage","url":"https://avicontravel.com/blog/","name":"Blog","description":"A curated list of inspiration the most tour & travel based on different destinations.","isPartOf":{"@id":"https://avicontravel.com/#website"},"about":{"@id":"https://avicontravel.com/#organization"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/06/Red-Sea-Egypt-resorts.png"},"datePublished":"2025-09-15T06:43:58+00:00","dateModified":"2026-06-22T14:42:31+00:00","breadcrumb":{"@id":"https://avicontravel.com/blog/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://avicontravel.com/blog/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://avicontravel.com/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://avicontravel.com/blog/"}]}]}</script>
+<script type="application/ld+json" id="avicon-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://avicontravel.com/#organization","name":"Avicon Travel","url":"https://avicontravel.com/","logo":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/cropped-Avicon-Travel-1-1.png.webp"},"email":"info@avicontravel.com","telephone":"+201200555600","sameAs":["https://www.instagram.com/avicontravel/","https://www.facebook.com/profile.php?id=61589341120733","https://www.tripadvisor.com/Attraction_Review-g294204-d27707479-Reviews-Avicon_Travel-Aswan_Aswan_Governorate_Nile_River_Valley.html"]},{"@type":"WebSite","@id":"https://avicontravel.com/#website","url":"https://avicontravel.com/","name":"Avicon Travel","publisher":{"@id":"https://avicontravel.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://avicontravel.com/blog/abu-simbel-sun-festival-2026/#webpage","url":"https://avicontravel.com/blog/abu-simbel-sun-festival-2026/","name":"Abu Simbel Sun Festival 2026: Dates & How to See It","description":"The Abu Simbel Sun Festival lights the temple's inner sanctuary on October 22, 2026. Here's how it works and how to plan the trip from Aswan.","isPartOf":{"@id":"https://avicontravel.com/#website"},"about":{"@id":"https://avicontravel.com/#organization"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/Discover-The-Great-Abu-Simbel-Temples.jpg"},"datePublished":"2026-09-16T12:00:00+00:00","dateModified":"2026-09-16T12:00:00+00:00","breadcrumb":{"@id":"https://avicontravel.com/blog/abu-simbel-sun-festival-2026/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://avicontravel.com/blog/abu-simbel-sun-festival-2026/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://avicontravel.com/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://avicontravel.com/blog/"},{"@type":"ListItem","position":3,"name":"Abu Simbel Sun Festival 2026: Dates & How to See It","item":"https://avicontravel.com/blog/abu-simbel-sun-festival-2026/"}]},{"@type":"BlogPosting","@id":"https://avicontravel.com/blog/abu-simbel-sun-festival-2026/#article","headline":"Abu Simbel Sun Festival 2026: Dates & How to See It","description":"The Abu Simbel Sun Festival lights the temple's inner sanctuary on October 22, 2026. Here's how it works and how to plan the trip from Aswan.","image":"https://avicontravel.com/assets/uploads/2026/05/Discover-The-Great-Abu-Simbel-Temples.jpg","datePublished":"2026-09-16T12:00:00+00:00","dateModified":"2026-09-16T12:00:00+00:00","articleSection":"Destination Guides","keywords":"Abu Simbel Sun Festival","author":{"@id":"https://avicontravel.com/#organization"},"publisher":{"@id":"https://avicontravel.com/#organization"},"mainEntityOfPage":{"@id":"https://avicontravel.com/blog/abu-simbel-sun-festival-2026/#webpage"},"inLanguage":"en-US"},{"@type":"FAQPage","@id":"https://avicontravel.com/blog/abu-simbel-sun-festival-2026/#faq","isPartOf":{"@id":"https://avicontravel.com/blog/abu-simbel-sun-festival-2026/#webpage"},"mainEntity":[{"@type":"Question","name":"When exactly is the Abu Simbel Sun Festival in 2026?","acceptedAnswer":{"@type":"Answer","text":"The alignment happens twice a year, and the next date is October 22, 2026. The same event repeats around February 22 each year."}},{"@type":"Question","name":"Why does only one statue stay in the dark?","acceptedAnswer":{"@type":"Answer","text":"The Great Temple's inner sanctuary holds four seated statues: Ramses II, Amun-Ra, Ra-Horakhty and Ptah. Only Ptah, a god linked with the underworld, was positioned so sunlight never reaches him."}},{"@type":"Question","name":"How early do you need to leave Aswan?","acceptedAnswer":{"@type":"Answer","text":"A standard day trip leaves around 4:00 am; for the Sun Festival, an earlier private departure is recommended so you're inside the temple before sunrise, since the site is busier that morning."}},{"@type":"Question","name":"What's included in a private Abu Simbel tour?","acceptedAnswer":{"@type":"Answer","text":"Entry fees, a private air-conditioned vehicle and an Egyptologist guide are included; a lunch box is optional and can be added when booking."}},{"@type":"Question","name":"Is Abu Simbel worth visiting outside the festival dates?","acceptedAnswer":{"@type":"Answer","text":"Yes. The temples are open year-round and just as impressive without the festival crowds, and October to April is generally the most comfortable season to visit."}}]}]}</script>
 <style id="avicon-img-ratio">:where(img[width][height]){height:auto}</style>
 </head>
-<body data-rsssl=1 data-cmplz=1 class="wp-singular page-template page-template-elementor_header_footer page page-id-2819 wp-custom-logo wp-theme-gofly-main tt-magic-cursor  theme-gofly-main woocommerce-no-js elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-2819">
+<body data-rsssl=1 data-cmplz=1 class="wp-singular post-template-default single single-post postid-77199 single-format-standard wp-custom-logo wp-theme-gofly-main tt-magic-cursor  theme-gofly-main woocommerce-no-js elementor-default elementor-kit-7">
 <?php include $_SERVER['DOCUMENT_ROOT'].'/includes/header.php'; ?>
-		<div data-elementor-type="wp-page" data-elementor-id="2819" class="elementor elementor-2819" data-elementor-post-type="page">
-				<div class="elementor-element elementor-element-7917980 e-con-full e-flex e-con e-parent" data-id="7917980" data-element_type="container" data-e-type="container">
-				<div class="elementor-element elementor-element-8f1e387 elementor-widget elementor-widget-gofly_blogs" data-id="8f1e387" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="gofly_blogs.default">
-				<div class="elementor-widget-container">
-					        
-        
-        
-        
-        
-        
-                    <div class="home6-blog-section">
-                <div class="container">
-                                            <div class="row justify-content-center mb-50 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                            <div class="col-xl-6 col-lg-8">
-                                <div class="section-title text-center">
-                                                                            <h1>Travel Inspirations</h1>
-                                                                                                                <p>A curated list of inspiration the most tour &amp; travel based on different destinations.</p>
-                                                                    </div>
-                            </div>
-                        </div>
-                                        <div class="row g-4 mb-40">
-                                                    <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                                <div class="blog-card2 three">
-                                    <div class="blog-img-wrap">
-                                                                                    <a href="/blog/abu-simbel-sun-festival-2026/" class="blog-img">
-                                                <img loading="lazy" decoding="async" width="650" height="400" src="/assets/uploads/2026/05/Discover-The-Great-Abu-Simbel-Temples.jpg.webp" class="attachment-card-thumb size-card-thumb wp-post-image" alt="Sunrise lighting the facade of the Great Temple at Abu Simbel" />                                            </a>
-                                                                            </div>
-                                    <div class="blog-content">
-                                                                                                                            Destination Guides
-                                                                                <h4><a href="/blog/abu-simbel-sun-festival-2026/">Abu Simbel Sun Festival 2026: Dates &amp; How to See It</a></h4>
-                                        <ul class="blog-meta">
-                                            <li>16 Sep, 2026</li>
-                                                                                        <li>6 Min reads</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                                                    <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                                <div class="blog-card2 three">
-                                    <div class="blog-img-wrap">
-                                                                            </div>
-                                    <div class="blog-content">
-                                                                                                                            Uncategorized
-                                                                                <h4><a href="/nubian-village-tour-aswan-nightlife-music-hospitality/">Nubian Village Tour Aswan: Experience Nile Magic &#038; Nightlife</a></h4>
-                                        <ul class="blog-meta">
-                                            <li>5 Jul, 2026</li>
-                                                                                        <li>13 Min reads</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                                                    <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                                <div class="blog-card2 three">
-                                    <div class="blog-img-wrap">
-                                                                                    <a href="/egyptian-food-guide-authentic-flavors/" class="blog-img">
-                                                <img loading="lazy" fetchpriority="high" decoding="async" width="650" height="400" src="/assets/uploads/2026/07/Egyptian-food-guide-poster-650x400.png.webp" class="attachment-card-thumb size-card-thumb wp-post-image" alt="Egyptian food guide poster" />                                            </a>
-                                                                            </div>
-                                    <div class="blog-content">
-                                                                                                                            Cultural Experiences
-                                                                                <h4><a href="/egyptian-food-guide-authentic-flavors/">Egyptian Food Guide: Discover Authentic Flavors &#038; Iconic Dishes</a></h4>
-                                        <ul class="blog-meta">
-                                            <li>26 Jun, 2026</li>
-                                                                                        <li>13 Min reads</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                                                    <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                                <div class="blog-card2 three">
-                                    <div class="blog-img-wrap">
-                                                                                    <a href="/egypt-packing-light-essential-guide/" class="blog-img">
-                                                <img loading="lazy" decoding="async" width="650" height="400" src="/assets/uploads/2026/06/Egypt-Packing-Light-Essential-Guide-for-Tourists-650x400.png.webp" class="attachment-card-thumb size-card-thumb wp-post-image" alt="" />                                            </a>
-                                                                            </div>
-                                    <div class="blog-content">
-                                                                                                                            Travel Tips &amp; Packing
-                                                                                <h4><a href="/egypt-packing-light-essential-guide/">Egypt Packing Light: Essential Guide for Tourists</a></h4>
-                                        <ul class="blog-meta">
-                                            <li>25 Jun, 2026</li>
-                                                                                        <li>13 Min reads</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                                                    <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                                <div class="blog-card2 three">
-                                    <div class="blog-img-wrap">
-                                                                                    <a href="/egypt-sim-card-tourist-guide-nile-cruise/" class="blog-img">
-                                                <img loading="lazy" decoding="async" width="650" height="400" src="/assets/uploads/2026/06/Stay-connected-with-Egypt-SIM-cards-650x400.png.webp" class="attachment-card-thumb size-card-thumb wp-post-image" alt="" />                                            </a>
-                                                                            </div>
-                                    <div class="blog-content">
-                                                                                                                            Travel Tips &amp; Packing
-                                                                                <h4><a href="/egypt-sim-card-tourist-guide-nile-cruise/">Egypt SIM Card Tourist Guide: Stay Connected on Your Trip</a></h4>
-                                        <ul class="blog-meta">
-                                            <li>25 Jun, 2026</li>
-                                                                                        <li>13 Min reads</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                                                    <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                                <div class="blog-card2 three">
-                                    <div class="blog-img-wrap">
-                                                                                    <a href="/egypt-photography-tips-travel-camera-gear/" class="blog-img">
-                                                <img loading="lazy" decoding="async" width="650" height="400" src="/assets/uploads/2026/06/Egypt-photography-guide-capture-stunning-moments-650x400.png.webp" class="attachment-card-thumb size-card-thumb wp-post-image" alt="" />                                            </a>
-                                                                            </div>
-                                    <div class="blog-content">
-                                                                                                                            Travel Tips &amp; Packing
-                                                                                <h4><a href="/egypt-photography-tips-travel-camera-gear/">Egypt Photography Tips: Capture Magical Moments with Ease</a></h4>
-                                        <ul class="blog-meta">
-                                            <li>23 Jun, 2026</li>
-                                                                                        <li>12 Min reads</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                                                    <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                                <div class="blog-card2 three">
-                                    <div class="blog-img-wrap">
-                                                                                    <a href="/egypt-packing-list-essential-items/" class="blog-img">
-                                                <img loading="lazy" decoding="async" width="650" height="400" src="/assets/uploads/2026/06/Egypt-packing-essentials-for-your-trip-650x400.png.webp" class="attachment-card-thumb size-card-thumb wp-post-image" alt="Egypt packing essentials for your trip" />                                            </a>
-                                                                            </div>
-                                    <div class="blog-content">
-                                                                                                                            Travel Tips &amp; Packing
-                                                                                <h4><a href="/egypt-packing-list-essential-items/">Egypt Packing List: Essential Items for Your Perfect Trip</a></h4>
-                                        <ul class="blog-meta">
-                                            <li>22 Jun, 2026</li>
-                                                                                        <li>11 Min reads</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                                                    <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                                <div class="blog-card2 three">
-                                    <div class="blog-img-wrap">
-                                                                                    <a href="/siwa-oasis-egypt-hidden-gems-adventures/" class="blog-img">
-                                                <img loading="lazy" decoding="async" width="650" height="400" src="/assets/uploads/2026/06/Siwa-Oasis-at-golden-hour-650x400.png.webp" class="attachment-card-thumb size-card-thumb wp-post-image" alt="Siwa Oasis at golden hour" />                                            </a>
-                                                                            </div>
-                                    <div class="blog-content">
-                                                                                                                            Destination Guides
-                                                                                <h4><a href="/siwa-oasis-egypt-hidden-gems-adventures/">Siwa Oasis Egypt: Hidden Gems &#038; Adventures Await</a></h4>
-                                        <ul class="blog-meta">
-                                            <li>21 Jun, 2026</li>
-                                                                                        <li>13 Min reads</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                                                    <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                                <div class="blog-card2 three">
-                                    <div class="blog-img-wrap">
-                                                                                    <a href="/red-sea-egypt-resorts-hurghada-vs-sharm-guide/" class="blog-img">
-                                                <img loading="lazy" decoding="async" width="650" height="400" src="/assets/uploads/2026/06/Red-Sea-Egypt-resorts-650x400.png.webp" class="attachment-card-thumb size-card-thumb wp-post-image" alt="Red Sea Egypt resorts" />                                            </a>
-                                                                            </div>
-                                    <div class="blog-content">
-                                                                                                                            Destination Guides
-                                                                                <h4><a href="/red-sea-egypt-resorts-hurghada-vs-sharm-guide/">Red Sea Egypt Resorts: Dream Holidays in Hurghada &#038; Sharm</a></h4>
-                                        <ul class="blog-meta">
-                                            <li>21 Jun, 2026</li>
-                                                                                        <li>12 Min reads</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                                                    <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                                <div class="blog-card2 three">
-                                    <div class="blog-img-wrap">
-                                                                                    <a href="/cairo-travel-guide-pyramids-museums-bazaars/" class="blog-img">
-                                                <img loading="lazy" decoding="async" width="650" height="400" src="/assets/uploads/2026/06/Cairo-travel-guide-650x400.png.webp" class="attachment-card-thumb size-card-thumb wp-post-image" alt="Cairo travel guide" />                                            </a>
-                                                                            </div>
-                                    <div class="blog-content">
-                                                                                                                            Destination Guides
-                                                                                <h4><a href="/cairo-travel-guide-pyramids-museums-bazaars/">Cairo Travel Guide: Explore Pyramids, Bazaars &#038; Museums</a></h4>
-                                        <ul class="blog-meta">
-                                            <li>20 Jun, 2026</li>
-                                                                                        <li>13 Min reads</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                                                    <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                                <div class="blog-card2 three">
-                                    <div class="blog-img-wrap">
-                                                                                    <a href="/aswan-egypt-guide-temples-nubian-villages-sunsets/" class="blog-img">
-                                                <img loading="lazy" decoding="async" width="650" height="400" src="/assets/uploads/2026/06/Aswan-Egypt-guide-650x400.png.webp" class="attachment-card-thumb size-card-thumb wp-post-image" alt="Aswan Egypt guide" />                                            </a>
-                                                                            </div>
-                                    <div class="blog-content">
-                                                                                                                            Destination Guides
-                                                                                <h4><a href="/aswan-egypt-guide-temples-nubian-villages-sunsets/">Aswan Egypt Guide: Discover Temples, Nubian Culture &#038; Sunsets</a></h4>
-                                        <ul class="blog-meta">
-                                            <li>19 Jun, 2026</li>
-                                                                                        <li>12 Min reads</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                                                    <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                                <div class="blog-card2 three">
-                                    <div class="blog-img-wrap">
-                                                                                    <a href="/luxor-egypt-travel-guide-temples-balloon/" class="blog-img">
-                                                <img loading="lazy" decoding="async" width="650" height="400" src="/assets/uploads/2026/06/Luxor-Egypt-travel-guide-650x400.png.webp" class="attachment-card-thumb size-card-thumb wp-post-image" alt="" />                                            </a>
-                                                                            </div>
-                                    <div class="blog-content">
-                                                                                                                            Destination Guides
-                                                                                <h4><a href="/luxor-egypt-travel-guide-temples-balloon/">Luxor Egypt Travel Guide: Temples, Tombs &#038; Balloon Rides</a></h4>
-                                        <ul class="blog-meta">
-                                            <li>18 Jun, 2026</li>
-                                                                                        <li>13 Min reads</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                                                    <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                                <div class="blog-card2 three">
-                                    <div class="blog-img-wrap">
-                                                                                    <a href="/nile-cruise-egypt-slow-travel-aswan-to-luxor/" class="blog-img">
-                                                <img loading="lazy" decoding="async" width="650" height="400" src="/assets/uploads/2026/06/Serene-Nile-cruise-at-sunset-650x400.png.webp" class="attachment-card-thumb size-card-thumb wp-post-image" alt="" />                                            </a>
-                                                                            </div>
-                                    <div class="blog-content">
-                                                                                                                            Destination Guides
-                                                                                <h4><a href="/nile-cruise-egypt-slow-travel-aswan-to-luxor/">Nile Cruise Egypt: Slow Travel from Aswan to Luxor</a></h4>
-                                        <ul class="blog-meta">
-                                            <li>17 Jun, 2026</li>
-                                                                                        <li>10 Min reads</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                                            </div>
-                                            <div class="row wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-                            <div class="col-lg-12 d-flex justify-content-center">
-                                <a href="#" class="primary-btn1 two three transparent">
-                                    <span>
-                                        View All Inspiration                                        <svg width="10" height="10" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
-                                            <path
-                                                d="M9.73535 1.14746C9.57033 1.97255 9.32924 3.26406 9.24902 4.66797C9.16817 6.08312 9.25559 7.5453 9.70214 8.73633C9.84754 9.12406 9.65129 9.55659 9.26367 9.70215C8.9001 9.83849 8.4969 9.67455 8.32812 9.33398L8.29785 9.26367L8.19921 8.98438C7.73487 7.5758 7.67054 5.98959 7.75097 4.58203C7.77875 4.09598 7.82525 3.62422 7.87988 3.17969L1.53027 9.53027C1.23738 9.82317 0.762615 9.82317 0.469722 9.53027C0.176829 9.23738 0.176829 8.76262 0.469722 8.46973L6.83593 2.10254C6.3319 2.16472 5.79596 2.21841 5.25 2.24902C3.8302 2.32862 2.2474 2.26906 0.958003 1.79102L0.704097 1.68945L0.635738 1.65527C0.303274 1.47099 0.157578 1.06102 0.310542 0.704102C0.463655 0.347333 0.860941 0.170391 1.22363 0.28418L1.29589 0.310547L1.48828 0.387695C2.47399 0.751207 3.79966 0.827571 5.16601 0.750977C6.60111 0.670504 7.97842 0.428235 8.86132 0.262695L9.95312 0.0585938L9.73535 1.14746Z" />
-                                        </svg>
-                                    </span>
-                                    <span>
-                                        View All Inspiration                                        <svg width="10" height="10" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
-                                            <path
-                                                d="M9.73535 1.14746C9.57033 1.97255 9.32924 3.26406 9.24902 4.66797C9.16817 6.08312 9.25559 7.5453 9.70214 8.73633C9.84754 9.12406 9.65129 9.55659 9.26367 9.70215C8.9001 9.83849 8.4969 9.67455 8.32812 9.33398L8.29785 9.26367L8.19921 8.98438C7.73487 7.5758 7.67054 5.98959 7.75097 4.58203C7.77875 4.09598 7.82525 3.62422 7.87988 3.17969L1.53027 9.53027C1.23738 9.82317 0.762615 9.82317 0.469722 9.53027C0.176829 9.23738 0.176829 8.76262 0.469722 8.46973L6.83593 2.10254C6.3319 2.16472 5.79596 2.21841 5.25 2.24902C3.8302 2.32862 2.2474 2.26906 0.958003 1.79102L0.704097 1.68945L0.635738 1.65527C0.303274 1.47099 0.157578 1.06102 0.310542 0.704102C0.463655 0.347333 0.860941 0.170391 1.22363 0.28418L1.29589 0.310547L1.48828 0.387695C2.47399 0.751207 3.79966 0.827571 5.16601 0.750977C6.60111 0.670504 7.97842 0.428235 8.86132 0.262695L9.95312 0.0585938L9.73535 1.14746Z" />
-                                        </svg>
-                                    </span>
-                                </a>
-                            </div>
-                        </div>
-                                    </div>
-            </div>
-        
-        
-        
-        
-        
-				</div>
-				</div>
-				</div>
-				</div>
-				<div data-elementor-type="wp-post" data-elementor-id="10296" class="elementor elementor-10296" data-elementor-post-type="footer-blocks">
+
+
+<link rel='stylesheet' href='/assets/css/shared/article.4b945d6ccd.css' type='text/css' media='all' />
+
+<section class="avp-page">
+  <header class="avp-head">
+    <nav class="avp-crumb"><a href="/">Home</a><span>›</span><a href="/blog/">Blog</a><span>›</span><a href="/blog/">Destination Guides</a></nav>
+    <div class="avp-badge"><i class="fas fa-folder-open"></i> Destination Guides</div>
+    <h1>Abu Simbel Sun Festival 2026: Dates &amp; How to See It</h1>
+    <div class="avp-meta">
+      <span><i class="fas fa-calendar"></i> 16 September 2026</span>
+      <span><i class="fas fa-clock"></i> 6 min read</span>
+    </div>
+  </header>
+  <figure class="avp-figure"><img width="2048" height="1536" decoding="async" src="/assets/uploads/2026/05/Discover-The-Great-Abu-Simbel-Temples.jpg.webp" alt="Abu Simbel Sun Festival 2026: Dates &amp; How to See It"></figure>
+<article class="avp-body"><p>Twice a year, the sunrise lines up perfectly with the entrance of the Great Temple at Abu Simbel, sending light deep inside to the statues in its inner sanctuary. The next date is <strong>October 22, 2026</strong>. Here's what the Sun Festival is, why it happens, and how to plan the trip down from Aswan.</p>
+
+
+
+<h2 class="wp-block-heading">What Is the Abu Simbel Sun Festival?</h2>
+
+
+
+<p class="avp-answer">The Sun Festival marks two mornings a year, around February 22 and October 22, when the first rays of sunrise travel through the entrance of the Great Temple and light up the statues of Ramses II, Amun-Ra and Ra-Horakhty in the inner sanctuary. Only the statue of Ptah, a god linked with the underworld, stays in shadow.</p>
+
+
+
+<p>Ramses II had the temple cut into the sandstone cliff in the 13th century BC, and its orientation was planned so the sun would reach that far inside on these two mornings only. When the temples were moved to save them from Lake Nasser in the 1960s, the international engineering team rebuilding them made sure the alignment still works today.</p>
+
+
+
+<h2 class="wp-block-heading">When Is the Next Sun Festival?</h2>
+
+
+
+<p class="avp-answer">The Sun Festival happens twice a year at Abu Simbel: around February 22 and October 22. The next date is <strong>October 22, 2026</strong>. Because the alignment depends on sunrise, visitors need to already be inside the temple at dawn, which means leaving Aswan hours earlier than a normal day trip.</p>
+
+
+
+<h2 class="wp-block-heading">How Do You Get to Abu Simbel From Aswan?</h2>
+
+
+
+<p class="avp-answer">Abu Simbel sits about 280 km south of Aswan, a three to three-and-a-half hour drive through the desert on a well-maintained road. Regular day tours leave Aswan around 4:00 am to beat the heat and the crowds; for the Sun Festival, an even earlier private departure is needed to be inside the temple before sunrise.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Distance:</strong> about 280 km each way from Aswan.</li>
+
+
+
+<li><strong>Drive time:</strong> roughly 3 to 3.5 hours through the desert.</li>
+
+
+
+<li><strong>Normal departure:</strong> around 4:00 am for a standard day trip.</li>
+
+
+
+<li><strong>Festival-day departure:</strong> earlier still, arranged privately so you're seated before sunrise.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">What Should You Book for the Sun Festival?</h2>
+
+
+
+<p class="avp-answer">Our <a href="/tours/abu-simbel-temples-private-tour/">private Abu Simbel day tour from Aswan</a> covers entry fees, a professional guide and private transport, from $100 per person by car or $90 by minivan, with the departure time adjusted so you reach the temple before sunrise. Because Sun Festival mornings draw large crowds, book a private departure well ahead of October 22.</p>
+
+
+
+<h2 class="wp-block-heading">Can You Combine the Sun Festival With a Nile Cruise?</h2>
+
+
+
+<p class="avp-answer">Yes. Cruises that already include Abu Simbel, like the <a href="/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/">3-night cruise from Aswan</a> or the <a href="/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/">4-night cruise from Luxor</a>, can be timed around October 22 so the temple visit falls on the festival morning. Ask when booking so the itinerary lines up with the date.</p>
+
+
+
+<h3 class="wp-block-heading">Tips for Sun Festival Day</h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Go private, not shared:</strong> a private car or minivan lets you set the early departure time a shared bus can't.</li>
+
+
+
+<li><strong>Dress for a cold desert morning:</strong> pre-dawn temperatures drop well below the daytime heat, even in October.</li>
+
+
+
+<li><strong>Bring water and snacks:</strong> lunch isn't included by default, though a lunch box can be added when booking.</li>
+
+
+
+<li><strong>Arrive with time to spare:</strong> festival mornings are busier than a normal visit, so give yourself a buffer before sunrise.</li>
+</ul>
+
+
+
+<p>Abu Simbel is usually paired with more time in the south. Read our <a href="/blog/aswan-egypt-guide-temples-nubian-villages-sunsets/">Aswan guide</a> for the rest of the city's temples and felucca sunsets, or our tips for <a href="/blog/nubian-village-tour-aswan-nightlife-music-hospitality/">visiting a Nubian village</a> while you're in the area.</p>
+
+
+
+<h2 class="wp-block-heading">FAQs About the Abu Simbel Sun Festival</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>When exactly is the Abu Simbel Sun Festival in 2026?</strong><br><br>The alignment happens twice a year, and the next date is October 22, 2026. The same event repeats around February 22 each year.</li>
+
+
+
+<li><strong>Why does only one statue stay in the dark?</strong><br><br>The Great Temple's inner sanctuary holds four seated statues: Ramses II, Amun-Ra, Ra-Horakhty and Ptah. Only Ptah, a god linked with the underworld, was positioned so sunlight never reaches him.</li>
+
+
+
+<li><strong>How early do you need to leave Aswan?</strong><br><br>A standard day trip leaves around 4:00 am; for the Sun Festival, an earlier private departure is recommended so you're inside the temple before sunrise, since the site is busier that morning.</li>
+
+
+
+<li><strong>What's included in a private Abu Simbel tour?</strong><br><br>Entry fees, a private air-conditioned vehicle and an Egyptologist guide are included; a lunch box is optional and can be added when booking.</li>
+
+
+
+<li><strong>Is Abu Simbel worth visiting outside the festival dates?</strong><br><br>Yes. The temples are open year-round and just as impressive without the festival crowds, and October to April is generally the most comfortable season to visit.</li>
+</ul>
+
+
+
+<p>Whether you time your trip for October 22 or visit on any other day, Abu Simbel is one of the most striking sights in southern Egypt. Plan the early start, book a private departure, and the temple will be waiting in the desert light.</p></article>
+
+  <div class="avp-related" style="background:#F4F8FC;margin-top:56px;padding:56px 20px 30px"><div class="avp-related-inner">
+    <h2>You May Also Like</h2>
+    <p class="sub">More guides and tips for your Egypt trip</p>
+    <div class="avp-rel-grid">
+      <a class="avp-rel-card" href="/blog/aswan-egypt-guide-temples-nubian-villages-sunsets/">
+        <div class="avp-rel-img"><span>Destination Guides</span><img width="1448" height="1086" loading="lazy" decoding="async" src="/assets/uploads/2026/06/Aswan-Egypt-guide.png.webp" alt="Aswan Egypt Guide: Discover Temples, Nubian Culture &amp; Sunsets" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-body">
+          <h3>Aswan Egypt Guide: Discover Temples, Nubian Culture &amp; Sunsets</h3>
+          <div class="avp-rel-meta">Read Article <small>19 June 2026 · 6 min</small></div>
+        </div>
+      </a>
+      <a class="avp-rel-card" href="/blog/nubian-village-tour-aswan-nightlife-music-hospitality/">
+        <div class="avp-rel-img"><span>Uncategorized</span><img width="1536" height="864" loading="lazy" decoding="async" src="/assets/uploads/2025/09/Nubian-Culture-Nile-Beauty-1536x864.png.webp" alt="Nubian Village Tour Aswan: Experience Nile Magic &amp; Nightlife" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-body">
+          <h3>Nubian Village Tour Aswan: Experience Nile Magic &amp; Nightlife</h3>
+          <div class="avp-rel-meta">Read Article <small>5 July 2026 · 6 min</small></div>
+        </div>
+      </a>
+      <a class="avp-rel-card" href="/blog/nile-cruise-egypt-slow-travel-aswan-to-luxor/">
+        <div class="avp-rel-img"><span>Destination Guides</span><img width="1448" height="1086" loading="lazy" decoding="async" src="/assets/uploads/2026/06/Serene-Nile-cruise-at-sunset.png.webp" alt="Nile Cruise Egypt: Slow Travel from Aswan to Luxor" onerror="this.style.display='none'"></div>
+        <div class="avp-rel-body">
+          <h3>Nile Cruise Egypt: Slow Travel from Aswan to Luxor</h3>
+          <div class="avp-rel-meta">Read Article <small>17 June 2026 · 5 min</small></div>
+        </div>
+      </a>
+    </div>
+  </div></div>
+</section>
+
+<div data-elementor-type="wp-post" data-elementor-id="10296" class="elementor elementor-10296" data-elementor-post-type="footer-blocks">
 				<div class="elementor-element elementor-element-8267d4c e-con-full e-flex e-con e-parent" data-id="8267d4c" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-d3033ba elementor-widget elementor-widget-html" data-id="d3033ba" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
 					<!--
@@ -869,7 +764,19 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 			document.body.className = c;
 		})();
 	</script>
-	<link rel='stylesheet' id='elementor-post-10296-css' href='/assets/uploads/elementor/css/post-10296.css?ver=1788475172' type='text/css' media='all' />
+	<link rel='stylesheet' id='elementor-frontend-css' href='/assets/plugins/elementor/assets/css/frontend.min.css?ver=4.1.4' type='text/css' media='all' />
+<style id='elementor-frontend-inline-css' type='text/css'>
+.e-heading-base a, .e-paragraph-base a { all: unset; cursor: pointer; }form[data-element_type="e-form"].form-state-success [data-element_type="e-form-success-message"],form[data-element_type="e-form"].form-state-error [data-element_type="e-form-error-message"]{ display: block; }
+.e-form-textarea-base:not([data-resizable]) { resize: none; } .e-form-submit-button-base { cursor: pointer; box-sizing: border-box; }
+/*# sourceURL=elementor-frontend-inline-css */
+</style>
+<link rel='stylesheet' id='elementor-post-10296-css' href='/assets/uploads/elementor/css/post-10296.css?ver=1788475172' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-blocks-library-css' href='/assets/core/css/dist/block-library/style.min.css?ver=6.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='gofly-widgets-css' href='/assets/themes/gofly-main/assets/css/el-widgets.css?ver=1778267218' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-7-css' href='/assets/uploads/elementor/css/post-7.css?ver=1788475172' type='text/css' media='all' />
+<link rel='stylesheet' id='base-desktop-css' href='/assets/uploads/elementor/css/base-desktop.css?ver=6a99f724c5e58' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-roboto-css' href='https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-robotoslab-css' href='https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap' type='text/css' media='all' />
 <script type="text/javascript" src="/assets/core/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
 <script type="text/javascript" src="/assets/core/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
 <script type="text/javascript" id="wp-i18n-js-after">
@@ -881,16 +788,7 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 <script type="text/javascript" src="/assets/themes/gofly-main/assets/js/bootstrap.min.js?ver=1778267218" id="bootstrap-js"></script>
 <script type="text/javascript" src="/assets/themes/gofly-main/assets/js/popper.min.js?ver=1778267218" id="popper-js"></script>
 <script type="text/javascript" src="/assets/js/avicon-site.js?ver=1" id="avicon-site-js"></script>
-<script type="text/javascript" src="/assets/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.4" id="elementor-webpack-runtime-js"></script>
-<script type="text/javascript" src="/assets/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.4" id="elementor-frontend-modules-js"></script>
-<script type="text/javascript" src="/assets/core/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
-<script type="text/javascript" id="elementor-frontend-js-before">
-/* <![CDATA[ */
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.1.4","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_optimized_markup":true,"e_panel_promotions":true,"theme_builder_v2":true,"e_pro_free_trial_popup":true,"nested-elements":true,"e_atomic_elements":true,"atomic_widgets_should_enforce_capabilities":true,"editor_mcp":true,"e_bc_migrations":true,"e_editor_design_system_panel":true,"e_classes":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_variables_manager":true,"e_opt_in_v4_page":true,"e_opt_in_v4":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true,"e_pro_atomic_form":true,"mega-menu":true,"e_pro_variables":true,"e_pro_interactions":true},"urls":{"assets":"\/assets\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/avicontravel.com\/wp-admin\/admin-ajax.php","uploadUrl":"\/assets\/uploads"},"nonces":{"floatingButtonsClickTracking":"c84778e645","atomicFormsSendForm":"00e1a55906"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[]},"post":{"id":2819,"title":"Blog%20-%20Avicon%20Travel","excerpt":"","featuredImage":false}};
-//# sourceURL=elementor-frontend-js-before
-/* ]]> */
-</script>
-<script type="text/javascript" src="/assets/plugins/elementor/assets/js/frontend.min.js?ver=4.1.4" id="elementor-frontend-js"></script>
+<script type="text/javascript" src="/assets/core/js/comment-reply.min.js?ver=6.9.7" id="comment-reply-js" async="async" data-wp-strategy="async" fetchpriority="low"></script>
 <script type="text/javascript" id="cmplz-cookiebanner-js-extra">
 /* <![CDATA[ */
 var complianz = {"prefix":"cmplz_","debug":"","user_banner_id":"1","set_cookies":[],"block_ajax_content":"1","banner_version":"33","version":"7.5.2","store_consent":"","do_not_track_enabled":"1","consenttype":"optin","region":"eu","geoip":"","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"/wp-json/complianz/v1/","locale":"lang=en&locale=en_US","set_cookies_on_root":"0","cookie_domain":"","current_policy_id":"36","cookie_path":"/","categories":{"statistics":"statistics","marketing":"marketing"},"tcf_active":"","placeholdertext":"Click to accept {category} cookies and enable this content","css_file":"/assets/uploads/complianz/css/banner-{banner_id}-{type}.css?v=33","page_links":{"eu":{"cookie-statement":{"title":"Cookie Policy ","url":"/cookie-policy-eu/"}}},"tm_categories":"","forceEnableStats":"","preview":"","clean_cookies":"","aria_label":"Click to accept {category} cookies and enable this content","iapi_nav":"fallback"};
@@ -1006,12 +904,14 @@ var complianz = {"prefix":"cmplz_","debug":"","user_banner_id":"1","set_cookies"
 //# sourceURL=cmplz-cookiebanner-js-after
 /* ]]> */
 </script>
-<script type="text/javascript" id="gt_widget_script_59033320-js-before">
+<script type="text/javascript" id="gt_widget_script_63151039-js-before">
 /* <![CDATA[ */
-window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['59033320'] = {"default_language":"en","languages":["zh-CN","nl","en","fr","de","it","pt","ru","es"],"url_structure":"none","detect_browser_language":1,"flag_style":"2d","flag_size":32,"wrapper_selector":"#gt-wrapper-59033320","alt_flags":[],"custom_css":".gtranslate_wrapper {\r\n    margin-top: 10px;\r\n}","horizontal_position":"inline","flags_location":"\/assets\/plugins\/gtranslate\/flags\/"};
-//# sourceURL=gt_widget_script_59033320-js-before
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['63151039'] = {"default_language":"en","languages":["zh-CN","nl","en","fr","de","it","pt","ru","es"],"url_structure":"none","detect_browser_language":1,"flag_style":"2d","flag_size":32,"wrapper_selector":"#gt-wrapper-63151039","alt_flags":[],"custom_css":".gtranslate_wrapper {\r\n    margin-top: 10px;\r\n}","horizontal_position":"inline","flags_location":"\/assets\/plugins\/gtranslate\/flags\/"};
+//# sourceURL=gt_widget_script_63151039-js-before
 /* ]]> */
-</script><script src="/assets/plugins/gtranslate/js/popup.js?ver=3.1.1" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/blog/" data-gt-orig-domain="avicontravel.com" data-gt-widget-id="59033320" defer></script><script type="text/javascript" src="/assets/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=4.1.0" id="elementor-pro-webpack-runtime-js"></script>
+</script><script src="/assets/plugins/gtranslate/js/popup.js?ver=3.1.1" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/blog/abu-simbel-sun-festival-2026/" data-gt-orig-domain="avicontravel.com" data-gt-widget-id="63151039" defer></script><script type="text/javascript" src="/assets/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=4.1.0" id="elementor-pro-webpack-runtime-js"></script>
+<script type="text/javascript" src="/assets/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.4" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="/assets/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.4" id="elementor-frontend-modules-js"></script>
 <script type="text/javascript" id="elementor-pro-frontend-js-before">
 /* <![CDATA[ */
 var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/avicontravel.com\/wp-admin\/admin-ajax.php","nonce":"6a2abf3796","urls":{"assets":"\/assets\/plugins\/pro-elements\/assets\/","rest":"https:\/\/avicontravel.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/avicontravel.com\/cart\/","checkout_page_url":"https:\/\/avicontravel.com\/checkout\/","fragments_nonce":"b1c2aa222b"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"\/assets\/plugins\/pro-elements\/modules\/lottie\/assets\/animations\/default.json"}};
@@ -1019,6 +919,14 @@ var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/avicontravel.com\/wp-admi
 /* ]]> */
 </script>
 <script type="text/javascript" src="/assets/plugins/pro-elements/assets/js/frontend.min.js?ver=4.1.0" id="elementor-pro-frontend-js"></script>
+<script type="text/javascript" src="/assets/core/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.1.4","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_optimized_markup":true,"e_panel_promotions":true,"theme_builder_v2":true,"e_pro_free_trial_popup":true,"nested-elements":true,"e_atomic_elements":true,"atomic_widgets_should_enforce_capabilities":true,"editor_mcp":true,"e_bc_migrations":true,"e_editor_design_system_panel":true,"e_classes":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_variables_manager":true,"e_opt_in_v4_page":true,"e_opt_in_v4":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true,"e_pro_atomic_form":true,"mega-menu":true,"e_pro_variables":true,"e_pro_interactions":true},"urls":{"assets":"\/assets\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/avicontravel.com\/wp-admin\/admin-ajax.php","uploadUrl":"\/assets\/uploads"},"nonces":{"floatingButtonsClickTracking":"c84778e645","atomicFormsSendForm":"00e1a55906"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[]},"post":{"id":11430,"title":"Aswan%20Egypt%20Guide%3A%20Discover%20Temples%2C%20Nubian%20Culture%20%26%20Sunsets","excerpt":"","featuredImage":"\/assets\/uploads\/2026\/06\/Aswan-Egypt-guide-1024x768.png"}};
+//# sourceURL=elementor-frontend-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="/assets/plugins/elementor/assets/js/frontend.min.js?ver=4.1.4" id="elementor-frontend-js"></script>
 <script type="text/javascript" src="/assets/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=4.1.0" id="pro-elements-handlers-js"></script>
 <!-- Statistics script Complianz GDPR/CCPA -->
 							<?php include $_SERVER['DOCUMENT_ROOT'].'/includes/wa-button.php'; ?>

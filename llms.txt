@@ -50,6 +50,7 @@ All: https://avicontravel.com/tours/
 
 ## Travel guides
 
+- [Abu Simbel Sun Festival 2026: Dates & How to See It](https://avicontravel.com/blog/abu-simbel-sun-festival-2026/): The Abu Simbel Sun Festival lights the temple's inner sanctuary on October 22, 2026. Here's how it works and how to plan the trip from Aswan.
 - [Aswan Egypt Guide: Discover Temples, Nubian Culture & Sunsets](https://avicontravel.com/blog/aswan-egypt-guide-temples-nubian-villages-sunsets/): Uncover Aswan's top attractions: Philae Temple, Nubian villages, felucca rides and magical Nile sunsets. Your dream Egypt journey starts here.
 - [Cairo Travel Guide: Explore Pyramids, Bazaars & Museums](https://avicontravel.com/blog/cairo-travel-guide-pyramids-museums-bazaars/): Uncover Cairo’s magic! Visit the Pyramids, ancient museums, and vibrant bazaars with our complete Cairo travel guide for foreign tourists.
 - [Egypt Packing Light: Essential Guide for Tourists](https://avicontravel.com/blog/egypt-packing-light-essential-guide/): Discover what to pack for Egypt. Expert packing tips for Cairo, Luxor, Aswan, and the Red Sea—travel light and enjoy your adventure!
@@ -62,7 +63,6 @@ All: https://avicontravel.com/tours/
 - [Nubian Village Tour Aswan: Experience Nile Magic & Nightlife](https://avicontravel.com/blog/nubian-village-tour-aswan-nightlife-music-hospitality/): Discover Nubian culture in Aswan. Enjoy vibrant nightlife, live music, and legendary Nile hospitality on an unforgettable village tour.
 - [Red Sea Egypt Resorts: Dream Holidays in Hurghada & Sharm](https://avicontravel.com/blog/red-sea-egypt-resorts-hurghada-vs-sharm-guide/): Discover the best Red Sea Egypt resorts. Compare Hurghada and Sharm el-Sheikh for your unforgettable vacation. Find your perfect getaway today!
 - [Siwa Oasis Egypt: Hidden Gems & Adventures Await](https://avicontravel.com/blog/siwa-oasis-egypt-hidden-gems-adventures/): Discover Egypt’s secret escapes—Siwa Oasis, Bahariya, and Fayoum. Unforgettable adventures for foreign travelers exploring Egypt.
-
 ## Company
 - [About Avicon Travel](https://avicontravel.com/about/)
 - [Contact](https://avicontravel.com/contact/)

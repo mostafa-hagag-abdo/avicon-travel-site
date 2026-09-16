@@ -1,0 +1,1 @@
+<?php header('Location: /blog/abu-simbel-sun-festival-2026/', true, 301); exit;
