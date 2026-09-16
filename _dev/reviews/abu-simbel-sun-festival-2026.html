@@ -1,0 +1,347 @@
+<!doctype html>
+<title>مراجعة مقال تعامد الشمس</title>
+<style>
+  :root{
+    --bg:#f6f4ef;
+    --surface:#ffffff;
+    --surface-2:#efece3;
+    --border:#ded8c8;
+    --text:#26221c;
+    --text-muted:#6b6355;
+    --accent:#b6791f;
+    --accent-2:#274b52;
+    --en-bg:#fbfaf6;
+    --en-border:#d8cfb8;
+    --tag-bg:#ede2c8;
+    --tag-text:#7a5411;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#191510;
+      --surface:#221d16;
+      --surface-2:#2a241b;
+      --border:#3a3226;
+      --text:#f1ece0;
+      --text-muted:#a89e8a;
+      --accent:#e0a94c;
+      --accent-2:#7fb8c2;
+      --en-bg:#1e1a13;
+      --en-border:#41392a;
+      --tag-bg:#3a2f18;
+      --tag-text:#e8c887;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#191510;
+    --surface:#221d16;
+    --surface-2:#2a241b;
+    --border:#3a3226;
+    --text:#f1ece0;
+    --text-muted:#a89e8a;
+    --accent:#e0a94c;
+    --accent-2:#7fb8c2;
+    --en-bg:#1e1a13;
+    --en-border:#41392a;
+    --tag-bg:#3a2f18;
+    --tag-text:#e8c887;
+  }
+
+  * { box-sizing:border-box; }
+  html,body{ margin:0; }
+  body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:"IBM Plex Sans Arabic","IBM Plex Sans",sans-serif;
+    direction:rtl;
+    padding:0 16px;
+    padding-block:28px;
+    line-height:1.75;
+  }
+  .wrap{ max-width:760px; margin:0 auto; }
+
+  header.top{
+    display:flex; flex-direction:column; gap:10px;
+    padding-bottom:22px; margin-bottom:26px;
+    border-bottom:2px solid var(--accent);
+  }
+  .eyebrow{
+    font-size:13px; color:var(--accent); font-weight:600;
+    letter-spacing:.02em;
+  }
+  h1{
+    font-size:26px; margin:0; font-weight:700;
+    text-wrap:balance;
+  }
+  .meta-row{
+    display:flex; flex-wrap:wrap; gap:8px 18px;
+    font-size:13px; color:var(--text-muted);
+  }
+  .meta-row b{ color:var(--text); font-weight:600; }
+
+  .info-box{
+    background:var(--surface-2);
+    border:1px solid var(--border);
+    border-radius:10px;
+    padding:16px 18px;
+    margin-bottom:28px;
+    font-size:14.5px;
+  }
+  .info-box h2{
+    font-size:15px; margin:0 0 10px; color:var(--accent-2);
+  }
+  .info-box ul{ margin:0; padding-inline-start:20px; }
+  .info-box li{ margin-bottom:6px; }
+  .info-box li:last-child{ margin-bottom:0; }
+
+  section{ margin-bottom:30px; }
+  .sec-head{
+    display:flex; align-items:baseline; gap:10px;
+    margin-bottom:12px;
+  }
+  .num{
+    font-family:"IBM Plex Sans",sans-serif;
+    font-variant-numeric:tabular-nums;
+    background:var(--accent);
+    color:#241a08;
+    font-weight:700;
+    font-size:13px;
+    border-radius:6px;
+    padding:2px 8px;
+    flex-shrink:0;
+  }
+  .sec-title{ font-size:17px; font-weight:700; }
+  .ar-note{
+    font-size:14.5px; color:var(--text-muted); margin:0 0 10px;
+  }
+
+  .en-block{
+    background:var(--en-bg);
+    border:1px solid var(--en-border);
+    border-inline-start:4px solid var(--accent);
+    border-radius:8px;
+    padding:14px 16px;
+    margin-bottom:6px;
+  }
+  .en-block, .en-block *{
+    direction:ltr; text-align:left;
+    font-family:"IBM Plex Sans",sans-serif;
+    color:var(--text);
+    font-size:14.5px;
+    line-height:1.65;
+  }
+  .en-block p{ margin:0 0 10px; }
+  .en-block p:last-child{ margin-bottom:0; }
+  .en-block strong{ font-weight:700; }
+  .en-block a{ color:var(--accent-2); }
+  .en-block ul{ margin:0 0 10px; padding-left:20px; }
+  .en-block li{ margin-bottom:6px; }
+  .en-sub{
+    font-size:12.5px; font-weight:700; letter-spacing:.02em;
+    color:var(--text-muted); text-transform:uppercase;
+    margin-bottom:6px;
+  }
+  .wc{
+    display:inline-flex; align-items:center; gap:4px;
+    font-size:12px; color:var(--tag-text);
+    background:var(--tag-bg);
+    border-radius:5px; padding:2px 8px; margin-top:6px;
+  }
+
+  .sub-item{ margin-bottom:18px; }
+  .sub-item:last-child{ margin-bottom:0; }
+  .sub-num{
+    font-size:12.5px; font-weight:700; color:var(--accent-2);
+    margin-bottom:4px; display:block;
+  }
+
+  .divider{ border:none; border-top:1px solid var(--border); margin:30px 0; }
+
+  .confirm-box{
+    background:var(--surface);
+    border:1.5px dashed var(--accent);
+    border-radius:10px;
+    padding:16px 18px;
+    margin:30px 0;
+    font-size:14.5px;
+  }
+  .confirm-box h2{
+    font-size:15px; margin:0 0 8px; color:var(--accent);
+  }
+
+  footer.reply{
+    background:var(--surface-2);
+    border-radius:10px;
+    padding:18px;
+    font-size:14.5px;
+    margin-top:10px;
+  }
+  footer.reply h2{ font-size:15px; margin:0 0 8px; }
+  footer.reply code{
+    background:var(--surface);
+    border:1px solid var(--border);
+    border-radius:5px;
+    padding:1px 6px;
+    font-family:"IBM Plex Sans",monospace;
+    direction:ltr; display:inline-block;
+  }
+
+  @media (max-width:480px){
+    h1{ font-size:22px; }
+  }
+</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<div class="wrap">
+
+  <header class="top">
+    <div class="eyebrow">مراجعة محتوى · بند 2026-09-16 من جدول الشغل اليومي</div>
+    <h1>مقال: تعامد الشمس على أبو سمبل — 22 أكتوبر 2026</h1>
+    <div class="meta-row">
+      <span><b>الرابط بعد النشر:</b> /blog/abu-simbel-sun-festival-2026/</span>
+      <span><b>عدد الكلمات:</b> ~805 كلمة</span>
+      <span><b>وقت القراءة:</b> 6 دقايق</span>
+      <span><b>لازم ينزل قبل:</b> 1 أكتوبر 2026</span>
+    </div>
+  </header>
+
+  <div class="info-box">
+    <h2>ملخص سريع</h2>
+    <ul>
+      <li>مقال جديد بيشرح تعامد الشمس على معبد أبو سمبل، وبيربط بصفحة رحلة أبو سمبل وبكروزات النيل اللي بتزور أبو سمبل.</li>
+      <li>كل الأرقام والحقايق (المسافة 280 كم، السعر من 100$/90$، تاريخ 22 فبراير و22 أكتوبر) مسحوبة من صفحة رحلة أبو سمبل الموجودة على الموقع بالفعل — مفيش أي رقم جديد أو متأكد منه.</li>
+      <li>المقال لسه مسودة في <code style="direction:ltr;display:inline-block">_dev/</code> بس، ومش هينزل على الموقع غير بعد موافقتك.</li>
+    </ul>
+  </div>
+
+  <section>
+    <div class="sec-head"><span class="num">1</span><span class="sec-title">العنوان والوصف اللي هيظهر في نتايج البحث</span></div>
+    <div class="sub-item">
+      <span class="sub-num">1.1 — العنوان (Title)</span>
+      <div class="en-block"><p>Abu Simbel Sun Festival 2026: Dates &amp; How to See It</p></div>
+      <span class="wc">51 حرف</span>
+    </div>
+    <div class="sub-item">
+      <span class="sub-num">1.2 — الوصف (Meta Description)</span>
+      <div class="en-block"><p>The Abu Simbel Sun Festival lights the temple's inner sanctuary on October 22, 2026. Here's how it works and how to plan the trip from Aswan.</p></div>
+      <span class="wc">141 حرف</span>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="num">2</span><span class="sec-title">المقدمة</span></div>
+    <p class="ar-note">أول فقرة في المقال، قبل أي عنوان فرعي.</p>
+    <div class="en-block">
+      <p>Twice a year, the sunrise lines up perfectly with the entrance of the Great Temple at Abu Simbel, sending light deep inside to the statues in its inner sanctuary. The next date is <strong>October 22, 2026</strong>. Here's what the Sun Festival is, why it happens, and how to plan the trip down from Aswan.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="num">3</span><span class="sec-title">أقسام المقال الرئيسية (سؤال وإجابة مباشرة تحته)</span></div>
+    <p class="ar-note">كل عنوان مكتوب كسؤال بيدور عليه الزوار، وتحته إجابة مباشرة من 40 لـ60 كلمة — أسلوب AEO المتفق عليه.</p>
+
+    <div class="sub-item">
+      <span class="sub-num">3.1 — What Is the Abu Simbel Sun Festival?</span>
+      <div class="en-block">
+        <p>The Sun Festival marks two mornings a year, around February 22 and October 22, when the first rays of sunrise travel through the entrance of the Great Temple and light up the statues of Ramses II, Amun-Ra and Ra-Horakhty in the inner sanctuary. Only the statue of Ptah, a god linked with the underworld, stays in shadow.</p>
+      </div>
+      <span class="wc">57 كلمة</span>
+    </div>
+
+    <div class="sub-item">
+      <span class="sub-num">3.2 — When Is the Next Sun Festival?</span>
+      <div class="en-block">
+        <p>The Sun Festival happens twice a year at Abu Simbel: around February 22 and October 22. The next date is <strong>October 22, 2026</strong>. Because the alignment depends on sunrise, visitors need to already be inside the temple at dawn, which means leaving Aswan hours earlier than a normal day trip.</p>
+      </div>
+      <span class="wc">51 كلمة</span>
+    </div>
+
+    <div class="sub-item">
+      <span class="sub-num">3.3 — How Do You Get to Abu Simbel From Aswan?</span>
+      <div class="en-block">
+        <p>Abu Simbel sits about 280 km south of Aswan, a three to three-and-a-half hour drive through the desert on a well-maintained road. Regular day tours leave Aswan around 4:00 am to beat the heat and the crowds; for the Sun Festival, an even earlier private departure is needed to be inside the temple before sunrise.</p>
+      </div>
+      <span class="wc">55 كلمة</span>
+    </div>
+
+    <div class="sub-item">
+      <span class="sub-num">3.4 — What Should You Book for the Sun Festival?</span>
+      <p class="ar-note" style="margin-bottom:6px">فيها لينك لصفحة رحلة أبو سمبل.</p>
+      <div class="en-block">
+        <p>Our <a href="#">private Abu Simbel day tour from Aswan</a> covers entry fees, a professional guide and private transport, from $100 per person by car or $90 by minivan, with the departure time adjusted so you reach the temple before sunrise. Because Sun Festival mornings draw large crowds, book a private departure well ahead of October 22.</p>
+      </div>
+      <span class="wc">55 كلمة · لينك لـ /tours/abu-simbel-temples-private-tour/</span>
+    </div>
+
+    <div class="sub-item">
+      <span class="sub-num">3.5 — Can You Combine the Sun Festival With a Nile Cruise?</span>
+      <p class="ar-note" style="margin-bottom:6px">فيها لينكات لكروزين بيزوروا أبو سمبل.</p>
+      <div class="en-block">
+        <p>Yes. Cruises that already include Abu Simbel, like the <a href="#">3-night cruise from Aswan</a> or the <a href="#">4-night cruise from Luxor</a>, can be timed around October 22 so the temple visit falls on the festival morning. Ask when booking so the itinerary lines up with the date.</p>
+      </div>
+      <span class="wc">46 كلمة · لينكات لكروزات أبو سمبل من أسوان والأقصر</span>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="num">4</span><span class="sec-title">نصايح يوم التعامد + روابط للمقالات التانية</span></div>
+    <div class="en-block">
+      <div class="en-sub">Tips for Sun Festival Day</div>
+      <ul>
+        <li><strong>Go private, not shared:</strong> a private car or minivan lets you set the early departure time a shared bus can't.</li>
+        <li><strong>Dress for a cold desert morning:</strong> pre-dawn temperatures drop well below the daytime heat, even in October.</li>
+        <li><strong>Bring water and snacks:</strong> lunch isn't included by default, though a lunch box can be added when booking.</li>
+        <li><strong>Arrive with time to spare:</strong> festival mornings are busier than a normal visit, so give yourself a buffer before sunrise.</li>
+      </ul>
+      <p>Abu Simbel is usually paired with more time in the south. Read our <a href="#">Aswan guide</a> for the rest of the city's temples and felucca sunsets, or our tips for <a href="#">visiting a Nubian village</a> while you're in the area.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="num">5</span><span class="sec-title">الأسئلة الشائعة (FAQ)</span></div>
+    <p class="ar-note">هتتحول تلقائيًا لـ FAQ schema بعد الموافقة بأداة schema_blog_faq.py.</p>
+
+    <div class="sub-item">
+      <span class="sub-num">5.1</span>
+      <div class="en-block"><p><strong>When exactly is the Abu Simbel Sun Festival in 2026?</strong><br>The alignment happens twice a year, and the next date is October 22, 2026. The same event repeats around February 22 each year.</p></div>
+    </div>
+    <div class="sub-item">
+      <span class="sub-num">5.2</span>
+      <div class="en-block"><p><strong>Why does only one statue stay in the dark?</strong><br>The Great Temple's inner sanctuary holds four seated statues: Ramses II, Amun-Ra, Ra-Horakhty and Ptah. Only Ptah, a god linked with the underworld, was positioned so sunlight never reaches him.</p></div>
+    </div>
+    <div class="sub-item">
+      <span class="sub-num">5.3</span>
+      <div class="en-block"><p><strong>How early do you need to leave Aswan?</strong><br>A standard day trip leaves around 4:00 am; for the Sun Festival, an earlier private departure is recommended so you're inside the temple before sunrise, since the site is busier that morning.</p></div>
+    </div>
+    <div class="sub-item">
+      <span class="sub-num">5.4</span>
+      <div class="en-block"><p><strong>What's included in a private Abu Simbel tour?</strong><br>Entry fees, a private air-conditioned vehicle and an Egyptologist guide are included; a lunch box is optional and can be added when booking.</p></div>
+    </div>
+    <div class="sub-item">
+      <span class="sub-num">5.5</span>
+      <div class="en-block"><p><strong>Is Abu Simbel worth visiting outside the festival dates?</strong><br>Yes. The temples are open year-round and just as impressive without the festival crowds, and October to April is generally the most comfortable season to visit.</p></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="num">6</span><span class="sec-title">الخاتمة</span></div>
+    <div class="en-block">
+      <p>Whether you time your trip for October 22 or visit on any other day, Abu Simbel is one of the most striking sights in southern Egypt. Plan the early start, book a private departure, and the temple will be waiting in the desert light.</p>
+    </div>
+  </section>
+
+  <hr class="divider">
+
+  <div class="confirm-box">
+    <h2>حاجات محتاجة تأكيدك؟</h2>
+    <p style="margin:0">لأ — كل رقم وسعر وتاريخ في المقال ده متسحوب حرفيًا من صفحة "Abu Simbel Temples Private Tour" الموجودة على الموقع دلوقتي. مفيش حاجة محتاجة منك تأكيد عليها، غير موافقتك على النشر.</p>
+  </div>
+
+  <footer class="reply">
+    <h2>رد عليا إزاي</h2>
+    <p style="margin:0 0 8px">لو الكل تمام، ابعت كلمة <code>موافق</code> وهنشر المقال على طول، ونعمل له FAQ schema، ونفحص الموقع، ونعمل IndexNow.</p>
+    <p style="margin:0">لو عايز تعديل في حتة معينة، ابعت رقمها (مثلاً <code>3.4</code> أو <code>5.2</code>) وقول عايز تتغير إزاي.</p>
+  </footer>
+
+</div>
