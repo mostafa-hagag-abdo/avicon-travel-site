@@ -2,7 +2,7 @@
 
 Every form on avicontravel.com posts to one Supabase Edge Function: https://tdpsvcsniftrgnrdyhgi.supabase.co/functions/v1/smooth-worker (project `avicon-travel`, Frankfurt). The source is `functions/submit-request/index.ts`; Supabase auto-named the deployed function `smooth-worker`. The function:
 1. saves the request in `public.form_requests`,
-2. emails the team through Resend,
+2. emails the team through the Hostinger mailbox (SMTP),
 3. sends a WhatsApp message through the WhatsApp Cloud API.
 
 This replaced Web3Forms. See `functions/submit-request/index.ts` for the details.
@@ -26,9 +26,12 @@ Set these in Supabase → Edge Functions → Secrets. The owner enters them; the
 
 | Secret | Notes |
 |---|---|
-| `RESEND_API_KEY` | resend.com → API Keys (sending access) |
+| `SMTP_HOST` | `smtp.hostinger.com` |
+| `SMTP_PORT` | `465` (SSL). Supabase blocks outbound ports 25 and 587. |
+| `SMTP_USER` | The Hostinger mailbox, e.g. `info@avicontravel.com` |
+| `SMTP_PASS` | That mailbox's password (hPanel → Emails) |
 | `NOTIFY_EMAIL_TO` | Comma-separated recipients |
-| `NOTIFY_EMAIL_FROM` | Optional. Until avicontravel.com is verified in Resend, the default `onboarding@resend.dev` only delivers to the Resend account's own email address. |
+| `NOTIFY_EMAIL_FROM` | Optional. Default `"Avicon Website" <SMTP_USER>`; Hostinger only accepts the logged-in mailbox as the sender. |
 | `WHATSAPP_TOKEN`, `WHATSAPP_PHONE_NUMBER_ID` | Meta WhatsApp Cloud API (permanent system-user token) |
 | `WHATSAPP_TO` | Comma-separated team numbers with the country code, e.g. `201200555600` |
 | `WHATSAPP_TEMPLATE` | Name of the approved template below. Without it, a plain text message is sent, which only arrives within 24 hours of the team number messaging the business number. |
@@ -61,7 +64,7 @@ Sample values:
 - CORS limited to the site (plus `127.0.0.1:8099` for local previews).
 
 ## Local test
-`bash test_function.sh` (kept in the session scratchpad) runs the function with Deno against a mock of Supabase, Resend and WhatsApp.
+`bash test_function.sh` (kept in the session scratchpad) runs the function with Deno against mocks of Supabase, SMTP and WhatsApp.
 
 ## Reading requests
 Supabase → Table Editor → `form_requests`. Use `status` (new → contacted → booked/closed, or spam) and `notes` to track follow-up.

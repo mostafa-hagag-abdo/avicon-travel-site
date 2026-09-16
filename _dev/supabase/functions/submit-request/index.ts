@@ -1,18 +1,22 @@
 // Avicon Travel — public endpoint for every form on avicontravel.com.
-// Saves the request in public.form_requests, then notifies the team by email (Resend) and WhatsApp (Cloud API).
+// Saves the request in public.form_requests, then notifies the team by email (Hostinger SMTP) and WhatsApp (Cloud API).
 //
 // Deploy: Supabase → Edge Functions → function name "submit-request", with "Verify JWT" turned OFF (public form).
 // Accepts JSON, multipart or url-encoded bodies. A plain <form method="POST"> submit (a page navigation) is
 // answered with a redirect to /thank-you/; fetch() calls get JSON {success, message}, the shape the site's scripts expect.
 //
 // Secrets (Edge Functions → Secrets). SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY are provided automatically.
-//   Email:    RESEND_API_KEY, NOTIFY_EMAIL_TO (comma-separated), NOTIFY_EMAIL_FROM (optional,
-//             default "Avicon Website <onboarding@resend.dev>" — that sender only delivers to the Resend
-//             account's own address until avicontravel.com is verified in Resend).
+//   Email:    SMTP_HOST (smtp.hostinger.com), SMTP_PORT (465), SMTP_USER (the mailbox, e.g. info@avicontravel.com),
+//             SMTP_PASS (that mailbox's password), NOTIFY_EMAIL_TO (comma-separated),
+//             NOTIFY_EMAIL_FROM (optional, default "Avicon Website <SMTP_USER>"; Hostinger only accepts the
+//             logged-in mailbox as the sender). Use port 465 (SSL): Supabase blocks outbound ports 25 and 587.
 //   WhatsApp: WHATSAPP_TOKEN, WHATSAPP_PHONE_NUMBER_ID, WHATSAPP_TO (comma-separated, digits with country code),
 //             WHATSAPP_TEMPLATE (approved template name with 4 body variables, see README), WHATSAPP_TEMPLATE_LANG
 //             (default "en"), WHATSAPP_API_VERSION (default "v21.0").
 // A channel whose secrets are missing is skipped, so WhatsApp can be switched on later without redeploying.
+
+// @deno-types="npm:@types/nodemailer@6.4.17"
+import nodemailer from "npm:nodemailer@6.9.16";
 
 const SITE = "https://avicontravel.com";
 const ALLOWED_ORIGINS = new Set([SITE, "https://www.avicontravel.com", "http://127.0.0.1:8099", "http://localhost:8099"]);
@@ -34,7 +38,6 @@ const IGNORE = new Set(["access_key", "from_name", "redirect", "botcheck", "form
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
 const WHATSAPP_URL = "https://wa.me/201200555600";
 // Overridable only to point at a local mock while testing.
-const RESEND_ENDPOINT = () => env("RESEND_API_URL") || "https://api.resend.com/emails";
 const GRAPH_BASE = () => env("WHATSAPP_API_BASE") || "https://graph.facebook.com";
 
 const env = (key: string) => (Deno.env.get(key) ?? "").trim();
@@ -176,28 +179,39 @@ function summaryPairs(row: Row, id: number): [string, string][] {
 const esc = (s: string) =>
   s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" } as Record<string, string>)[c]);
 
+let mailer: ReturnType<typeof nodemailer.createTransport> | null = null;
+
 async function sendEmail(row: Row, id: number): Promise<void> {
-  const apiKey = env("RESEND_API_KEY");
+  const host = env("SMTP_HOST");
+  const user = env("SMTP_USER");
+  const pass = env("SMTP_PASS");
   const to = list("NOTIFY_EMAIL_TO");
-  if (!apiKey || !to.length) throw new Error("skipped: RESEND_API_KEY or NOTIFY_EMAIL_TO not set");
+  if (!host || !user || !pass || !to.length) throw new Error("skipped: SMTP_HOST, SMTP_USER, SMTP_PASS or NOTIFY_EMAIL_TO not set");
+  const port = Number(env("SMTP_PORT") || "465");
+  mailer ??= nodemailer.createTransport({
+    host,
+    port,
+    secure: env("SMTP_SECURE") ? env("SMTP_SECURE") === "true" : port === 465,
+    auth: { user, pass },
+    connectionTimeout: 15_000,
+    greetingTimeout: 15_000,
+    socketTimeout: 20_000,
+  });
   const label = LABELS[String(row.form_type)] ?? "Website request";
   const topic = row.tour_package ?? row.service ?? row.destination ?? row.subject ?? "";
-  const rows = summaryPairs(row, id).map(([k, v]) =>
+  const pairs = summaryPairs(row, id);
+  const rows = pairs.map(([k, v]) =>
     `<tr><th align="left" style="padding:6px 12px 6px 0;color:#56657d;vertical-align:top;white-space:nowrap">${esc(k)}</th>` +
     `<td style="padding:6px 0;white-space:pre-wrap">${esc(v)}</td></tr>`).join("");
-  const res = await fetch(RESEND_ENDPOINT(), {
-    method: "POST",
-    headers: { Authorization: `Bearer ${apiKey}`, "Content-Type": "application/json" },
-    body: JSON.stringify({
-      from: env("NOTIFY_EMAIL_FROM") || "Avicon Website <onboarding@resend.dev>",
-      to,
-      subject: `${label}${topic ? `: ${topic}` : ""} — ${row.name}`,
-      reply_to: typeof row.email === "string" ? row.email : undefined,
-      html: `<div style="font-family:Arial,sans-serif;font-size:15px;color:#10233d"><h2 style="margin:0 0 12px">${esc(label)}</h2>` +
-        `<table cellspacing="0" cellpadding="0">${rows}</table></div>`,
-    }),
+  await mailer.sendMail({
+    from: env("NOTIFY_EMAIL_FROM") || `"Avicon Website" <${user}>`,
+    to,
+    replyTo: typeof row.email === "string" ? row.email : undefined,
+    subject: `${label}${topic ? `: ${topic}` : ""} — ${row.name}`,
+    text: pairs.map(([k, v]) => `${k}: ${v}`).join("\n"),
+    html: `<div style="font-family:Arial,sans-serif;font-size:15px;color:#10233d"><h2 style="margin:0 0 12px">${esc(label)}</h2>` +
+      `<table cellspacing="0" cellpadding="0">${rows}</table></div>`,
   });
-  if (!res.ok) throw new Error(`email ${res.status}: ${(await res.text()).slice(0, 200)}`);
 }
 
 // WhatsApp template parameters cannot contain new lines, tabs or more than 4 spaces in a row.
