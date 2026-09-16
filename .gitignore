@@ -9,3 +9,6 @@ desktop.ini
 # Python bytecode
 __pycache__/
 *.pyc
+
+# control panel local demo data
+admin/demo-data.json

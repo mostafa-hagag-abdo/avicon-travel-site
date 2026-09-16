@@ -1,0 +1,9 @@
+# Control panel: never indexed, always fresh.
+DirectoryIndex index.html
+<IfModule mod_headers.c>
+  Header set X-Robots-Tag "noindex, nofollow"
+  Header set Cache-Control "no-cache"
+</IfModule>
+<Files "demo-data.json">
+  Require all denied
+</Files>
