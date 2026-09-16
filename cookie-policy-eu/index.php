@@ -84,7 +84,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=woocommerce-inline-inline-css */
 </style>
 <link rel='stylesheet' id='cmplz-document-css' href='/assets/plugins/complianz-gdpr/assets/css/document.min.css?ver=1785795914' type='text/css' media='all' />
-<link rel='stylesheet' id='cmplz-general-css' href='/assets/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1785795914' type='text/css' media='all' />
 <link rel='stylesheet' id='egns-fonts-css' href='https://fonts.googleapis.com/css2?family=Courgette&#038;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&#038;family=Roboto:ital,wght@0,100..900;1,100..900&#038;display=swap' type='text/css' media='all' />
 <link rel='stylesheet' id='bootstrap-icons-css' href='/assets/themes/gofly-main/assets/css/bootstrap-icons.css?ver=1778267218' type='text/css' media='all' />
 <link rel='stylesheet' id='bootstrap-css' href='/assets/themes/gofly-main/assets/css/bootstrap.min.css?ver=1778267218' type='text/css' media='all' />
@@ -92,7 +91,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel='stylesheet' id='egns-style-css' href='/assets/themes/gofly-main/assets/css/style.css?ver=1778267218' type='text/css' media='all' />
 <link rel='stylesheet' id='egns-theme-css' href='/assets/themes/gofly-main/style.css?ver=75' type='text/css' media='all' />
 <link rel='stylesheet' id='fa6-css' href='https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='cmplz-banner-1-optin-css' href='/assets/uploads/complianz/css/banner-1-optin.css?ver=1785795917' type='text/css' media='all' />
 
 
 
@@ -106,9 +104,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 <meta name="generator" content="WordPress 6.9.7" />
 
-<meta name="cdp-version" content="1.5.6" />			<style>.cmplz-hidden {
-					display: none !important;
-				}</style>
+<meta name="cdp-version" content="1.5.6" />			
 						<meta name="generator" content="Elementor 4.1.4; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
 			<style>
 				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
@@ -141,7 +137,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <script type="application/ld+json" id="avicon-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://avicontravel.com/#organization","name":"Avicon Travel","url":"https://avicontravel.com/","logo":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/cropped-Avicon-Travel-1-1.png.webp"},"email":"info@avicontravel.com","telephone":"+201200555600","sameAs":["https://www.instagram.com/avicontravel/","https://www.facebook.com/profile.php?id=61589341120733","https://www.tripadvisor.com/Attraction_Review-g294204-d27707479-Reviews-Avicon_Travel-Aswan_Aswan_Governorate_Nile_River_Valley.html"]},{"@type":"WebSite","@id":"https://avicontravel.com/#website","url":"https://avicontravel.com/","name":"Avicon Travel","publisher":{"@id":"https://avicontravel.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://avicontravel.com/cookie-policy-eu/#webpage","url":"https://avicontravel.com/cookie-policy-eu/","name":"Cookie Policy (EU)","description":"Read the Avicon Travel Cookie Policy (EU): which cookies avicontravel.com uses, why we use them, and how to manage or withdraw your consent at any time.","isPartOf":{"@id":"https://avicontravel.com/#website"},"about":{"@id":"https://avicontravel.com/#organization"},"datePublished":"2026-06-10T11:42:23+00:00","dateModified":"2026-06-10T11:42:23+00:00","breadcrumb":{"@id":"https://avicontravel.com/cookie-policy-eu/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://avicontravel.com/cookie-policy-eu/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://avicontravel.com/"},{"@type":"ListItem","position":2,"name":"Cookie Policy (EU)","item":"https://avicontravel.com/cookie-policy-eu/"}]}]}</script>
 <style id="avicon-img-ratio">:where(img[width][height]){height:auto}</style>
 </head>
-<body data-rsssl=1 data-cmplz=1 class="wp-singular page-template-default page page-id-11295 wp-custom-logo wp-theme-gofly-main tt-magic-cursor  theme-gofly-main woocommerce-no-js cmplz-document elementor-default elementor-kit-7">
+<body data-rsssl=1 class="wp-singular page-template-default page page-id-11295 wp-custom-logo wp-theme-gofly-main tt-magic-cursor  theme-gofly-main woocommerce-no-js cmplz-document elementor-default elementor-kit-7">
 <?php include $_SERVER['DOCUMENT_ROOT'].'/includes/header.php'; ?>
 
     
@@ -1056,7 +1052,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 </div>
 </details>
-</div><h2>7. Consent</h2><p>When you visit our website for the first time, we will show you a pop-up with an explanation about cookies. As soon as you click on "Save My Choices", you consent to us using the categories of cookies and plug-ins you selected in the pop-up, as described in this Cookie Policy. You can disable the use of cookies via your browser, but please note that our website may no longer work properly.</p><h3>7.1 Manage your consent settings</h3><div id="cmplz-manage-consent-container-nojavascript">You have loaded the Cookie Policy without javascript support.&nbsp;On AMP, you can use the manage consent button on the bottom of the page.</div><div id="cmplz-manage-consent-container" class="cmplz-manage-consent-container"></div><h2>8. Enabling/disabling and deleting cookies</h2><p>You can use your internet browser to automatically or manually delete cookies. You can also specify that certain cookies may not be placed. Another option is to change the settings of your internet browser so that you receive a message each time a cookie is placed. For more information about these options, please refer to the instructions in the Help section of your browser.</p><p>Please note that our website may not work properly if all cookies are disabled. If you do delete the cookies in your browser, they will be placed again after your consent when you visit our website again.</p><h2>9. Your rights with respect to personal data</h2><p>You have the following rights with respect to your personal data:</p><ul>
+</div><h2>7. Consent</h2><p>When you visit our website for the first time, we will show you a pop-up with an explanation about cookies. As soon as you click "Accept", you consent to us using analytics cookies and embedded maps, as described in this Cookie Policy. You can disable the use of cookies via your browser, but please note that our website may no longer work properly.</p><h3>7.1 Manage your consent settings</h3><p><button type="button" class="avc-settings-btn" data-cookie-settings>Change cookie settings</button></p><h2>8. Enabling/disabling and deleting cookies</h2><p>You can use your internet browser to automatically or manually delete cookies. You can also specify that certain cookies may not be placed. Another option is to change the settings of your internet browser so that you receive a message each time a cookie is placed. For more information about these options, please refer to the instructions in the Help section of your browser.</p><p>Please note that our website may not work properly if all cookies are disabled. If you do delete the cookies in your browser, they will be placed again after your consent when you visit our website again.</p><h2>9. Your rights with respect to personal data</h2><p>You have the following rights with respect to your personal data:</p><ul>
                     <li>You have the right to know why your personal data is needed, what will happen to it, and how long it will be retained for.</li>
                     <li>Right of access: You have the right to access your personal data that is known to us.</li>
                     <li>Right to rectification: you have the right to supplement, correct, have deleted or blocked your personal data whenever you wish.</li>
@@ -1218,10 +1214,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <a class="avf__findus-link" href="https://share.google/MkDaMPfB9diyYgK1v" target="_blank" rel="noopener">Get directions →</a>
       </div>
       <div class="avf__map">
-        <div class="cmplz-placeholder-parent"><iframe data-placeholder-image="/assets/plugins/complianz-gdpr/assets/images/placeholders/google-maps-minimal-1280x920.jpg" data-category="marketing" data-service="google-maps" class="cmplz-placeholder-element cmplz-iframe cmplz-iframe-styles cmplz-no-video " data-cmplz-target="src" data-src-cmplz="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3594.3371307236093!2d32.65905532514516!3d25.726362510065346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x144915f074384999%3A0x139e49f47362ea4c!2sAvicon%20Travel%20Agency!5e0!3m2!1sar!2seg!4v1782142156304!5m2!1sar!2seg" 
-           src="about:blank" 
+        <div><iframe data-consent-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3594.3371307236093!2d32.65905532514516!3d25.726362510065346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x144915f074384999%3A0x139e49f47362ea4c!2sAvicon%20Travel%20Agency!5e0!3m2!1sar!2seg!4v1782142156304!5m2!1sar!2seg" loading="lazy" 
           width="100%" style="border:0; display:block; width:100%;"
-          allowfullscreen="" data-deferlazy="1" referrerpolicy="no-referrer-when-downgrade"
+          allowfullscreen="" referrerpolicy="no-referrer-when-downgrade"
           title="Avicon Travel Agency on Google Maps">
         </iframe></div>
       </div>
@@ -1229,7 +1224,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
     <!-- BOTTOM BAR -->
     <div class="avf__bottom">
-      <p class="avf__copy">© <span id="avf-year">2026</span> Avicon Travel. All rights reserved.</p>
+      <style>.avf__cookie-link{color:inherit;text-decoration:underline;text-underline-offset:2px}</style><p class="avf__copy">© <span id="avf-year">2026</span> Avicon Travel. All rights reserved. · <a href="#cookie-settings" class="avf__cookie-link">Cookie settings</a></p>
       <div class="avf__pay" aria-label="Accepted payment methods">
         <span>Visa</span><span>Mastercard</span><span>PayPal</span><span>G&nbsp;Pay</span>
       </div>
@@ -1386,121 +1381,6 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 <script type="text/javascript" src="/assets/themes/gofly-main/assets/js/bootstrap.min.js?ver=1778267218" id="bootstrap-js"></script>
 <script type="text/javascript" src="/assets/themes/gofly-main/assets/js/popper.min.js?ver=1778267218" id="popper-js"></script>
 <script type="text/javascript" src="/assets/js/avicon-site.js?ver=1" id="avicon-site-js"></script>
-<script type="text/javascript" id="cmplz-cookiebanner-js-extra">
-/* <![CDATA[ */
-var complianz = {"prefix":"cmplz_","debug":"","user_banner_id":"1","set_cookies":[],"block_ajax_content":"1","banner_version":"33","version":"7.5.2","store_consent":"","do_not_track_enabled":"1","consenttype":"optin","region":"eu","geoip":"","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"/wp-json/complianz/v1/","locale":"lang=en&locale=en_US","set_cookies_on_root":"0","cookie_domain":"","current_policy_id":"36","cookie_path":"/","categories":{"statistics":"statistics","marketing":"marketing"},"tcf_active":"","placeholdertext":"Click to accept {category} cookies and enable this content","css_file":"/assets/uploads/complianz/css/banner-{banner_id}-{type}.css?v=33","page_links":{"eu":{"cookie-statement":{"title":"Cookie Policy ","url":"/cookie-policy-eu/"}}},"tm_categories":"","forceEnableStats":"","preview":"","clean_cookies":"","aria_label":"Click to accept {category} cookies and enable this content","iapi_nav":"fallback"};
-//# sourceURL=cmplz-cookiebanner-js-extra
-/* ]]> */
-</script>
-<script defer type="text/javascript" src="/assets/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=1785795914" id="cmplz-cookiebanner-js"></script>
-<script type="text/javascript" id="cmplz-cookiebanner-js-after">
-/* <![CDATA[ */
-    
-		if ('undefined' != typeof window.jQuery) {
-			jQuery(document).ready(function ($) {
-				$(document).on('elementor/popup/show', () => {
-					let rev_cats = cmplz_categories.reverse();
-					for (let key in rev_cats) {
-						if (rev_cats.hasOwnProperty(key)) {
-							let category = cmplz_categories[key];
-							if (cmplz_has_consent(category)) {
-								document.querySelectorAll('[data-category="' + category + '"]').forEach(obj => {
-									cmplz_remove_placeholder(obj);
-								});
-							}
-						}
-					}
-
-					let services = cmplz_get_services_on_page();
-					for (let key in services) {
-						if (services.hasOwnProperty(key)) {
-							let service = services[key].service;
-							let category = services[key].category;
-							if (cmplz_has_service_consent(service, category)) {
-								document.querySelectorAll('[data-service="' + service + '"]').forEach(obj => {
-									cmplz_remove_placeholder(obj);
-								});
-							}
-						}
-					}
-				});
-			});
-		}
-    
-    
-		
-			document.addEventListener("cmplz_enable_category", function(consentData) {
-				var category = consentData.detail.category;
-				var services = consentData.detail.services;
-				var blockedContentContainers = [];
-				let selectorVideo = '.cmplz-elementor-widget-video-playlist[data-category="'+category+'"],.elementor-widget-video[data-category="'+category+'"]';
-				let selectorGeneric = '[data-cmplz-elementor-href][data-category="'+category+'"]';
-				for (var skey in services) {
-					if (services.hasOwnProperty(skey)) {
-						let service = skey;
-						selectorVideo +=',.cmplz-elementor-widget-video-playlist[data-service="'+service+'"],.elementor-widget-video[data-service="'+service+'"]';
-						selectorGeneric +=',[data-cmplz-elementor-href][data-service="'+service+'"]';
-					}
-				}
-				document.querySelectorAll(selectorVideo).forEach(obj => {
-					let elementService = obj.getAttribute('data-service');
-					if ( cmplz_is_service_denied(elementService) ) {
-						return;
-					}
-					if (obj.classList.contains('cmplz-elementor-activated')) return;
-					obj.classList.add('cmplz-elementor-activated');
-
-					if ( obj.hasAttribute('data-cmplz_elementor_widget_type') ){
-						let attr = obj.getAttribute('data-cmplz_elementor_widget_type');
-						obj.classList.removeAttribute('data-cmplz_elementor_widget_type');
-						obj.classList.setAttribute('data-widget_type', attr);
-					}
-					if (obj.classList.contains('cmplz-elementor-widget-video-playlist')) {
-						obj.classList.remove('cmplz-elementor-widget-video-playlist');
-						obj.classList.add('elementor-widget-video-playlist');
-					}
-					obj.setAttribute('data-settings', obj.getAttribute('data-cmplz-elementor-settings'));
-					blockedContentContainers.push(obj);
-				});
-
-				document.querySelectorAll(selectorGeneric).forEach(obj => {
-					let elementService = obj.getAttribute('data-service');
-					if ( cmplz_is_service_denied(elementService) ) {
-						return;
-					}
-					if (obj.classList.contains('cmplz-elementor-activated')) return;
-
-					if (obj.classList.contains('cmplz-fb-video')) {
-						obj.classList.remove('cmplz-fb-video');
-						obj.classList.add('fb-video');
-					}
-
-					obj.classList.add('cmplz-elementor-activated');
-					obj.setAttribute('data-href', obj.getAttribute('data-cmplz-elementor-href'));
-					blockedContentContainers.push(obj.closest('.elementor-widget'));
-				});
-
-				/**
-				 * Trigger the widgets in Elementor
-				 */
-				for (var key in blockedContentContainers) {
-					if (blockedContentContainers.hasOwnProperty(key) && blockedContentContainers[key] !== undefined) {
-						let blockedContentContainer = blockedContentContainers[key];
-						if (elementorFrontend.elementsHandler) {
-							elementorFrontend.elementsHandler.runReadyTrigger(blockedContentContainer)
-						}
-						var cssIndex = blockedContentContainer.getAttribute('data-placeholder_class_index');
-						blockedContentContainer.classList.remove('cmplz-blocked-content-container');
-						blockedContentContainer.classList.remove('cmplz-placeholder-' + cssIndex);
-					}
-				}
-
-			});
-		
-		
-//# sourceURL=cmplz-cookiebanner-js-after
-/* ]]> */
-</script>
 <script type="text/javascript" id="gt_widget_script_73699856-js-before">
 /* <![CDATA[ */
 window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['73699856'] = {"default_language":"en","languages":["zh-CN","nl","en","fr","de","it","pt","ru","es"],"url_structure":"none","detect_browser_language":1,"flag_style":"2d","flag_size":32,"wrapper_selector":"#gt-wrapper-73699856","alt_flags":[],"custom_css":".gtranslate_wrapper {\r\n    margin-top: 10px;\r\n}","horizontal_position":"inline","flags_location":"\/assets\/plugins\/gtranslate\/flags\/"};

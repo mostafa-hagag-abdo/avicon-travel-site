@@ -1,8 +1,9 @@
 <?php
-// GA4 + conversion events. GA only loads after the visitor accepts "Statistics" in the
-// Complianz cookie banner. Put the GA4 Measurement ID here (looks like 'G-ABC123XYZ9'):
+// GA4 + conversion events. GA only loads after the visitor clicks "Accept" in the cookie banner
+// (assets/js/avicon-consent.js). Put the GA4 Measurement ID here (looks like 'G-ABC123XYZ9'):
 $AVI_GA_ID = 'G-LB417TZKD0';
 ?>
+<script src="/assets/js/avicon-consent.js?v=1" defer></script>
 <script>
 (function () {
   var ID = <?= json_encode($AVI_GA_ID) ?>;
@@ -10,8 +11,8 @@ $AVI_GA_ID = 'G-LB417TZKD0';
   window.dataLayer = window.dataLayer || [];
 
   function hasConsent() {
-    if (typeof window.cmplz_has_consent === 'function') return window.cmplz_has_consent('statistics');
-    return /(?:^|;\s*)cmplz_statistics=allow/.test(document.cookie);
+    if (window.aviconConsent) return window.aviconConsent.granted();
+    return /(?:^|;\s*)avicon_consent=granted/.test(document.cookie) || /(?:^|;\s*)cmplz_statistics=allow/.test(document.cookie);
   }
   function loadGA() {
     if (loaded || !ID || !hasConsent()) return;
@@ -24,8 +25,7 @@ $AVI_GA_ID = 'G-LB417TZKD0';
     s.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(ID);
     document.head.appendChild(s);
   }
-  document.addEventListener('cmplz_enable_category', loadGA);
-  document.addEventListener('cmplz_status_change', loadGA);
+  document.addEventListener('avicon:consent', loadGA);
   document.addEventListener('DOMContentLoaded', loadGA);
   loadGA();
 

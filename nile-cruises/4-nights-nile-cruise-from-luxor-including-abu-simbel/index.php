@@ -87,7 +87,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 .woocommerce form .form-row .required { visibility: visible; }
 /*# sourceURL=woocommerce-inline-inline-css */
 </style>
-<link rel='stylesheet' id='cmplz-general-css' href='/assets/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1785795914' type='text/css' media='all' />
 <link rel='stylesheet' id='egns-fonts-css' href='https://fonts.googleapis.com/css2?family=Courgette&#038;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&#038;family=Roboto:ital,wght@0,100..900;1,100..900&#038;display=swap' type='text/css' media='all' />
 <link rel='stylesheet' id='bootstrap-icons-css' href='/assets/themes/gofly-main/assets/css/bootstrap-icons.css?ver=1778267218' type='text/css' media='all' />
 <link rel='stylesheet' id='bootstrap-css' href='/assets/themes/gofly-main/assets/css/bootstrap.min.css?ver=1778267218' type='text/css' media='all' />
@@ -106,7 +105,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel='stylesheet' id='elementor-post-7-css' href='/assets/uploads/elementor/css/post-7.css?ver=1788475172' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-11638-css' href='/assets/uploads/elementor/css/post-11638.css?ver=1788655063' type='text/css' media='all' />
 <link rel='stylesheet' id='base-desktop-css' href='/assets/uploads/elementor/css/base-desktop.css?ver=6a99f724c5e58' type='text/css' media='all' />
-<link rel='stylesheet' id='cmplz-banner-1-optin-css' href='/assets/uploads/complianz/css/banner-1-optin.css?ver=1785795917' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-gf-roboto-css' href='https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-gf-robotoslab-css' href='https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap' type='text/css' media='all' />
 
@@ -122,9 +120,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 <meta name="generator" content="WordPress 6.9.7" />
 
-<meta name="cdp-version" content="1.5.6" />			<style>.cmplz-hidden {
-					display: none !important;
-				}</style>
+<meta name="cdp-version" content="1.5.6" />			
 						<meta name="generator" content="Elementor 4.1.4; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
 			<style>
 				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
@@ -157,7 +153,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <style id="avicon-img-ratio">:where(img[width][height]){height:auto}</style>
 <script type="application/ld+json" id="avicon-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://avicontravel.com/#organization","name":"Avicon Travel","url":"https://avicontravel.com/","logo":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp"},"email":"info@avicontravel.com","telephone":"+201200555600","sameAs":["https://www.instagram.com/avicontravel/","https://www.facebook.com/profile.php?id=61589341120733","https://www.tripadvisor.com/Attraction_Review-g294204-d27707479-Reviews-Avicon_Travel-Aswan_Aswan_Governorate_Nile_River_Valley.html"]},{"@type":"WebSite","@id":"https://avicontravel.com/#website","url":"https://avicontravel.com/","name":"Avicon Travel","publisher":{"@id":"https://avicontravel.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://avicontravel.com/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/#webpage","url":"https://avicontravel.com/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/","name":"4-Night Nile Cruise from Luxor with Abu Simbel | From $560","description":"Sail from Luxor to Aswan over 5 days: Luxor's East and West Banks, Edfu, Kom Ombo, the temples of Abu Simbel and Aswan's sights. From $560 per person.","isPartOf":{"@id":"https://avicontravel.com/#website"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/07/Colossi-of-Memnon-010.jpg"},"breadcrumb":{"@id":"https://avicontravel.com/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/#breadcrumb"},"mainEntity":{"@id":"https://avicontravel.com/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/#trip"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://avicontravel.com/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://avicontravel.com/"},{"@type":"ListItem","position":2,"name":"Egypt Nile Cruises","item":"https://avicontravel.com/nile-cruises/"},{"@type":"ListItem","position":3,"name":"4 Nights Nile River Cruise from Luxor Include Abu Simbel","item":"https://avicontravel.com/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/"}]},{"@type":"TouristTrip","@id":"https://avicontravel.com/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/#trip","name":"4 Nights Nile River Cruise from Luxor Include Abu Simbel","description":"Sail from Luxor to Aswan over 5 days: Luxor's East and West Banks, Edfu, Kom Ombo, the temples of Abu Simbel and Aswan's sights. From $560 per person.","url":"https://avicontravel.com/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/","image":"https://avicontravel.com/assets/uploads/2026/07/Colossi-of-Memnon-010.jpg","provider":{"@id":"https://avicontravel.com/#organization"},"itinerary":{"@type":"ItemList","numberOfItems":5,"itemListElement":[{"@type":"ListItem","position":1,"name":"Day 1 Start the Cruise & Luxor East Bank"},{"@type":"ListItem","position":2,"name":"Day 2 Luxor West Bank"},{"@type":"ListItem","position":3,"name":"Day 3 Edfu & Kom Ombo Temples"},{"@type":"ListItem","position":4,"name":"Day 4 Abu Simbel Temples"},{"@type":"ListItem","position":5,"name":"Day 5 Aswan Sightseeing & End of Cruise"}]},"offers":{"@type":"Offer","price":"560","priceCurrency":"USD","availability":"https://schema.org/InStock","url":"https://avicontravel.com/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/","description":"Starting price per person","seller":{"@id":"https://avicontravel.com/#organization"}}},{"@type":"FAQPage","@id":"https://avicontravel.com/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/#faq","isPartOf":{"@id":"https://avicontravel.com/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/#webpage"},"mainEntity":[{"@type":"Question","name":"Is Abu Simbel included?","acceptedAnswer":{"@type":"Answer","text":"Yes. On day 4 you leave early with breakfast boxes and drive to the rock-cut temples of Ramses II and Queen Nefertari, then return to the ship."}},{"@type":"Question","name":"Where does the cruise start and end?","acceptedAnswer":{"@type":"Answer","text":"It starts in Luxor and ends in Aswan on day 5, after the High Dam, the Unfinished Obelisk and Philae Temple, with drop-off at your hotel or chosen location."}},{"@type":"Question","name":"Why does the price start from $560?","acceptedAnswer":{"@type":"Answer","text":"$560 per person is for groups of 9-16 from May to September 2026. In that season 2-4 travelers pay $785 each and solo travelers $1,355. October to March starts at $920; Christmas-New Year at $1,145."}},{"@type":"Question","name":"Which sights are included?","acceptedAnswer":{"@type":"Answer","text":"Karnak and Luxor Temple by night, the Valley of the Kings, Hatshepsut Temple and the Colossi of Memnon, Edfu by horse carriage, Kom Ombo, Abu Simbel, and Aswan's High Dam, Unfinished Obelisk and Philae."}},{"@type":"Question","name":"What is included?","acceptedAnswer":{"@type":"Answer","text":"Four nights on a 5-star deluxe cruise with full board, the excursions and the Abu Simbel trip, entrance fees, an Egyptologist guide, air-conditioned transfers, and service charges and taxes. Tips and personal expenses are extra."}}]}]}</script>
 </head>
-<body data-rsssl=1 data-cmplz=1 class="wp-singular tour-template tour-template-elementor_header_footer single single-tour postid-11638 wp-custom-logo wp-theme-gofly-main tt-magic-cursor  theme-gofly-main woocommerce-no-js elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-11638">
+<body data-rsssl=1 class="wp-singular tour-template tour-template-elementor_header_footer single single-tour postid-11638 wp-custom-logo wp-theme-gofly-main tt-magic-cursor  theme-gofly-main woocommerce-no-js elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-11638">
 <?php include $_SERVER['DOCUMENT_ROOT'].'/includes/header.php'; ?>
 		<div data-elementor-type="wp-post" data-elementor-id="11638" class="elementor elementor-11638" data-elementor-post-type="tour">
 				<div class="elementor-element elementor-element-64ff88b e-con-full e-flex e-con e-parent" data-id="64ff88b" data-element_type="container" data-e-type="container">
@@ -745,10 +741,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <a class="avf__findus-link" href="https://share.google/MkDaMPfB9diyYgK1v" target="_blank" rel="noopener">Get directions →</a>
       </div>
       <div class="avf__map">
-        <div class="cmplz-placeholder-parent"><iframe data-placeholder-image="/assets/plugins/complianz-gdpr/assets/images/placeholders/google-maps-minimal-1280x920.jpg" data-category="marketing" data-service="google-maps" class="cmplz-placeholder-element cmplz-iframe cmplz-iframe-styles cmplz-no-video " data-cmplz-target="src" data-src-cmplz="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3594.3371307236093!2d32.65905532514516!3d25.726362510065346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x144915f074384999%3A0x139e49f47362ea4c!2sAvicon%20Travel%20Agency!5e0!3m2!1sar!2seg!4v1782142156304!5m2!1sar!2seg" 
-           src="about:blank" 
+        <div><iframe data-consent-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3594.3371307236093!2d32.65905532514516!3d25.726362510065346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x144915f074384999%3A0x139e49f47362ea4c!2sAvicon%20Travel%20Agency!5e0!3m2!1sar!2seg!4v1782142156304!5m2!1sar!2seg" loading="lazy" 
           width="100%" style="border:0; display:block; width:100%;"
-          allowfullscreen="" data-deferlazy="1" referrerpolicy="no-referrer-when-downgrade"
+          allowfullscreen="" referrerpolicy="no-referrer-when-downgrade"
           title="Avicon Travel Agency on Google Maps">
         </iframe></div>
       </div>
@@ -756,7 +751,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
     <!-- BOTTOM BAR -->
     <div class="avf__bottom">
-      <p class="avf__copy">© <span id="avf-year">2026</span> Avicon Travel. All rights reserved.</p>
+      <style>.avf__cookie-link{color:inherit;text-decoration:underline;text-underline-offset:2px}</style><p class="avf__copy">© <span id="avf-year">2026</span> Avicon Travel. All rights reserved. · <a href="#cookie-settings" class="avf__cookie-link">Cookie settings</a></p>
       <div class="avf__pay" aria-label="Accepted payment methods">
         <span>Visa</span><span>Mastercard</span><span>PayPal</span><span>G&nbsp;Pay</span>
       </div>
@@ -857,162 +852,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </script>
 
 
-<!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
-<div id="cmplz-cookiebanner-container"><div id="cmplz-cookiebanner-1-optin" class="cmplz-cookiebanner cmplz-hidden banner-1 we-value-your-privacy optin cmplz-bottom-right cmplz-categories-type-view-preferences" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-1-optin" aria-describedby="cmplz-message-1-optin">
-	<div class="cmplz-header">
-		<div class="cmplz-logo"><a href="/" class="custom-logo-link" rel="home"><img loading="lazy" width="355" height="250" src="/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp" class="custom-logo" alt="Avicon Travel" decoding="async" srcset="/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp 355w, /assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png-300x211.webp 300w" sizes="(max-width: 355px) 100vw, 355px" /></a></div>
-		<div class="cmplz-title" id="cmplz-header-1-optin">We Value Your Privacy</div>
-		<div class="cmplz-close" tabindex="0" role="button" aria-label="Close dialog">
-			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>
-		</div>
-	</div>
-
-	<div class="cmplz-divider cmplz-divider-header"></div>
-	<div class="cmplz-body">
-		<div class="cmplz-message" id="cmplz-message-1-optin"><p>Avicon Travel uses cookies to enhance your browsing experience&nbsp;<br>and help us improve our services. You can choose which cookies&nbsp;<br>to accept below. For more information, please read our&nbsp;<br>Privacy Policy and Cookie Policy.</p></div>
-		<!-- categories start -->
-		<div class="cmplz-categories">
-			<div class="cmplz-category cmplz-functional">
-				<div class="cmplz-category-header">
-					<span class="cmplz-category-title" id="cmplz-title-functional-1-optin">Essential</span>
-					<span class='cmplz-always-active'>
-						<span class="cmplz-banner-checkbox">
-							<input type="checkbox"
-									id="cmplz-functional-optin"
-									data-category="cmplz_functional"
-									class="cmplz-consent-checkbox cmplz-functional"
-									size="40"
-									value="1"/>
-							<label class="cmplz-label" for="cmplz-functional-optin"><span class="screen-reader-text">Essential</span></label>
-						</span>
-						Always active					</span>
-					<button class="cmplz-category-toggle"
-							aria-expanded="false"
-							aria-controls="cmplz-desc-functional-1-optin"
-							aria-labelledby="cmplz-title-functional-1-optin">
-						<span class="cmplz-icon cmplz-open">
-							<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
-						</span>
-					</button>
-				</div>
-				<div class="cmplz-description" id="cmplz-desc-functional-1-optin" hidden>
-					<span class="cmplz-description-functional">These cookies are required for the website to function properly, including booking forms and WhatsApp contact features.</span>
-				</div>
-			</div>
-
-			<div class="cmplz-category cmplz-preferences">
-				<div class="cmplz-category-header">
-					<span class="cmplz-category-title" id="cmplz-title-preferences-1-optin">Preferences</span>
-					<span class="cmplz-banner-checkbox">
-						<input type="checkbox"
-								id="cmplz-preferences-optin"
-								data-category="cmplz_preferences"
-								class="cmplz-consent-checkbox cmplz-preferences"
-								size="40"
-								value="1"/>
-						<label class="cmplz-label" for="cmplz-preferences-optin"><span class="screen-reader-text">Preferences</span></label>
-					</span>
-					<button class="cmplz-category-toggle"
-							aria-expanded="false"
-							aria-controls="cmplz-desc-preferences-1-optin"
-							aria-labelledby="cmplz-title-preferences-1-optin">
-						<span class="cmplz-icon cmplz-open">
-							<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
-						</span>
-					</button>
-				</div>
-				<div class="cmplz-description" id="cmplz-desc-preferences-1-optin" hidden>
-					<span class="cmplz-description-preferences">The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.</span>
-				</div>
-			</div>
-
-			<div class="cmplz-category cmplz-statistics">
-				<div class="cmplz-category-header">
-					<span class="cmplz-category-title" id="cmplz-title-statistics-1-optin">Analytics</span>
-					<span class="cmplz-banner-checkbox">
-						<input type="checkbox"
-								id="cmplz-statistics-optin"
-								data-category="cmplz_statistics"
-								class="cmplz-consent-checkbox cmplz-statistics"
-								size="40"
-								value="1"/>
-						<label class="cmplz-label" for="cmplz-statistics-optin"><span class="screen-reader-text">Analytics</span></label>
-					</span>
-					<button class="cmplz-category-toggle"
-							aria-expanded="false"
-							aria-controls="cmplz-desc-statistics-1-optin"
-							aria-labelledby="cmplz-title-statistics-1-optin">
-						<span class="cmplz-icon cmplz-open">
-							<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
-						</span>
-					</button>
-				</div>
-				<div class="cmplz-description" id="cmplz-desc-statistics-1-optin" hidden>
-					<span class="cmplz-description-statistics">The technical storage or access that is used exclusively for statistical purposes.</span>
-					<span class="cmplz-description-statistics-anonymous">These cookies help us understand how visitors interact with our website, so we can improve your experience. All data is anonymous.</span>
-				</div>
-			</div>
-
-			<div class="cmplz-category cmplz-marketing">
-				<div class="cmplz-category-header">
-					<span class="cmplz-category-title" id="cmplz-title-marketing-1-optin">Marketing</span>
-					<span class="cmplz-banner-checkbox">
-						<input type="checkbox"
-								id="cmplz-marketing-optin"
-								data-category="cmplz_marketing"
-								class="cmplz-consent-checkbox cmplz-marketing"
-								size="40"
-								value="1"/>
-						<label class="cmplz-label" for="cmplz-marketing-optin"><span class="screen-reader-text">Marketing</span></label>
-					</span>
-					<button class="cmplz-category-toggle"
-							aria-expanded="false"
-							aria-controls="cmplz-desc-marketing-1-optin"
-							aria-labelledby="cmplz-title-marketing-1-optin">
-						<span class="cmplz-icon cmplz-open">
-							<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
-						</span>
-					</button>
-				</div>
-				<div class="cmplz-description" id="cmplz-desc-marketing-1-optin" hidden>
-					<span class="cmplz-description-marketing">These cookies allow us to show you relevant travel offers and measure the effectiveness of our campaigns.</span>
-				</div>
-			</div>
-		</div><!-- categories end -->
-			</div>
-
-	<div class="cmplz-links cmplz-information">
-		<ul>
-			<li><a class="cmplz-link cmplz-manage-options cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Manage options</a></li>
-			<li><a class="cmplz-link cmplz-manage-third-parties cookie-statement" href="#" data-relative_url="#cmplz-cookies-overview">Manage services</a></li>
-			<li><a class="cmplz-link cmplz-manage-vendors tcf cookie-statement" href="#" data-relative_url="#cmplz-tcf-wrapper">Manage {vendor_count} vendors</a></li>
-			<li><a class="cmplz-link cmplz-external cmplz-read-more-purposes tcf" target="_blank" rel="noopener noreferrer nofollow" href="https://cookiedatabase.org/tcf/purposes/" aria-label="Read more about TCF purposes on Cookie Database">Read more about these purposes</a></li>
-		</ul>
-			</div>
-
-	<div class="cmplz-divider cmplz-footer"></div>
-
-	<div class="cmplz-buttons">
-		<button class="cmplz-btn cmplz-accept">Accept All</button>
-		<button class="cmplz-btn cmplz-deny">Deny</button>
-		<button class="cmplz-btn cmplz-view-preferences">Customize</button>
-		<button class="cmplz-btn cmplz-save-preferences">Save My Choices</button>
-		<a class="cmplz-btn cmplz-manage-options tcf cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Customize</a>
-			</div>
-
-
-	<div class="cmplz-documents cmplz-links">
-		<ul>
-			<li><a class="cmplz-link cookie-statement" href="#" data-relative_url="">{title}</a></li>
-			<li><a class="cmplz-link privacy-statement" href="#" data-relative_url="">{title}</a></li>
-			<li><a class="cmplz-link impressum" href="#" data-relative_url="">{title}</a></li>
-		</ul>
-			</div>
-</div>
-</div>
-					<div id="cmplz-manage-consent" data-nosnippet="true"><button class="cmplz-btn cmplz-hidden cmplz-manage-consent manage-consent-1" aria-haspopup="dialog" aria-controls="cmplz-cookiebanner-1-optin">Manage Preferences</button>
-
-</div>			<script>
+								<script>
 				const lazyloadRunObserver = () => {
 					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
 					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
@@ -1067,121 +907,6 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 /* ]]> */
 </script>
 <script type="text/javascript" src="/assets/plugins/elementor/assets/js/frontend.min.js?ver=4.1.4" id="elementor-frontend-js"></script>
-<script type="text/javascript" id="cmplz-cookiebanner-js-extra">
-/* <![CDATA[ */
-var complianz = {"prefix":"cmplz_","debug":"","user_banner_id":"1","set_cookies":[],"block_ajax_content":"1","banner_version":"33","version":"7.5.2","store_consent":"","do_not_track_enabled":"1","consenttype":"optin","region":"eu","geoip":"","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"/wp-json/complianz/v1/","locale":"lang=en&locale=en_US","set_cookies_on_root":"0","cookie_domain":"","current_policy_id":"36","cookie_path":"/","categories":{"statistics":"statistics","marketing":"marketing"},"tcf_active":"","placeholdertext":"Click to accept {category} cookies and enable this content","css_file":"/assets/uploads/complianz/css/banner-{banner_id}-{type}.css?v=33","page_links":{"eu":{"cookie-statement":{"title":"Cookie Policy ","url":"/cookie-policy-eu/"}}},"tm_categories":"","forceEnableStats":"","preview":"","clean_cookies":"","aria_label":"Click to accept {category} cookies and enable this content","iapi_nav":"fallback"};
-//# sourceURL=cmplz-cookiebanner-js-extra
-/* ]]> */
-</script>
-<script defer type="text/javascript" src="/assets/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=1785795914" id="cmplz-cookiebanner-js"></script>
-<script type="text/javascript" id="cmplz-cookiebanner-js-after">
-/* <![CDATA[ */
-    
-		if ('undefined' != typeof window.jQuery) {
-			jQuery(document).ready(function ($) {
-				$(document).on('elementor/popup/show', () => {
-					let rev_cats = cmplz_categories.reverse();
-					for (let key in rev_cats) {
-						if (rev_cats.hasOwnProperty(key)) {
-							let category = cmplz_categories[key];
-							if (cmplz_has_consent(category)) {
-								document.querySelectorAll('[data-category="' + category + '"]').forEach(obj => {
-									cmplz_remove_placeholder(obj);
-								});
-							}
-						}
-					}
-
-					let services = cmplz_get_services_on_page();
-					for (let key in services) {
-						if (services.hasOwnProperty(key)) {
-							let service = services[key].service;
-							let category = services[key].category;
-							if (cmplz_has_service_consent(service, category)) {
-								document.querySelectorAll('[data-service="' + service + '"]').forEach(obj => {
-									cmplz_remove_placeholder(obj);
-								});
-							}
-						}
-					}
-				});
-			});
-		}
-    
-    
-		
-			document.addEventListener("cmplz_enable_category", function(consentData) {
-				var category = consentData.detail.category;
-				var services = consentData.detail.services;
-				var blockedContentContainers = [];
-				let selectorVideo = '.cmplz-elementor-widget-video-playlist[data-category="'+category+'"],.elementor-widget-video[data-category="'+category+'"]';
-				let selectorGeneric = '[data-cmplz-elementor-href][data-category="'+category+'"]';
-				for (var skey in services) {
-					if (services.hasOwnProperty(skey)) {
-						let service = skey;
-						selectorVideo +=',.cmplz-elementor-widget-video-playlist[data-service="'+service+'"],.elementor-widget-video[data-service="'+service+'"]';
-						selectorGeneric +=',[data-cmplz-elementor-href][data-service="'+service+'"]';
-					}
-				}
-				document.querySelectorAll(selectorVideo).forEach(obj => {
-					let elementService = obj.getAttribute('data-service');
-					if ( cmplz_is_service_denied(elementService) ) {
-						return;
-					}
-					if (obj.classList.contains('cmplz-elementor-activated')) return;
-					obj.classList.add('cmplz-elementor-activated');
-
-					if ( obj.hasAttribute('data-cmplz_elementor_widget_type') ){
-						let attr = obj.getAttribute('data-cmplz_elementor_widget_type');
-						obj.classList.removeAttribute('data-cmplz_elementor_widget_type');
-						obj.classList.setAttribute('data-widget_type', attr);
-					}
-					if (obj.classList.contains('cmplz-elementor-widget-video-playlist')) {
-						obj.classList.remove('cmplz-elementor-widget-video-playlist');
-						obj.classList.add('elementor-widget-video-playlist');
-					}
-					obj.setAttribute('data-settings', obj.getAttribute('data-cmplz-elementor-settings'));
-					blockedContentContainers.push(obj);
-				});
-
-				document.querySelectorAll(selectorGeneric).forEach(obj => {
-					let elementService = obj.getAttribute('data-service');
-					if ( cmplz_is_service_denied(elementService) ) {
-						return;
-					}
-					if (obj.classList.contains('cmplz-elementor-activated')) return;
-
-					if (obj.classList.contains('cmplz-fb-video')) {
-						obj.classList.remove('cmplz-fb-video');
-						obj.classList.add('fb-video');
-					}
-
-					obj.classList.add('cmplz-elementor-activated');
-					obj.setAttribute('data-href', obj.getAttribute('data-cmplz-elementor-href'));
-					blockedContentContainers.push(obj.closest('.elementor-widget'));
-				});
-
-				/**
-				 * Trigger the widgets in Elementor
-				 */
-				for (var key in blockedContentContainers) {
-					if (blockedContentContainers.hasOwnProperty(key) && blockedContentContainers[key] !== undefined) {
-						let blockedContentContainer = blockedContentContainers[key];
-						if (elementorFrontend.elementsHandler) {
-							elementorFrontend.elementsHandler.runReadyTrigger(blockedContentContainer)
-						}
-						var cssIndex = blockedContentContainer.getAttribute('data-placeholder_class_index');
-						blockedContentContainer.classList.remove('cmplz-blocked-content-container');
-						blockedContentContainer.classList.remove('cmplz-placeholder-' + cssIndex);
-					}
-				}
-
-			});
-		
-		
-//# sourceURL=cmplz-cookiebanner-js-after
-/* ]]> */
-</script>
 <script type="text/javascript" id="gt_widget_script_69077623-js-before">
 /* <![CDATA[ */
 window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['69077623'] = {"default_language":"en","languages":["zh-CN","nl","en","fr","de","it","pt","ru","es"],"url_structure":"none","detect_browser_language":1,"flag_style":"2d","flag_size":32,"wrapper_selector":"#gt-wrapper-69077623","alt_flags":[],"custom_css":".gtranslate_wrapper {\r\n    margin-top: 10px;\r\n}","horizontal_position":"inline","flags_location":"\/assets\/plugins\/gtranslate\/flags\/"};
