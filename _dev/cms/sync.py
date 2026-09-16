@@ -179,17 +179,34 @@ def card_span(s, slug):
     return (m.start(), blocks.end_of(s, m.start(), "a")) if m else None
 
 
-def read_card(s, slug):
-    span = card_span(s, slug)
-    if not span:
-        return None
-    frag, card = s[span[0]:span[1]], {}
+CARD_HREF = r'<a class="(?:tour-card|package-card)" href="/([^"]+)/">'
+
+
+def card_fields(frag):
+    card = {}
     for k in ("name", "location", "summary", "duration", "style", "badge"):
         m = re.search(CARD_RX[k], frag, re.S)
         card[k] = m.group(2).strip() if m else ""
     img = blocks.IMG_RE.search(frag)
     card["image"] = blocks.img_attrs(img.group(0)) if img else None
     return card
+
+
+def read_card(s, slug):
+    span = card_span(s, slug)
+    return card_fields(s[span[0]:span[1]]) if span else None
+
+
+def card_snapshot(s, slug):
+    """The card's markup and its neighbours in the same grid, so a hidden trip can come back to the same place."""
+    span = card_span(s, slug)
+    if not span:
+        return None
+    found = [(m.group(1), m.start(), blocks.end_of(s, m.start(), "a")) for m in re.finditer(CARD_HREF, s)]
+    i = [f[0] for f in found].index(slug)
+    after = found[i - 1] if i and "</div>" not in s[found[i - 1][2]:span[0]] else None
+    before = found[i + 1] if i + 1 < len(found) and "</div>" not in s[span[1]:found[i + 1][1]] else None
+    return {"html": s[span[0]:span[1]], "after": after and after[0], "before": before and before[0]}
 
 
 def card_price(n, existing):
@@ -218,27 +235,40 @@ def remove_span(files, rel, span):
     files.set(rel, s[:a] + s[b:])
 
 
-def insert_card(files, rel, slug, card, n, after_slugs):
-    """Clone a neighbour card (template first), fill it with this trip, and insert it after the neighbour."""
+def insert_card(files, rel, slug, card, n, after_slugs, snapshot=None, old_card=None):
+    """Put the trip's card back where it was (snapshot; only fields that differ from old_card are rewritten),
+    or clone a neighbour card (template first) and insert it after it."""
     s = files.get(rel)
-    for other in after_slugs:
-        span = card_span(s, other) if other else None
-        if span:
-            break
-    else:
-        m = list(re.finditer(r'<a class="(?:tour-card|package-card)" href="/([^"]+)/">', s))
+    if card_span(s, slug):
+        return
+    anchor, before = None, False
+    if snapshot:
+        if snapshot.get("after"):
+            anchor = card_span(s, snapshot["after"])
+        if not anchor and snapshot.get("before"):
+            anchor, before = card_span(s, snapshot["before"]), True
+    if not anchor:
+        before = False
+        anchor = next((card_span(s, o) for o in after_slugs if o and card_span(s, o)), None)
+    if not anchor:
+        m = list(re.finditer(CARD_HREF, s))
         if not m:
             raise ValueError(f"{rel}: no card to copy for {slug}")
-        span = (m[-1].start(), blocks.end_of(s, m[-1].start(), "a"))
-    frag = s[span[0]:span[1]]
-    frag = re.sub(r'href="/[^"]+/"', f'href="/{slug}/"', frag, count=1)
-    frag = re.sub(r"<del>.*?</del>", "", frag)
-    frag = write_card(frag, card, [k for k in CARD_KEYS if k != "home"], n, price=True)
-    line_start = s.rfind("\n", 0, span[0]) + 1
-    indent = s[line_start:span[0]]
-    nl = blocks.nl_of(s)
-    gap = nl + nl if s[span[1]:span[1] + 2 * len(nl)] == nl + nl else nl
-    files.set(rel, s[:span[1]] + gap + indent + frag + s[span[1]:])
+        anchor = (m[-1].start(), blocks.end_of(s, m[-1].start(), "a"))
+    if snapshot:
+        frag = snapshot["html"]
+        old = old_card or card_fields(frag)
+        frag = write_card(frag, card, [k for k in CARD_KEYS if k != "home" and card.get(k) != old.get(k)], n, price=True)
+    else:
+        frag = re.sub(r'href="/[^"]+/"', f'href="/{slug}/"', s[anchor[0]:anchor[1]], count=1)
+        frag = write_card(re.sub(r"<del>.*?</del>", "", frag), card, [k for k in CARD_KEYS if k != "home"], n, price=True)
+    line_start = s.rfind("\n", 0, anchor[0]) + 1
+    indent, nl = s[line_start:anchor[0]], blocks.nl_of(s)
+    gap = nl + nl if s[anchor[1]:anchor[1] + 2 * len(nl)] == nl + nl else nl
+    if before:
+        files.set(rel, s[:anchor[0]] + frag + gap + indent + s[anchor[0]:])
+    else:
+        files.set(rel, s[:anchor[1]] + gap + indent + frag + s[anchor[1]:])
 
 
 # ----------------------------------------------------------------------------------------------- related cards
@@ -295,7 +325,14 @@ def llms_line(slug, card, n):
     return f"- [{_html.unescape(card['name'])}]({DOMAIN}/{slug}/): {_html.unescape(card['duration'])} · {price}. {_html.unescape(card['summary'])}"
 
 
-def update_llms(files, slug, card, n, remove=False, after=None):
+LLMS_ITEM = re.compile(rf"^- \[.*?\]\({re.escape(DOMAIN)}/([^)]+)/\): ", re.M)
+
+
+def previous_in(order, slug):
+    return order[order.index(slug) - 1] if slug in order and order.index(slug) else None
+
+
+def update_llms(files, slug, card, n, remove=False, after=None, line=None):
     rel = "llms.txt"
     if not files.exists(rel):
         return
@@ -306,7 +343,7 @@ def update_llms(files, slug, card, n, remove=False, after=None):
             end = s.find("\n", m.end())
             files.set(rel, s[:m.start()] + s[end + 1 if end != -1 else m.end():])
         return
-    line = llms_line(slug, card, n)
+    line = line or llms_line(slug, card, n)
     if m:
         files.set(rel, s[:m.start()] + line + m.group(5) + s[m.end():])
         return
@@ -317,13 +354,32 @@ def update_llms(files, slug, card, n, remove=False, after=None):
             return
 
 
+def hide_snapshot(files, slug, sec, card, n, seo):
+    """Everything needed to bring a hidden trip back exactly where it was."""
+    snap = {"card": card, "price": n, "seo": seo, "cards": {}}
+    for surface in (f"{sec}/index.php", HOME):
+        snap["cards"][surface] = card_snapshot(files.get(surface), slug)
+    if files.exists("llms.txt"):
+        s = files.get("llms.txt")
+        m = llms_rx(slug).search(s)
+        snap["llms"] = {"line": m.group(0).rstrip("\r") if m else None,
+                        "after": previous_in(LLMS_ITEM.findall(s), slug)}
+    _, _, entries = search_entries(files)
+    urls = [e["u"] for e in entries]
+    snap["search"] = {"entry": next((e for e in entries if e["u"] == f"/{slug}/"), None),
+                      "after": (previous_in(urls, f"/{slug}/") or "").strip("/") or None}
+    locs = re.findall(rf"<loc>{re.escape(DOMAIN)}/(.*?)/?</loc>", files.get("sitemap.xml"))
+    snap["sitemap"] = {"after": previous_in(locs, slug)}
+    return snap
+
+
 def search_entries(files):
     s = files.get("search/index.php")
     m = re.search(r"var INDEX = (\[.*?\]);", s, re.S)
     return s, m, json.loads(m.group(1))
 
 
-def update_search(files, slug, name=None, description=None, remove=False, after=None):
+def update_search(files, slug, name=None, description=None, remove=False, after=None, entry=None):
     if not files.exists("search/index.php"):
         return
     s, m, entries = search_entries(files)
@@ -338,7 +394,11 @@ def update_search(files, slug, name=None, description=None, remove=False, after=
             if description is not None:
                 e["d"] = description
     else:
-        entry = {"t": _html.unescape(name or ""), "u": url, "d": description or "", "k": "Tour"}
+        entry = dict(entry) if entry else {"t": "", "u": url, "d": "", "k": "Tour"}
+        if name is not None:
+            entry["t"] = _html.unescape(name)
+        if description is not None:
+            entry["d"] = description
         pos = next((i + 1 for other in (after or []) for i, e in enumerate(entries) if other and e["u"] == f"/{other}/"), len(entries))
         entries.insert(pos, entry)
     files.set("search/index.php", s[:m.start(1)] + json.dumps(entries, ensure_ascii=False) + s[m.end(1):])
@@ -561,11 +621,17 @@ def publish_records(records, files, today=None, fetch=None):
             card, hub, url = merged["card"], f"{sec}/index.php", f"/{slug}/"
             if have != "published":
                 # new trip, or a hidden trip coming back
-                kept = f"{HIDDEN}/{slug}.php"
+                kept, snap = f"{HIDDEN}/{slug}.php", {}
+                same_section = [p for p in pages if p.startswith(sec + "/") and p != slug][::-1]
                 if files.exists(kept):
                     files.set(rel, files.get(kept))
                     files.remove(kept)
+                    if files.exists(f"{HIDDEN}/{slug}.json"):
+                        snap = json.loads(files.get(f"{HIDDEN}/{slug}.json"))
+                        files.remove(f"{HIDDEN}/{slug}.json")
                     base = site_record_from_text(files, slug)
+                    if base and snap.get("card"):
+                        base["card"] = {**snap["card"], "home": bool((snap.get("cards") or {}).get(HOME))}
                 else:
                     tpl = rec.get("template")
                     if not tpl or tpl not in site:
@@ -573,13 +639,21 @@ def publish_records(records, files, today=None, fetch=None):
                     files.set(rel, files.get(page_rel(tpl)).replace(f"/{tpl}/", f"/{slug}/"))
                     base = None
                 write_page(files, slug, merged, base)
-                insert_card(files, hub, slug, card, n, neighbours(rec))
-                if card.get("home") and not card_span(files.get(HOME), slug):
-                    insert_card(files, HOME, slug, card, n, neighbours(rec) + [p for p in pages if p.startswith(sec + "/")][::-1])
-                update_llms(files, slug, card, n, after=neighbours(rec) + [p for p in pages if p.startswith(sec + "/")][::-1])
+                cards = snap.get("cards") or {}
+                insert_card(files, hub, slug, card, n, neighbours(rec) + same_section, cards.get(hub), snap.get("card"))
+                if card.get("home"):
+                    insert_card(files, HOME, slug, card, n, neighbours(rec) + same_section, cards.get(HOME), snap.get("card"))
+                unchanged = snap.get("card") and all(card.get(k) == snap["card"].get(k) for k in ("name", "duration", "summary")) and n == snap.get("price")
+                llms = snap.get("llms") or {}
+                update_llms(files, slug, card, n, after=[llms.get("after")] + neighbours(rec) + same_section,
+                            line=llms.get("line") if unchanged else None)
                 meta[url] = dict(merged["seo"])
-                update_search(files, slug, card["name"], final_seo(merged["seo"]["description"], n), after=neighbours(rec))
-                update_sitemap(files, slug, today, after=neighbours(rec))
+                search = snap.get("search") or {}
+                keep_entry = search.get("entry") and unchanged and snap.get("seo") == merged["seo"]
+                update_search(files, slug, None if keep_entry else card["name"],
+                              None if keep_entry else final_seo(merged["seo"]["description"], n),
+                              after=[search.get("after")] + neighbours(rec) + same_section, entry=search.get("entry"))
+                update_sitemap(files, slug, today, after=[(snap.get("sitemap") or {}).get("after")] + neighbours(rec) + same_section)
                 touched = True
             else:
                 old = page
@@ -615,6 +689,8 @@ def publish_records(records, files, today=None, fetch=None):
         elif have == "published":
             # hide: keep the page for later, redirect to the hub, take the trip out of every list
             files.set(f"{HIDDEN}/{slug}.php", files.get(rel))
+            snap = hide_snapshot(files, slug, sec, page["card"], amount(page["blocks"].get("price")), page["seo"])
+            files.set(f"{HIDDEN}/{slug}.json", json.dumps(snap, ensure_ascii=False, indent=1) + "\n")
             files.set(rel, f"<?php header('Location: /{sec}/', true, 301); exit;")
             for surface in (f"{sec}/index.php", HOME):
                 span = card_span(files.get(surface), slug)
@@ -801,12 +877,20 @@ def cmd_save():
 
 
 def cmd_finish():
-    result = arg("--result")
+    """--stage build: publishing stopped before the upload; --stage deploy: the upload job's result."""
+    result, stage, job = arg("--result"), arg("--stage", "deploy"), arg("--job")
     db = DB()
-    fields = {"status": "success" if result in ("success", "skipped") else "failed", "finished_at": now()}
-    if result not in ("success", "skipped"):
-        fields["message"] = "The website upload did not finish. The changes are saved; press Publish again to retry."
-    db.job(arg("--job"), **fields)
+    rows = db.call("GET", f"/rest/v1/publish_jobs?select=status&id=eq.{int(job)}") if job else []
+    if rows and rows[0]["status"] in ("failed", "success"):
+        return  # already reported by an earlier step
+    if result == "success":
+        db.job(job, status="success", finished_at=now())
+    elif result == "skipped":
+        db.job(job, status="success", finished_at=now(), message="Saved in the repository. The automatic website upload is switched off.")
+    elif stage == "build":
+        db.job(job, status="failed", finished_at=now(), message="Publishing stopped before the upload, so the website did not change. Press Publish again; if it fails twice, open the run link.")
+    else:
+        db.job(job, status="failed", finished_at=now(), message="The website upload did not finish. Your changes are saved; press Publish again to retry.")
 
 
 def run_url():

@@ -12,6 +12,7 @@
 import copy
 import io
 import json
+import re
 import subprocess
 import sys
 from pathlib import Path
@@ -171,12 +172,21 @@ for rec in recs:
     recs2.append({**rec, "data": copy.deepcopy(u["data"]), "live_data": copy.deepcopy(u["data"]), "live_status": u["live_status"]})
 _, summary2, written2 = publish(recs2)
 check(not written2, f"second publish wrote {written2}")
+kept_page = (ROOT / sync.HIDDEN / f"{RAS}.php").read_bytes().decode("utf-8")
 next(r for r in recs2 if r["slug"] == RAS)["status"] = "published"
 _, summary3, written3 = publish(recs2)
-orig = subprocess.run(["git", "show", f"HEAD:{RAS}/index.php"], cwd=ROOT, capture_output=True).stdout.decode("utf-8")
-check((ROOT / RAS / "index.php").read_bytes().decode("utf-8") == orig, "un-hidden page is byte-identical")
-check('href="/tours/ras-mohammed-snorkeling/"' in sync.Files().get("tours/index.php"), "un-hidden card back on hub")
-check(not (ROOT / sync.HIDDEN / f"{RAS}.php").exists(), "hidden copy removed after un-hide")
+files = sync.Files()
+check(files.get(sync.page_rel(RAS)) == kept_page, "un-hidden page is byte-identical to the page that was hidden")
+head = lambda rel: subprocess.run(["git", "show", f"HEAD:{rel}"], cwd=ROOT, capture_output=True).stdout.decode("utf-8")
+for surface in ("tours/index.php", "index.php"):
+    was, now = sync.card_snapshot(head(surface), RAS), sync.card_snapshot(files.get(surface), RAS)
+    check(was == now, f"{surface}: card back in the same place\n   was {was and (was['after'], was['before'])}\n   now {now and (now['after'], now['before'])}")
+check(sync.llms_rx(RAS).search(head("llms.txt")).group(0) == sync.llms_rx(RAS).search(files.get("llms.txt")).group(0), "llms line restored")
+check(sync.previous_in(sync.LLMS_ITEM.findall(head("llms.txt")), RAS) == sync.previous_in(sync.LLMS_ITEM.findall(files.get("llms.txt")), RAS), "llms line in place")
+entry = lambda s: next(e for e in json.loads(re.search(r"var INDEX = (\[.*?\]);", s, re.S).group(1)) if e["u"] == f"/{RAS}/")
+check(entry(head("search/index.php")) == entry(files.get("search/index.php")), "search entry restored")
+check(f"{sync.DOMAIN}/{RAS}/" in files.get("sitemap.xml"), "sitemap entry restored")
+check(not (ROOT / sync.HIDDEN / f"{RAS}.php").exists() and not (ROOT / sync.HIDDEN / f"{RAS}.json").exists(), "hidden copy removed after un-hide")
 
 print(f"\n{len(failures)} failure(s)")
 print(git("status", "--short")[:3000])

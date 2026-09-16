@@ -1,0 +1,44 @@
+# Keeps the control panel in step with the repository.
+# Run it once by hand to fill the control panel with the site's trips; after that it runs by itself whenever a push
+# to main changes trip pages (e.g. the daily SEO work), copying those edits into the control panel without touching
+# unpublished edits made there.
+#
+# Needs the same secret as publish-content.yml: SUPABASE_SERVICE_ROLE_KEY (and optional variable SUPABASE_URL).
+
+name: Update control panel from the site
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "tours/**"
+      - "nile-cruises/**"
+      - "packages/**"
+      - "index.php"
+      - "_dev/product_meta.json"
+  workflow_dispatch:
+
+concurrency:
+  group: cms-import
+  cancel-in-progress: false
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      SUPABASE_URL: ${{ vars.SUPABASE_URL || 'https://tdpsvcsniftrgnrdyhgi.supabase.co' }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      PYTHONDONTWRITEBYTECODE: "1"
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - name: Copy the site's trips into the control panel
+        run: |
+          if [ -z "$SUPABASE_SERVICE_ROLE_KEY" ]; then
+            echo "::notice::SUPABASE_SERVICE_ROLE_KEY is not set yet, nothing to update"
+            exit 0
+          fi
+          python3 _dev/cms/sync.py import

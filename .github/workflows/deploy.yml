@@ -10,6 +10,10 @@
 #
 # Files that exist only on the server are left alone (no --delete), so nothing
 # like a Search Console verification file can be wiped by a deploy.
+#
+# Also called by publish-content.yml after the control panel commits, so it always uploads the latest main.
+# Control panel settings are written to admin/config.js at upload time (repository variables, both public values):
+#   SUPABASE_URL (optional), SUPABASE_ANON_KEY (Supabase -> Project Settings -> API Keys -> anon / publishable key)
 
 name: Deploy to Hostinger
 
@@ -17,18 +21,29 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
-
-concurrency:
-  group: deploy-production
-  cancel-in-progress: false
+  workflow_call:
 
 jobs:
   deploy:
     if: ${{ vars.DEPLOY_ENABLED == 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    concurrency:
+      group: deploy-production
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - name: Control panel settings
+        env:
+          SUPABASE_URL: ${{ vars.SUPABASE_URL || 'https://tdpsvcsniftrgnrdyhgi.supabase.co' }}
+          SUPABASE_ANON_KEY: ${{ vars.SUPABASE_ANON_KEY }}
+        run: |
+          if [ -d admin ]; then
+            printf 'window.AVICON_CMS = { url: "%s", key: "%s" };\n' "$SUPABASE_URL" "$SUPABASE_ANON_KEY" > admin/config.js
+          fi
 
       - name: Sync changed files (rsync over SSH)
         env:
