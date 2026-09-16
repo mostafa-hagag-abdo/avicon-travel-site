@@ -1,6 +1,6 @@
 # Website forms → Supabase
 
-Every form on avicontravel.com posts to one Supabase Edge Function. The function:
+Every form on avicontravel.com posts to one Supabase Edge Function: https://tdpsvcsniftrgnrdyhgi.supabase.co/functions/v1/smooth-worker (project `avicon-travel`, Frankfurt). The source is `functions/submit-request/index.ts`; Supabase auto-named the deployed function `smooth-worker`. The function:
 1. saves the request in `public.form_requests`,
 2. emails the team through Resend,
 3. sends a WhatsApp message through the WhatsApp Cloud API.

@@ -1,6 +1,9 @@
-"""Point every website form at the Supabase Edge Function (submit-request) instead of Web3Forms.
+"""Point every website form at the Supabase Edge Function instead of Web3Forms.
 
-    python _dev/apply_forms.py https://<project-ref>.supabase.co/functions/v1/submit-request [--dry-run]
+    python _dev/apply_forms.py https://<project-ref>.supabase.co/functions/v1/<function-name> [--dry-run]
+
+The live function is https://tdpsvcsniftrgnrdyhgi.supabase.co/functions/v1/smooth-worker (source:
+_dev/supabase/functions/submit-request/index.ts; Supabase auto-named it smooth-worker when it was deployed).
 
 - replaces the Web3Forms URL (form actions and fetch() calls) with the function URL
 - removes the Web3Forms-only hidden inputs (access_key, from_name, redirect)
@@ -14,13 +17,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SKIP = {"_dev", ".git", ".github", "database", "avicontravel-backup", "node_modules"}
-OLD_URL = re.compile(r"https://api\.web3forms\.com/submit|https://[a-z0-9]+\.supabase\.co/functions/v1/submit-request")
+OLD_URL = re.compile(r"https://api\.web3forms\.com/submit|https://[a-z0-9]+\.supabase\.co/functions/v1/[a-z0-9_-]+")
 HIDDEN = re.compile(r'[ \t]*<input type="hidden" name="(?:access_key|from_name|redirect)"[^>]*>[ \t]*(?:\r?\n)?')
 FORM_TAG = re.compile(r"<form\b[^>]*>", re.S)
 
 args = [a for a in sys.argv[1:] if not a.startswith("--")]
 dry = "--dry-run" in sys.argv
-if len(args) != 1 or not re.fullmatch(r"https://[a-z0-9]+\.supabase\.co/functions/v1/submit-request", args[0]):
+if len(args) != 1 or not re.fullmatch(r"https://[a-z0-9]+\.supabase\.co/functions/v1/[a-z0-9_-]+", args[0]):
     sys.exit(__doc__)
 ENDPOINT = args[0]
 
@@ -46,8 +49,8 @@ for p in sorted(ROOT.rglob("*.php")):
     s = p.read_bytes().decode("utf-8")
     new = s
     if p.as_posix().endswith("includes/tracking.php"):
-        new = new.replace(r"/api\.web3forms\.com/", r"/functions\/v1\/submit-request/")
-        new = new.replace("/web3forms/.test(", "/submit-request/.test(")
+        new = new.replace(r"/api\.web3forms\.com/", r"/supabase\.co\/functions\/v1\//")
+        new = new.replace("/web3forms/.test(", r"/supabase\.co\/functions\/v1\//.test(")
         new = new.replace("transfer forms post straight to Web3Forms", "transfer forms post straight to the form endpoint")
     if OLD_URL.search(new) or "form_type" in new:
         new = OLD_URL.sub(ENDPOINT, new)
