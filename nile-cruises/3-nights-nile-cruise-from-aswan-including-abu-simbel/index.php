@@ -235,7 +235,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
             <div class="fact-card qf-extra">
               <div class="fact-icon"><i class="fas fa-tag"></i></div>
               <div class="fact-label">Price</div>
-              <div class="fact-value">From $415 / person</div>
+              <div class="fact-value">From $500 / person</div>
             </div>
             <div class="fact-card qf-extra">
               <div class="fact-icon"><i class="fas fa-location-dot"></i></div>
@@ -418,7 +418,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
         <div class="price-card">
           <div class="price-header">
             <div class="price-label">Starting From</div>
-            <div class="price-amount"><small>$</small>415<small>/person</small></div>
+            <div class="price-amount"><small>$</small>500<small>/person</small></div>
             <div class="price-per">Preliminary price per person</div>
           </div>
 

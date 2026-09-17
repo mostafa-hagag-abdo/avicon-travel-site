@@ -616,7 +616,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <div class="cards-grid">
         <a class="tour-card" href="/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/">
           <div class="card-img"><span class="badge">4 Days</span><span class="route"><i class="fas fa-location-dot"></i> Aswan - Luxor</span><img width="1024" height="683" loading="lazy" decoding="async" src="/assets/uploads/2026/07/3-Nights-Nile-Cruise-from-Aswan-Include-Abu-Simbel-004.jpg.webp" alt="3 Nights Nile River Cruise from Aswan Include Abu Simbel"></div>
-          <div class="card-body"><h3>3 Nights Nile River Cruise from Aswan Include Abu Simbel</h3><p>Classic Aswan to Luxor Nile cruise with Abu Simbel, Kom Ombo, Edfu, and Luxor highlights.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>4 Days / 3 Nights</strong></div><div class="meta"><span>Route</span><strong>Aswan to Luxor</strong></div></div><div class="card-footer"><div class="price">$415/person</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
+          <div class="card-body"><h3>3 Nights Nile River Cruise from Aswan Include Abu Simbel</h3><p>Classic Aswan to Luxor Nile cruise with Abu Simbel, Kom Ombo, Edfu, and Luxor highlights.</p><div class="meta-row"><div class="meta"><span>Duration</span><strong>4 Days / 3 Nights</strong></div><div class="meta"><span>Route</span><strong>Aswan to Luxor</strong></div></div><div class="card-footer"><div class="price">$500/person</div><span class="view-link">View Details <i class="fas fa-arrow-right"></i></span></div></div>
         </a>
 
         <a class="tour-card" href="/nile-cruises/4-days-dahabiya-nile-cruise-from-aswan-to-luxor/">
