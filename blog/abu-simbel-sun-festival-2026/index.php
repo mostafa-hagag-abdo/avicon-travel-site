@@ -231,7 +231,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 
 
-<p class="avp-answer">Yes. Our <a href="/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/">3-night cruise from Aswan</a> and <a href="/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/">4-night cruise from Luxor</a> both offer Abu Simbel as an optional excursion, from $90 per person. Add it when you book and ask us to time the cruise so the temple visit falls on the festival morning of October 22.</p>
+<p class="avp-answer">Yes. Our <a href="/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/">3-night cruise from Aswan</a> and <a href="/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/">4-night cruise from Luxor</a> both offer Abu Simbel as an optional excursion, from $90 per person, which covers the ticket, your guide and the private vehicle. Add it when you book and ask us to time the cruise so the temple visit falls on the festival morning of October 22.</p>
 
 
 
