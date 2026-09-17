@@ -41,7 +41,46 @@ NAMES = [
 
 ITEM = ('<div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-%s"></i></div>'
         '<div class="ticket-item-text">%s</div></div>')
-EXTRA = ITEM % ('xmark', 'Abu Simbel excursion - optional, from $90 per person')
+EXTRA = ITEM % ('xmark', 'Abu Simbel excursion - optional, from $90 per person (ticket, guide and vehicle)')
+
+# Second pass, 2026-09-17: the owner said the $90 covers the entrance ticket, the guide and the vehicle.
+# These run first and are skipped when their text is not there (a page that never had the first pass).
+MIGRATIONS = [
+    (P3, ITEM % ('xmark', 'Abu Simbel excursion - optional, from $90 per person'), EXTRA),
+    (P4, ITEM % ('xmark', 'Abu Simbel excursion - optional, from $90 per person'), EXTRA),
+    (P3, 'The great rock-cut temples of Abu Simbel can be added as an optional excursion from $90 per person.',
+         'The great rock-cut temples of Abu Simbel can be added as an optional excursion from $90 per person, '
+         'including the entrance ticket, guide and private vehicle.'),
+    (P4, 'The colossal temples of Abu Simbel can be added as an optional excursion from $90 per person.',
+         'The colossal temples of Abu Simbel can be added as an optional excursion from $90 per person, '
+         'including the entrance ticket, guide and private vehicle.'),
+    (P3, '<p>Optional extra, from $90 per person: start early with breakfast boxes, then travel by private '
+         'air-conditioned vehicle to Abu Simbel',
+         '<p>Optional extra, from $90 per person, which covers the entrance ticket, an Egyptologist guide and '
+         'the private air-conditioned vehicle: start early with breakfast boxes, then drive to Abu Simbel'),
+    (P4, '<p>Optional extra, from $90 per person: start early with breakfast boxes and travel by modern '
+         'air-conditioned vehicle to Abu Simbel,',
+         '<p>Optional extra, from $90 per person, which covers the entrance ticket, an Egyptologist guide and '
+         'the air-conditioned vehicle: start early with breakfast boxes, drive to Abu Simbel,'),
+    (P3, 'back on board for lunch. If you skip it, you have a free morning on board in Aswan.',
+         'back on board for lunch. The $90 covers the entrance ticket, your Egyptologist guide and the private '
+         'air-conditioned vehicle. If you skip it, you have a free morning on board in Aswan.'),
+    (P4, 'then back to the ship. If you skip it, you have a free morning on board in Aswan.',
+         'then back to the ship. The $90 covers the entrance ticket, your Egyptologist guide and the '
+         'air-conditioned vehicle. If you skip it, you have a free morning on board in Aswan.'),
+    (P3, 'The Abu Simbel excursion is optional from $90 per person;',
+         'The Abu Simbel excursion is optional from $90 per person, covering the ticket, guide and vehicle;'),
+    (P4, 'The Abu Simbel excursion is optional from $90 per person;',
+         'The Abu Simbel excursion is optional from $90 per person, covering the ticket, guide and vehicle;'),
+    ('tours/abu-simbel-temples-private-tour/index.php',
+     'both offer it as an optional excursion from $90 per person, and the',
+     'both offer it as an optional excursion from $90 per person - ticket, guide and vehicle included - and the'),
+    ('blog/abu-simbel-sun-festival-2026/index.php',
+     'both offer Abu Simbel as an optional excursion, from $90 per person. Add it when you book',
+     'both offer Abu Simbel as an optional excursion, from $90 per person, which covers the ticket, your guide '
+     'and the private vehicle. Add it when you book'),
+    ('llms.txt', 'Abu Simbel optional from $90.', 'Abu Simbel optional from $90 (ticket, guide and vehicle).'),
+]
 
 EDITS = [
     # ---------------- 3-night cruise from Aswan ----------------
@@ -203,6 +242,15 @@ def main(check):
         if f not in texts:
             texts[f] = open(f, 'rb').read().decode('utf-8')
         return texts[f]
+
+    for f, old, new in MIGRATIONS:
+        s = load(f)
+        if new in s or old not in s:
+            continue
+        n = s.count(old)
+        texts[f] = s.replace(old, new)
+        changed += n
+        print('  + covers: %s | %s' % (f, old[:50]))
 
     for f, old, new in EDITS:
         s = load(f)
