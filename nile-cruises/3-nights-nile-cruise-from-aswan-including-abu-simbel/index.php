@@ -7,14 +7,14 @@
 	
 	
 <!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
-<title>3-Night Nile Cruise from Aswan with Abu Simbel | From $500</title>
-<meta name="description" content="A 3-night Nile cruise from Aswan to Luxor with Aswan sightseeing, the rock-cut temples of Abu Simbel, Kom Ombo, Edfu and Luxor. From $500 per person."/>
+<title>3-Night Aswan Nile Cruise, Abu Simbel Option | From $500</title>
+<meta name="description" content="A 3-night Nile cruise from Aswan to Luxor with Aswan sights, Kom Ombo, Edfu and Luxor temples. Abu Simbel optional, from $90. From $500 per person."/>
 <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
 <link rel="canonical" href="https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="3-Night Nile Cruise from Aswan with Abu Simbel | From $500" />
-<meta property="og:description" content="A 3-night Nile cruise from Aswan to Luxor with Aswan sightseeing, the rock-cut temples of Abu Simbel, Kom Ombo, Edfu and Luxor. From $500 per person." />
+<meta property="og:title" content="3-Night Aswan Nile Cruise, Abu Simbel Option | From $500" />
+<meta property="og:description" content="A 3-night Nile cruise from Aswan to Luxor with Aswan sights, Kom Ombo, Edfu and Luxor temples. Abu Simbel optional, from $90. From $500 per person." />
 <meta property="og:url" content="https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/" />
 <meta property="og:site_name" content="Avicon Travel" />
 <meta property="og:updated_time" content="2026-07-27T15:45:52+00:00" />
@@ -22,11 +22,11 @@
 <meta property="og:image:secure_url" content="https://avicontravel.com/assets/uploads/2026/07/Abu-Simbel-Temple-002.jpg" />
 <meta property="og:image:width" content="1024" />
 <meta property="og:image:height" content="768" />
-<meta property="og:image:alt" content="3 Nights Nile Cruise from Aswan Including Abu Simbel" />
+<meta property="og:image:alt" content="3 Nights Nile Cruise from Aswan with Optional Abu Simbel" />
 <meta property="og:image:type" content="image/jpeg" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="3-Night Nile Cruise from Aswan with Abu Simbel | From $500" />
-<meta name="twitter:description" content="A 3-night Nile cruise from Aswan to Luxor with Aswan sightseeing, the rock-cut temples of Abu Simbel, Kom Ombo, Edfu and Luxor. From $500 per person." />
+<meta name="twitter:title" content="3-Night Aswan Nile Cruise, Abu Simbel Option | From $500" />
+<meta name="twitter:description" content="A 3-night Nile cruise from Aswan to Luxor with Aswan sights, Kom Ombo, Edfu and Luxor temples. Abu Simbel optional, from $90. From $500 per person." />
 <meta name="twitter:image" content="https://avicontravel.com/assets/uploads/2026/07/Abu-Simbel-Temple-002.jpg" />
 <!-- /Rank Math WordPress SEO plugin -->
 
@@ -151,7 +151,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <script type="text/javascript" src="/assets/core/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="/assets/core/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <style id="avicon-img-ratio">:where(img[width][height]){height:auto}</style>
-<script type="application/ld+json" id="avicon-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://avicontravel.com/#organization","name":"Avicon Travel","url":"https://avicontravel.com/","logo":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp"},"email":"info@avicontravel.com","telephone":"+201200555600","sameAs":["https://www.instagram.com/avicontravel/","https://www.facebook.com/profile.php?id=61589341120733","https://www.tripadvisor.com/Attraction_Review-g294204-d27707479-Reviews-Avicon_Travel-Aswan_Aswan_Governorate_Nile_River_Valley.html"]},{"@type":"WebSite","@id":"https://avicontravel.com/#website","url":"https://avicontravel.com/","name":"Avicon Travel","publisher":{"@id":"https://avicontravel.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/#webpage","url":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/","name":"3-Night Nile Cruise from Aswan with Abu Simbel | From $500","description":"A 3-night Nile cruise from Aswan to Luxor with Aswan sightseeing, the rock-cut temples of Abu Simbel, Kom Ombo, Edfu and Luxor. From $500 per person.","isPartOf":{"@id":"https://avicontravel.com/#website"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/07/Abu-Simbel-Temple-002.jpg"},"breadcrumb":{"@id":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/#breadcrumb"},"mainEntity":{"@id":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/#trip"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://avicontravel.com/"},{"@type":"ListItem","position":2,"name":"Egypt Nile Cruises","item":"https://avicontravel.com/nile-cruises/"},{"@type":"ListItem","position":3,"name":"3 Nights Nile River Cruise from Aswan Include Abu Simbel","item":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/"}]},{"@type":"TouristTrip","@id":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/#trip","name":"3 Nights Nile River Cruise from Aswan Include Abu Simbel","description":"A 3-night Nile cruise from Aswan to Luxor with Aswan sightseeing, the rock-cut temples of Abu Simbel, Kom Ombo, Edfu and Luxor. From $500 per person.","url":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/","image":"https://avicontravel.com/assets/uploads/2026/07/Abu-Simbel-Temple-002.jpg","provider":{"@id":"https://avicontravel.com/#organization"},"itinerary":{"@type":"ItemList","numberOfItems":4,"itemListElement":[{"@type":"ListItem","position":1,"name":"Day 1 Aswan Sightseeing & Cruise Check-in"},{"@type":"ListItem","position":2,"name":"Day 2 Abu Simbel Temples & Sail to Kom Ombo"},{"@type":"ListItem","position":3,"name":"Day 3 Kom Ombo & Edfu Temples"},{"@type":"ListItem","position":4,"name":"Day 4 Luxor Treasures & End of Cruise"}]},"offers":{"@type":"Offer","price":"500","priceCurrency":"USD","availability":"https://schema.org/InStock","url":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/","description":"Starting price per person","seller":{"@id":"https://avicontravel.com/#organization"}}},{"@type":"FAQPage","@id":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/#faq","isPartOf":{"@id":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/#webpage"},"mainEntity":[{"@type":"Question","name":"Is Abu Simbel included?","acceptedAnswer":{"@type":"Answer","text":"Yes. On day 2 you set off early with breakfast boxes and drive by private air-conditioned vehicle to the temples of Ramses II and Queen Nefertari, returning to the ship for lunch."}},{"@type":"Question","name":"Where does the cruise start and end?","acceptedAnswer":{"@type":"Answer","text":"It starts with pick-up in Aswan and ends in Luxor, with drop-off at your hotel or chosen location after the day-4 tours."}},{"@type":"Question","name":"Why does the price start from $500?","acceptedAnswer":{"@type":"Answer","text":"$500 per person is for groups of 9-16 from May to September 2026. In that season 2-4 travelers pay $715 each and solo travelers $1,230. From October to March it starts at $775, and over Christmas-New Year at $945."}},{"@type":"Question","name":"What is included?","acceptedAnswer":{"@type":"Answer","text":"Three nights on a 5-star deluxe Nile cruise with the meals in the itinerary, the Abu Simbel excursion, entrance fees, an Egyptologist guide, all transfers, and service charges and taxes. Tips and personal expenses are extra."}},{"@type":"Question","name":"Which temples do we visit?","acceptedAnswer":{"@type":"Answer","text":"The High Dam, the Unfinished Obelisk and Philae Temple in Aswan, Abu Simbel, Kom Ombo and Edfu, then the Valley of the Kings, Hatshepsut Temple, the Colossi of Memnon and Karnak in Luxor."}}]}]}</script>
+<script type="application/ld+json" id="avicon-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://avicontravel.com/#organization","name":"Avicon Travel","url":"https://avicontravel.com/","logo":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/05/cropped-cropped-Avicon-Travel-1-1.png.webp"},"email":"info@avicontravel.com","telephone":"+201200555600","sameAs":["https://www.instagram.com/avicontravel/","https://www.facebook.com/profile.php?id=61589341120733","https://www.tripadvisor.com/Attraction_Review-g294204-d27707479-Reviews-Avicon_Travel-Aswan_Aswan_Governorate_Nile_River_Valley.html"]},{"@type":"WebSite","@id":"https://avicontravel.com/#website","url":"https://avicontravel.com/","name":"Avicon Travel","publisher":{"@id":"https://avicontravel.com/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/#webpage","url":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/","name":"3-Night Aswan Nile Cruise, Abu Simbel Option | From $500","description":"A 3-night Nile cruise from Aswan to Luxor with Aswan sights, Kom Ombo, Edfu and Luxor temples. Abu Simbel optional, from $90. From $500 per person.","isPartOf":{"@id":"https://avicontravel.com/#website"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://avicontravel.com/assets/uploads/2026/07/Abu-Simbel-Temple-002.jpg"},"breadcrumb":{"@id":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/#breadcrumb"},"mainEntity":{"@id":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/#trip"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://avicontravel.com/"},{"@type":"ListItem","position":2,"name":"Egypt Nile Cruises","item":"https://avicontravel.com/nile-cruises/"},{"@type":"ListItem","position":3,"name":"3 Nights Nile River Cruise from Aswan with Optional Abu Simbel","item":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/"}]},{"@type":"TouristTrip","@id":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/#trip","name":"3 Nights Nile River Cruise from Aswan with Optional Abu Simbel","description":"A 3-night Nile cruise from Aswan to Luxor with Aswan sights, Kom Ombo, Edfu and Luxor temples. Abu Simbel optional, from $90. From $500 per person.","url":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/","image":"https://avicontravel.com/assets/uploads/2026/07/Abu-Simbel-Temple-002.jpg","provider":{"@id":"https://avicontravel.com/#organization"},"itinerary":{"@type":"ItemList","numberOfItems":4,"itemListElement":[{"@type":"ListItem","position":1,"name":"Day 1 Aswan Sightseeing & Cruise Check-in"},{"@type":"ListItem","position":2,"name":"Day 2 Sail to Kom Ombo (Abu Simbel optional)"},{"@type":"ListItem","position":3,"name":"Day 3 Kom Ombo & Edfu Temples"},{"@type":"ListItem","position":4,"name":"Day 4 Luxor Treasures & End of Cruise"}]},"offers":{"@type":"Offer","price":"500","priceCurrency":"USD","availability":"https://schema.org/InStock","url":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/","description":"Starting price per person","seller":{"@id":"https://avicontravel.com/#organization"}}},{"@type":"FAQPage","@id":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/#faq","isPartOf":{"@id":"https://avicontravel.com/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/#webpage"},"mainEntity":[{"@type":"Question","name":"Is Abu Simbel included?","acceptedAnswer":{"@type":"Answer","text":"No. Abu Simbel is an optional extra from $90 per person. If you add it, day 2 starts early with breakfast boxes and a drive by private air-conditioned vehicle to the temples of Ramses II and Queen Nefertari, back on board for lunch. If you skip it, you have a free morning on board in Aswan."}},{"@type":"Question","name":"Where does the cruise start and end?","acceptedAnswer":{"@type":"Answer","text":"It starts with pick-up in Aswan and ends in Luxor, with drop-off at your hotel or chosen location after the day-4 tours."}},{"@type":"Question","name":"Why does the price start from $500?","acceptedAnswer":{"@type":"Answer","text":"$500 per person is for groups of 9-16 from May to September 2026. In that season 2-4 travelers pay $715 each and solo travelers $1,230. From October to March it starts at $775, and over Christmas-New Year at $945."}},{"@type":"Question","name":"What is included?","acceptedAnswer":{"@type":"Answer","text":"Three nights on a 5-star deluxe Nile cruise with the meals in the itinerary, entrance fees to the sites in the programme, an Egyptologist guide, all transfers, and service charges and taxes. The Abu Simbel excursion is optional from $90 per person; tips and personal expenses are extra."}},{"@type":"Question","name":"Which temples do we visit?","acceptedAnswer":{"@type":"Answer","text":"The High Dam, the Unfinished Obelisk and Philae Temple in Aswan, then Kom Ombo and Edfu, and the Valley of the Kings, Hatshepsut Temple, the Colossi of Memnon and Karnak in Luxor. Abu Simbel can be added as an optional excursion on day 2."}}]}]}</script>
 </head>
 <body data-rsssl=1 class="wp-singular tour-template tour-template-elementor_header_footer single single-tour postid-11613 wp-custom-logo wp-theme-gofly-main tt-magic-cursor  theme-gofly-main woocommerce-no-js elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-11613">
 <?php include $_SERVER['DOCUMENT_ROOT'].'/includes/header.php'; ?>
@@ -163,9 +163,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <!-- ========== HERO ========== -->
 <section class="bk-hero">
   <div class="bk-container">
-    <nav class="bk-crumb"><a href="/">Home</a><span>›</span><a href="/tours/">Tours</a><span>›</span><b>3 Nights Nile River Cruise from Aswan Include Abu Simbel</b></nav>
-    <div class="bk-badge"><i class="fas fa-star"></i> Nile Cruise with Abu Simbel</div>
-    <h1>3 Nights Nile River Cruise from Aswan Include Abu Simbel</h1>
+    <nav class="bk-crumb"><a href="/">Home</a><span>›</span><a href="/tours/">Tours</a><span>›</span><b>3 Nights Nile River Cruise from Aswan with Optional Abu Simbel</b></nav>
+    <div class="bk-badge"><i class="fas fa-star"></i> Nile Cruise with Optional Abu Simbel</div>
+    <h1>3 Nights Nile River Cruise from Aswan with Optional Abu Simbel</h1>
     <div class="bk-chips">
       <span class="bk-chip"><i class="fas fa-clock"></i> 4 Days / 3 Nights</span>
       <span class="bk-chip"><i class="fas fa-ship"></i> Nile Cruise Tour</span>
@@ -174,9 +174,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     </div>
   </div>
   <div class="bk-gallery bk-container">
-    <div class="bk-main" data-bk-lb="1"><img width="1024" height="530" decoding="async" src="/assets/uploads/2026/07/Aswan-Luxor-Nile-Cruises-002.jpg.webp" alt="3 Nights Nile River Cruise from Aswan Include Abu Simbel"></div>
-      <div class="bk-tile" data-bk-lb="1"><img width="1024" height="683" loading="lazy" decoding="async" src="/assets/uploads/2026/07/3-Nights-Nile-Cruise-from-Aswan-Include-Abu-Simbel-004.jpg.webp" alt="3 Nights Nile River Cruise from Aswan Include Abu Simbel – photo 2"></div>
-      <div class="bk-tile" data-bk-lb="1"><img width="1024" height="683" loading="lazy" decoding="async" src="/assets/uploads/3-Nights-Nile-Cruise-from-Aswan-Include-Abu-Simbel-003.jpg.webp" alt="3 Nights Nile River Cruise from Aswan Include Abu Simbel – photo 3">
+    <div class="bk-main" data-bk-lb="1"><img width="1024" height="530" decoding="async" src="/assets/uploads/2026/07/Aswan-Luxor-Nile-Cruises-002.jpg.webp" alt="3 Nights Nile River Cruise from Aswan with Optional Abu Simbel"></div>
+      <div class="bk-tile" data-bk-lb="1"><img width="1024" height="683" loading="lazy" decoding="async" src="/assets/uploads/2026/07/3-Nights-Nile-Cruise-from-Aswan-Include-Abu-Simbel-004.jpg.webp" alt="3 Nights Nile River Cruise from Aswan with Optional Abu Simbel – photo 2"></div>
+      <div class="bk-tile" data-bk-lb="1"><img width="1024" height="683" loading="lazy" decoding="async" src="/assets/uploads/3-Nights-Nile-Cruise-from-Aswan-Include-Abu-Simbel-003.jpg.webp" alt="3 Nights Nile River Cruise from Aswan with Optional Abu Simbel – photo 3">
       </div>
   </div>
 </section>
@@ -185,7 +185,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <div class="bk-lb" id="bkLb">
   <button class="bk-lb-close" aria-label="Close">✕</button>
   <button class="bk-lb-prev" aria-label="Previous">‹</button>
-  <img width="1024" height="683" loading="lazy" decoding="async" src="/assets/uploads/2026/07/3-Nights-Nile-Cruise-from-Aswan-Include-Abu-Simbel-004.jpg.webp" alt="3 Nights Nile River Cruise from Aswan Include Abu Simbel">
+  <img width="1024" height="683" loading="lazy" decoding="async" src="/assets/uploads/2026/07/3-Nights-Nile-Cruise-from-Aswan-Include-Abu-Simbel-004.jpg.webp" alt="3 Nights Nile River Cruise from Aswan with Optional Abu Simbel">
   <button class="bk-lb-next" aria-label="Next">›</button>
   <div class="bk-lb-count">1 / 3</div>
 </div>
@@ -225,7 +225,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
         <div class="tab-panel active" id="overview">
           <h2 class="section-title">Cruise Overview</h2>
-          <p class="section-sub">Enjoy a 3-night Nile cruise from Aswan to Luxor including Abu Simbel, combining Aswan sightseeing, the great rock-cut temples of Ramses II, Kom Ombo, Edfu, and the major monuments of Luxor in one compact Upper Egypt journey.</p>
+          <p class="section-sub">Enjoy a 3-night Nile cruise from Aswan to Luxor combining Aswan sightseeing, Kom Ombo, Edfu, and the major monuments of Luxor in one compact Upper Egypt journey. The great rock-cut temples of Abu Simbel can be added as an optional excursion from $90 per person.</p>
 
           <div class="quick-facts">
             <div class="fact-card"><div class="fact-icon"><i class="fas fa-calendar-alt"></i></div><div class="fact-label">Duration</div><div class="fact-value">4 Days / 3 Nights</div></div>
@@ -245,7 +245,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
             <div class="fact-card qf-extra">
               <div class="fact-icon"><i class="fas fa-circle-check"></i></div>
               <div class="fact-label">Included</div>
-              <div class="fact-value">Full board, guide, Abu Simbel</div>
+              <div class="fact-value">Full board, guide, entry fees</div>
             </div>
             <div class="fact-card qf-extra">
               <div class="fact-icon"><i class="fas fa-sun"></i></div>
@@ -260,7 +260,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
               <div class="route-track">
                 <div class="route-stop"><div class="route-stop-icon"><i class="fas fa-water"></i></div><div class="route-stop-name">Aswan</div><div class="route-stop-num">Stop 1</div></div>
                 <div class="route-line"><i class="fas fa-car"></i></div>
-                <div class="route-stop"><div class="route-stop-icon"><i class="fas fa-monument"></i></div><div class="route-stop-name">Abu Simbel</div><div class="route-stop-num">Stop 2</div></div>
+                <div class="route-stop"><div class="route-stop-icon"><i class="fas fa-monument"></i></div><div class="route-stop-name">Abu Simbel (optional)</div><div class="route-stop-num">Stop 2</div></div>
                 <div class="route-line"><i class="fas fa-ship"></i></div>
                 <div class="route-stop"><div class="route-stop-icon"><i class="fas fa-place-of-worship"></i></div><div class="route-stop-name">Kom Ombo</div><div class="route-stop-num">Stop 3</div></div>
                 <div class="route-line"><i class="fas fa-ship"></i></div>
@@ -273,7 +273,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
           <h3 class="section-title" style="font-size:17px;margin-top:22px">Cruise Highlights</h3>
           <div class="quick-facts">
-            <div class="fact-card"><div class="fact-icon"><i class="fas fa-monument"></i></div><div class="fact-label">Abu Simbel</div><div class="fact-value">Ramses II Temples</div></div>
+            <div class="fact-card"><div class="fact-icon"><i class="fas fa-monument"></i></div><div class="fact-label">Abu Simbel</div><div class="fact-value">Ramses II (optional)</div></div>
             <div class="fact-card"><div class="fact-icon"><i class="fas fa-water"></i></div><div class="fact-label">Aswan</div><div class="fact-value">High Dam</div></div>
             <div class="fact-card"><div class="fact-icon"><i class="fas fa-place-of-worship"></i></div><div class="fact-label">Temple</div><div class="fact-value">Kom Ombo</div></div>
             <div class="fact-card"><div class="fact-icon"><i class="fas fa-landmark"></i></div><div class="fact-label">Temple</div><div class="fact-value">Edfu</div></div>
@@ -341,8 +341,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
             </div>
             <div class="day-item">
               <div class="day-marker">2</div>
-              <div class="day-header"><div class="day-title"><span>Day 2</span> Abu Simbel Temples & Sail to Kom Ombo</div><i class="fas fa-chevron-down day-toggle"></i></div>
-              <div class="day-content"><p>Start early with breakfast boxes, then travel by private air-conditioned vehicle to Abu Simbel to explore the colossal temples of Ramses II and Queen Nefertari. Return to the cruise for lunch and dinner while sailing. Meals: breakfast, lunch, and dinner.</p></div>
+              <div class="day-header"><div class="day-title"><span>Day 2</span> Sail to Kom Ombo (Abu Simbel optional)</div><i class="fas fa-chevron-down day-toggle"></i></div>
+              <div class="day-content"><p>Optional extra, from $90 per person: start early with breakfast boxes, then travel by private air-conditioned vehicle to Abu Simbel to explore the colossal temples of Ramses II and Queen Nefertari, and return to the cruise for lunch. If you skip it, you have a free morning on board in Aswan. The ship then sails on towards Kom Ombo, with lunch and dinner served on board. Meals: breakfast, lunch, and dinner.</p></div>
             </div>
             <div class="day-item">
               <div class="day-marker">3</div>
@@ -367,7 +367,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
             <div class="ticket-container">
               <div class="ticket included">
-                <div class="ticket-stub"><div class="stub-icon"><i class="fas fa-check"></i></div><div class="stub-label">Included</div><div class="stub-count">8 ITEMS</div></div>
+                <div class="ticket-stub"><div class="stub-icon"><i class="fas fa-check"></i></div><div class="stub-label">Included</div><div class="stub-count">7 ITEMS</div></div>
                 <div class="ticket-perf"><div class="dots"></div></div>
                 <div class="ticket-body">
                   <div class="ticket-header-row"><div><div class="ticket-title">Included Benefits</div><div class="ticket-subtitle">Confirmed in your cruise package</div></div><div class="ticket-stamp"><span>Pre<br>Paid<br>*</span></div></div>
@@ -375,7 +375,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Pick up service from Aswan and drop off in Luxor</div></div>
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">All transfers by modern air-conditioned vehicle</div></div>
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Accommodation on 5-star deluxe Nile cruise for 3 nights</div></div>
-                    <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Abu Simbel excursion by private air-conditioned vehicle</div></div>
+                    
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Entrance fees to all indicated sites in the itinerary</div></div>
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Egyptologist tour guide during your tours</div></div>
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-check"></i></div><div class="ticket-item-text">Meals as mentioned in the cruise itinerary</div></div>
@@ -386,13 +386,14 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
               </div>
 
               <div class="ticket excluded">
-                <div class="ticket-stub"><div class="stub-icon"><i class="fas fa-xmark"></i></div><div class="stub-label">Excluded</div><div class="stub-count">3 ITEMS</div></div>
+                <div class="ticket-stub"><div class="stub-icon"><i class="fas fa-xmark"></i></div><div class="stub-label">Excluded</div><div class="stub-count">4 ITEMS</div></div>
                 <div class="ticket-perf"><div class="dots"></div></div>
                 <div class="ticket-body">
                   <div class="ticket-header-row"><div><div class="ticket-title">Plan These Separately</div><div class="ticket-subtitle">Not part of the package</div></div><div class="ticket-stamp"><span>On<br>Your<br>Own</span></div></div>
                   <div class="ticket-items">
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-xmark"></i></div><div class="ticket-item-text">Tipping</div></div>
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-xmark"></i></div><div class="ticket-item-text">Personal expenses</div></div>
+                    <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-xmark"></i></div><div class="ticket-item-text">Abu Simbel excursion - optional, from $90 per person</div></div>
                     <div class="ticket-item"><div class="ticket-item-icon"><i class="fas fa-xmark"></i></div><div class="ticket-item-text">Any extras not mentioned in the program</div></div>
                   </div>
                   <div class="ticket-footer"><div class="ticket-meta">REF - EXC-NILE-4D</div><div class="ticket-barcode"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div></div>
@@ -405,11 +406,11 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
           <h2 class="section-title">Frequently Asked Questions</h2>
           <p class="section-sub">Quick answers about this trip. For anything else, message us on WhatsApp — we reply fast.</p>
           <div class="timeline">
-            <div class="day-item open"><div class="day-header" style="cursor:pointer"><div class="day-title" style="font-size:14px">Is Abu Simbel included?</div><i class="fas fa-chevron-down day-toggle"></i></div><div class="day-content"><p>Yes. On day 2 you set off early with breakfast boxes and drive by private air-conditioned vehicle to the temples of Ramses II and Queen Nefertari, returning to the ship for lunch.</p></div></div>
+            <div class="day-item open"><div class="day-header" style="cursor:pointer"><div class="day-title" style="font-size:14px">Is Abu Simbel included?</div><i class="fas fa-chevron-down day-toggle"></i></div><div class="day-content"><p>No. Abu Simbel is an optional extra from $90 per person. If you add it, day 2 starts early with breakfast boxes and a drive by private air-conditioned vehicle to the temples of Ramses II and Queen Nefertari, back on board for lunch. If you skip it, you have a free morning on board in Aswan.</p></div></div>
             <div class="day-item"><div class="day-header" style="cursor:pointer"><div class="day-title" style="font-size:14px">Where does the cruise start and end?</div><i class="fas fa-chevron-down day-toggle"></i></div><div class="day-content"><p>It starts with pick-up in Aswan and ends in Luxor, with drop-off at your hotel or chosen location after the day-4 tours.</p></div></div>
             <div class="day-item"><div class="day-header" style="cursor:pointer"><div class="day-title" style="font-size:14px">Why does the price start from $500?</div><i class="fas fa-chevron-down day-toggle"></i></div><div class="day-content"><p>$500 per person is for groups of 9-16 from May to September 2026. In that season 2-4 travelers pay $715 each and solo travelers $1,230. From October to March it starts at $775, and over Christmas-New Year at $945.</p></div></div>
-            <div class="day-item"><div class="day-header" style="cursor:pointer"><div class="day-title" style="font-size:14px">What is included?</div><i class="fas fa-chevron-down day-toggle"></i></div><div class="day-content"><p>Three nights on a 5-star deluxe Nile cruise with the meals in the itinerary, the Abu Simbel excursion, entrance fees, an Egyptologist guide, all transfers, and service charges and taxes. Tips and personal expenses are extra.</p></div></div>
-            <div class="day-item"><div class="day-header" style="cursor:pointer"><div class="day-title" style="font-size:14px">Which temples do we visit?</div><i class="fas fa-chevron-down day-toggle"></i></div><div class="day-content"><p>The High Dam, the Unfinished Obelisk and Philae Temple in Aswan, Abu Simbel, Kom Ombo and Edfu, then the Valley of the Kings, Hatshepsut Temple, the Colossi of Memnon and Karnak in Luxor.</p></div></div>
+            <div class="day-item"><div class="day-header" style="cursor:pointer"><div class="day-title" style="font-size:14px">What is included?</div><i class="fas fa-chevron-down day-toggle"></i></div><div class="day-content"><p>Three nights on a 5-star deluxe Nile cruise with the meals in the itinerary, entrance fees to the sites in the programme, an Egyptologist guide, all transfers, and service charges and taxes. The Abu Simbel excursion is optional from $90 per person; tips and personal expenses are extra.</p></div></div>
+            <div class="day-item"><div class="day-header" style="cursor:pointer"><div class="day-title" style="font-size:14px">Which temples do we visit?</div><i class="fas fa-chevron-down day-toggle"></i></div><div class="day-content"><p>The High Dam, the Unfinished Obelisk and Philae Temple in Aswan, then Kom Ombo and Edfu, and the Valley of the Kings, Hatshepsut Temple, the Colossi of Memnon and Karnak in Luxor. Abu Simbel can be added as an optional excursion on day 2.</p></div></div>
           </div>
         </div>
       </div>
@@ -425,9 +426,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
           <div class="price-body">
             <form id="bookingForm" novalidate>
               <input type="hidden" name="access_key" value="7b1f50c3-489b-44ee-b413-d8c7a2e59c10">
-              <input type="hidden" name="subject" value="New Booking - 3 Nights Nile River Cruise from Aswan Include Abu Simbel">
+              <input type="hidden" name="subject" value="New Booking - 3 Nights Nile River Cruise from Aswan with Optional Abu Simbel">
               <input type="hidden" name="from_name" value="Egypt Tours Website">
-              <input type="hidden" name="tour_package" value="3 Nights Nile River Cruise from Aswan Include Abu Simbel">
+              <input type="hidden" name="tour_package" value="3 Nights Nile River Cruise from Aswan with Optional Abu Simbel">
               <input type="checkbox" name="botcheck" style="display:none" tabindex="-1" autocomplete="off">
 
               <div class="form-group"><label class="form-label"><i class="fas fa-user"></i> Full Name</label><input type="text" class="form-input" name="name" placeholder="Your full name" required></div>
@@ -464,10 +465,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
   <div class="related-img">
     <span class="related-duration">4 Nights</span>
     <span class="related-cities"><i class="fas fa-map-marker-alt"></i> Luxor · Aswan</span>
-    <img width="1024" height="683" loading="lazy" decoding="async" src="/assets/uploads/2026/07/Egypt-Nile-Cruise-019.jpg.webp" alt="4 Nights Nile River Cruise from Luxor Include Abu Simbel" onerror="this.style.display='none'">
+    <img width="1024" height="683" loading="lazy" decoding="async" src="/assets/uploads/2026/07/Egypt-Nile-Cruise-019.jpg.webp" alt="4 Nights Nile River Cruise from Luxor with Optional Abu Simbel" onerror="this.style.display='none'">
   </div>
   <div class="related-body">
-    <div class="related-title">4 Nights Nile River Cruise from Luxor Include Abu Simbel</div>
+    <div class="related-title">4 Nights Nile River Cruise from Luxor with Optional Abu Simbel</div>
     <div class="related-meta">
       <div class="related-price">$560<small>/person</small></div>
       <a href="/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/" class="related-link">View Details <i class="fas fa-arrow-right"></i></a>

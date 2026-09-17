@@ -331,10 +331,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
   <div class="related-img">
     <span class="related-duration">4 Nights</span>
     <span class="related-cities"><i class="fas fa-map-marker-alt"></i> Luxor · Aswan</span>
-    <img width="1024" height="683" loading="lazy" decoding="async" src="/assets/uploads/2026/07/Egypt-Nile-Cruise-019.jpg.webp" alt="4 Nights Nile River Cruise from Luxor Include Abu Simbel" onerror="this.style.display='none'">
+    <img width="1024" height="683" loading="lazy" decoding="async" src="/assets/uploads/2026/07/Egypt-Nile-Cruise-019.jpg.webp" alt="4 Nights Nile River Cruise from Luxor with Optional Abu Simbel" onerror="this.style.display='none'">
   </div>
   <div class="related-body">
-    <div class="related-title">4 Nights Nile River Cruise from Luxor Include Abu Simbel</div>
+    <div class="related-title">4 Nights Nile River Cruise from Luxor with Optional Abu Simbel</div>
     <div class="related-meta">
       <div class="related-price">$560<small>/person</small></div>
       <a href="/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/" class="related-link">View Details <i class="fas fa-arrow-right"></i></a>

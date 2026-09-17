@@ -109,6 +109,45 @@ EDITS = [
          'A 5-day Nile program from Luxor to Aswan with guided temple visits, onboard meals, and cruise '
          'accommodation.'),
 
+    # ---------------- FAQ answers (apply_faq.py only ADDS a missing tab, it does not rewrite one) ------
+    (P3, 'Yes. On day 2 you set off early with breakfast boxes and drive by private air-conditioned vehicle to '
+         'the temples of Ramses II and Queen Nefertari, returning to the ship for lunch.',
+         'No. Abu Simbel is an optional extra from $90 per person. If you add it, day 2 starts early with '
+         'breakfast boxes and a drive by private air-conditioned vehicle to the temples of Ramses II and Queen '
+         'Nefertari, back on board for lunch. If you skip it, you have a free morning on board in Aswan.'),
+    (P3, 'Three nights on a 5-star deluxe Nile cruise with the meals in the itinerary, the Abu Simbel '
+         'excursion, entrance fees, an Egyptologist guide, all transfers, and service charges and taxes. Tips '
+         'and personal expenses are extra.',
+         'Three nights on a 5-star deluxe Nile cruise with the meals in the itinerary, entrance fees to the '
+         'sites in the programme, an Egyptologist guide, all transfers, and service charges and taxes. The Abu '
+         'Simbel excursion is optional from $90 per person; tips and personal expenses are extra.'),
+    (P3, 'The High Dam, the Unfinished Obelisk and Philae Temple in Aswan, Abu Simbel, Kom Ombo and Edfu, then '
+         'the Valley of the Kings, Hatshepsut Temple, the Colossi of Memnon and Karnak in Luxor.',
+         'The High Dam, the Unfinished Obelisk and Philae Temple in Aswan, then Kom Ombo and Edfu, and the '
+         'Valley of the Kings, Hatshepsut Temple, the Colossi of Memnon and Karnak in Luxor. Abu Simbel can be '
+         'added as an optional excursion on day 2.'),
+    (P4, 'Yes. On day 4 you leave early with breakfast boxes and drive to the rock-cut temples of Ramses II and '
+         'Queen Nefertari, then return to the ship.',
+         'No. Abu Simbel is an optional extra from $90 per person. If you add it, day 4 starts early with '
+         'breakfast boxes and a drive to the rock-cut temples of Ramses II and Queen Nefertari, then back to '
+         'the ship. If you skip it, you have a free morning on board in Aswan.'),
+    (P4, 'Karnak and Luxor Temple by night, the Valley of the Kings, Hatshepsut Temple and the Colossi of '
+         "Memnon, Edfu by horse carriage, Kom Ombo, Abu Simbel, and Aswan's High Dam, Unfinished Obelisk "
+         'and Philae.',
+         'Karnak and Luxor Temple by night, the Valley of the Kings, Hatshepsut Temple and the Colossi of '
+         "Memnon, Edfu by horse carriage, Kom Ombo, and Aswan's High Dam, Unfinished Obelisk and Philae. "
+         'Abu Simbel is an optional excursion on day 4.'),
+    (P4, 'Four nights on a 5-star deluxe cruise with full board, the excursions and the Abu Simbel trip, '
+         'entrance fees, an Egyptologist guide, air-conditioned transfers, and service charges and taxes. Tips '
+         'and personal expenses are extra.',
+         'Four nights on a 5-star deluxe cruise with full board, the cruise excursions, entrance fees, an '
+         'Egyptologist guide, air-conditioned transfers, and service charges and taxes. The Abu Simbel '
+         'excursion is optional from $90 per person; tips and personal expenses are extra.'),
+    ('nile-cruises/5-days-nile-river-cruise-from-luxor-to-aswan/index.php',
+     'Not on this itinerary. If you want Abu Simbel, the 4-night cruise from Luxor includes it.',
+     'Not on this itinerary. You can add a private day tour from Aswan when the cruise ends, or take the '
+     '4-night cruise from Luxor, which offers Abu Simbel as an optional excursion from $90 per person.'),
+
     # ---------------- card descriptions on the listing pages ----------------
     ('index.php', 'Classic Aswan to Luxor Nile cruise with Abu Simbel, Kom Ombo, Edfu, and Luxor highlights.',
                   'Classic Aswan to Luxor Nile cruise with Kom Ombo, Edfu, and Luxor highlights, plus optional Abu Simbel.'),
@@ -130,6 +169,16 @@ EDITS = [
     ('search/index.php',
      'Take a 4-night Nile cruise from Luxor to Aswan including Abu Simbel, combining Luxor East and West Bank sightseeing, Edfu, Kom Ombo, the colossal temples of',
      'Take a 4-night Nile cruise from Luxor to Aswan combining Luxor East and West Bank sightseeing, Edfu, Kom Ombo, and Aswan highlights. Abu Simbel is optional,'),
+
+    # ---------------- the Sun Festival article (new_article.py never overwrites a live page) ----------
+    ('blog/abu-simbel-sun-festival-2026/index.php',
+     'Yes. Cruises that already include Abu Simbel, like the <a href="/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/">3-night cruise from Aswan</a> or the <a href="/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/">4-night cruise from Luxor</a>, can be timed around October 22 so the temple visit falls on the festival morning. Ask when booking so the itinerary lines up with the date.',
+     'Yes. Our <a href="/nile-cruises/3-nights-nile-cruise-from-aswan-including-abu-simbel/">3-night cruise from Aswan</a> and <a href="/nile-cruises/4-nights-nile-cruise-from-luxor-including-abu-simbel/">4-night cruise from Luxor</a> both offer Abu Simbel as an optional excursion, from $90 per person. Add it when you book and ask us to time the cruise so the temple visit falls on the festival morning of October 22.'),
+    ('blog/abu-simbel-sun-festival-2026/index.php',
+     'dateModified":"2026-09-16T12:00:00+00:00"', 'dateModified":"2026-09-17T12:00:00+00:00"'),
+    ('sitemap.xml',
+     '<loc>https://avicontravel.com/blog/abu-simbel-sun-festival-2026/</loc><lastmod>2026-09-16</lastmod>',
+     '<loc>https://avicontravel.com/blog/abu-simbel-sun-festival-2026/</loc><lastmod>2026-09-17</lastmod>'),
 
     # ---------------- llms.txt ----------------
     ('llms.txt', 'from $500 per person. Classic Aswan to Luxor Nile cruise package with Abu Simbel, Kom Ombo, Edfu, and Luxor highlights.',
@@ -157,15 +206,21 @@ def main(check):
 
     for f, old, new in EDITS:
         s = load(f)
-        if old not in s and (new in s if new else True):
+        # `new in s` also covers the inserts, whose `old` (the item the new one is placed before)
+        # is still there afterwards - checking only `old` would insert again on every run.
+        if (new and new in s) or old not in s:
             print('  = already done:', f, '|', (old[:60] if old else ''))
             continue
         n = s.count(old)
-        if n != 1:
-            print('::error:: %s occurrences in %s for %r' % (n, f, old[:70]))
+        if n == 0:
+            print('::error:: no occurrence in %s for %r' % (f, old[:70]))
             return 1
+        if n > 1:
+            # FAQ answers also sit in the page's JSON-LD; schema_products.py rebuilds it from the
+            # visible text anyway, so both copies are replaced.
+            print('  (%d copies) %s | %s' % (n, f, old[:50]))
         texts[f] = s.replace(old, new)
-        changed += 1
+        changed += n
 
     for f in FILES_FOR_NAMES:
         s = load(f)
